@@ -6,10 +6,14 @@
 display:inline-block;
 }*/
 
+/* Responsive class specifically for home page image. */
+
 .responsive {
-  width: 100%;
+  width: 40%;
   max-width: 585px;
   height: auto;
+  float: right;
+  margin-left: 8px;
 }
 
 .tab { margin-left: 30px; }
@@ -74,7 +78,14 @@ display:inline-block;
 
 }
 
+/* Text specs */
 
+.tspecs {
+font-size: 16px;
+float: left
+}
+
+/* No longer needed. Leaving left-half and right-half in case I ever need it in future. */
 .left-half {
   /* background-color: #ff9e2c; */
   position: absolute;
@@ -83,13 +94,15 @@ display:inline-block;
  font-size: 20px;
 }
 
+
+
 .right-half {
   position: absolute;
-  right: 0px;
+  right: 3px;
   top: 20x;
   width: 39%;
-}
 
+}
 
 
 </style>
@@ -97,11 +110,14 @@ display:inline-block;
 	<b href="#home">Hassan Abdallah</b>  
 	</div>
 	<head>
-	<section class="container">
-        <div class="left-half">
+	<section class="container"> 
         <article>
+	<img 
+	
+        height: auto;
+	src="./files/fractal1.png" alt="Fractal" width="500" height="500" class="responsive">
 	<h1>About Me</h1>
-	<body>
+	<body class=tspecs float: left>
 		<p class="tab">I am a Ph.D. student in Mathematics at <a href="https://clas.wayne.edu/math">Wayne State University</a> interested in algebraic topology and geometry. I am particularly drawn to problems in pure math that have implications for mathematical physics or data science. Previously, I completed a B.S. in Mathematics and M.A. in Applied Mathematics at Wayne State University, where I focused on topological data analysis. I have also worked on problems in machine learning and bioinformatics.<br><br> My CV can be found <a href="./files/cv.pdf">here</a>.<br><br>  </p>
 
 	</body>
@@ -125,15 +141,10 @@ display:inline-block;
     Arslanturk, D. Taatjes, L. Larsson, B. Jena, D. Gatti.</i> (2020) <br>Machine
     Learning: Science and Technology <a href="https://iopscience.iop.org/article/10.1088/2632-2153/aba8e8/pdf">1 045004</a></p></li>
 	</ol>
-	<p><br><br><br><br><br><br><br><br><br><br><br></p>
-        </div>
-	<div class="right-half">
+	<p><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
+
 	</article> 
-	<img 
-	max-width: 100%;
-        height: auto;
-	src="./files/fractal1.png" alt="Fractal" width="585" height="500" class="responsive">
-	</div>
+	
 	
 </html>
 
