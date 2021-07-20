@@ -6,12 +6,22 @@
 display:inline-block;
 }*/
 
+.responsive {
+  width: 100%;
+  max-width: 585px;
+  height: auto;
+}
+
 .tab { margin-left: 30px; }
 
 .topnav {
   background-color: #333;
   /* background-color: #0099cc; */
   overflow: hidden;
+    width: 100%;
+    padding: 0px 0px;
+    margin 0px;
+   height: auto;
 }
 
 /* Style the links inside the navigation bar */
@@ -33,6 +43,11 @@ display:inline-block;
   padding: 8px 46px;
   text-decoration: none;
   font-size: 30px;
+    width: 100%;
+  height: auto;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
@@ -50,9 +65,15 @@ display:inline-block;
 
 /* Pattern styles */
 .container {
-  display: table;
+ /* display: table; */
   width: 100%;
+  height: auto;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+
 }
+
 
 .left-half {
   /* background-color: #ff9e2c; */
@@ -68,6 +89,7 @@ display:inline-block;
   top: 20x;
   width: 39%;
 }
+
 
 
 </style>
@@ -107,7 +129,10 @@ display:inline-block;
         </div>
 	<div class="right-half">
 	</article> 
-	<img src="./files/fractal1.png" alt="Fractal" width="585" height="500">
+	<img 
+	max-width: 100%;
+        height: auto;
+	src="./files/fractal1.png" alt="Fractal" width="585" height="500" class="responsive">
 	</div>
 	
 </html>
