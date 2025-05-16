@@ -1,0 +1,15 @@
+{
+  "rings": [
+    { "name": "S0", "path": "S0_AdamsSS.db", "deduce": "off", "plot_factors": [[[0, 1, 0], [1, 1, 0], [3, 1, 0]], [[7, 1, 0], [8, 3, 0], [9, 5, 0], [11, 5, 0], [14, 4, 0], [20, 4, 0]]] }
+  ],
+  "modules": [
+    { "name": "testing", "path": "testing_AdamsSS.db", "over": "S0", "deduce": "off" }
+  ],
+  "maps": [
+  ],
+  "maps_v2": [
+  ],
+  "cofseqs": [
+  ],
+  "dir_plot": "testing"
+}
