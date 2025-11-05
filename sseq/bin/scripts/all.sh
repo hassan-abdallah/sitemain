@@ -17,7 +17,7 @@ scripts/export_map.sh $degree
 mv *.db $diagram
 
 # Then, initialize the spectral sequence and deduce
-yes | ./ss reset_ss $diagram
+yes | ./ss reset $diagram
 scripts/deduce.sh $degree $diagram
 
 # Finally, output the results

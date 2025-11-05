@@ -16,11 +16,9 @@ scripts/export_map.sh $degree
 
 mv *.db $diagram
 
-#./ss add_diff testing 9 0 2 0 0 diag
-
 # Then, initialize the spectral sequence and deduce
 yes | ./ss reset $diagram
-#scripts/deduce.sh $degree $diagram
+scripts/deduce.sh $degree $diagram
 
 # Finally, output the results
 if [ ! -d webpages/mix ]; then

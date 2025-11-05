@@ -1,0 +1,127 @@
+{
+  "rings": [
+    {
+      "name": "S0",
+      "path": "S0_AdamsSS.db",
+      "deduce": "on",
+      "plot_factors": [
+        [
+          [0, 1, 0],
+          [1, 1, 0],
+          [3, 1, 0]
+        ],
+        [
+          [7, 1, 0],
+          [8, 3, 0],
+          [9, 5, 0],
+          [11, 5, 0],
+          [14, 4, 0],
+          [20, 4, 0]
+        ]
+      ]
+    }
+  ],
+  "modules": [
+    { "name": "C2", "path": "C2_AdamsSS.db", "over": "S0", "deduce": "on" },
+    { "name": "Ceta", "path": "Ceta_AdamsSS.db", "over": "S0", "deduce": "on" },
+    { "name": "Cnu", "path": "Cnu_AdamsSS.db", "over": "S0", "deduce": "on" },
+    { "name": "Csigma", "path": "Csigma_AdamsSS.db", "over": "S0", "deduce": "on" },
+    { "name": "mo9", "path": "mo9_AdamsSS.db", "over": "S0", "deduce": "on" }
+  ],
+  "maps": [
+    {
+      "name": "C2__S0",
+      "path": "map_AdamsSS_C2__S0.db",
+      "type": "top_cell",
+      "from": "C2",
+      "to": "S0",
+      "sus": 1,
+      "t_max": 200
+    },
+    {
+      "name": "Ceta__S0",
+      "path": "map_AdamsSS_Ceta__S0.db",
+      "type": "top_cell",
+      "from": "Ceta",
+      "to": "S0",
+      "sus": 2,
+      "t_max": 200
+    },
+    {
+      "name": "Cnu__S0",
+      "path": "map_AdamsSS_Cnu__S0.db",
+      "type": "top_cell",
+      "from": "Cnu",
+      "to": "S0",
+      "sus": 4,
+      "t_max": 200
+    },
+    {
+      "name": "Csigma__S0",
+      "path": "map_AdamsSS_Csigma__S0.db",
+      "type": "top_cell",
+      "from": "Csigma",
+      "to": "S0",
+      "sus": 8,
+      "t_max": 200
+    }
+    //{
+    //  "name": "C2__mo9",
+    //  "path": "map_AdamsSS_C2__mo9.db",
+     // "type": "top_cell",
+     // "from": "C2",
+     // "to": "mo9",
+     // "sus": 1,
+     // "t_max": 200
+   // }
+  ],
+  "maps_v2": [
+    { "name": "S0__C2", "factor": [0, 0, 0], "from": "S0", "to": "C2" },
+    { "name": "S0__Ceta", "factor": [0, 0, 0], "from": "S0", "to": "Ceta" },
+    { "name": "S0__Cnu", "factor": [0, 0, 0], "from": "S0", "to": "Cnu" },
+    { "name": "S0__Csigma", "factor": [0, 0, 0], "from": "S0", "to": "Csigma" },
+    { "name": "S0__S0_by_2", "factor": [0, 1, 0], "from": "S0", "to": "S0" },
+    { "name": "S0__S0_by_eta", "factor": [1, 1, 0], "from": "S0", "to": "S0" },
+    { "name": "S0__S0_by_nu", "factor": [3, 1, 0], "from": "S0", "to": "S0" },
+    { "name": "S0__S0_by_sigma", "factor": [7, 1, 0], "from": "S0", "to": "S0" }
+  ],
+  "cofseqs": [
+    {
+      "name": "S0__C2__S0",
+      "path": "cofseq_S0__C2__S0.db",
+      "i": "S0__C2",
+      "q": "C2__S0",
+      "d": "S0__S0_by_2",
+      "deduce": "on"
+    },
+    {
+      "name": "S0__Ceta__S0",
+      "path": "cofseq_S0__Ceta__S0.db",
+      "i": "S0__Ceta",
+      "q": "Ceta__S0",
+      "d": "S0__S0_by_eta",
+      "deduce": "on"
+    },
+    {
+      "name": "S0__Cnu__S0",
+      "path": "cofseq_S0__Cnu__S0.db",
+      "i": "S0__Cnu",
+      "q": "Cnu__S0",
+      "d": "S0__S0_by_nu",
+      "deduce": "on"
+    },
+    {
+      "name": "S0__Csigma__S0",
+      "path": "cofseq_S0__Csigma__S0.db",
+      "i": "S0__Csigma",
+      "q": "Csigma__S0",
+      "d": "S0__S0_by_sigma",
+      "deduce": "on"
+    }
+  ],
+  "cofseqs_to_add": [],
+  "commutativity": [],
+  "log": "deduce.log.db",
+  "dir_plot": "mix",
+  "dir_website_ss": "webpages"
+}

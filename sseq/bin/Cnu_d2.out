@@ -1,70 +1,70 @@
 t=2 s=2 threadsLeft=0
-t=2 time=0.000179
+t=2 time=0.000151
 t=3 s=3 threadsLeft=0
-t=3 time=0.000342
+t=3 time=0.000325
 t=4 s=4 threadsLeft=1
 t=4 s=2 threadsLeft=0
-t=4 time=0.000298
+t=4 time=0.000349
 t=5 s=5 threadsLeft=0
-t=5 time=0.000283
+t=5 time=0.000321
 t=6 s=6 threadsLeft=0
-t=6 time=0.000282
+t=6 time=0.000509
 t=7 s=7 threadsLeft=1
 t=7 s=3 threadsLeft=0
-t=7 time=0.00031
+t=7 time=0.000368
 t=8 s=8 threadsLeft=2
 t=8 s=4 threadsLeft=1
 t=8 s=2 threadsLeft=0
-t=8 time=0.000377
+t=8 time=0.000404
 t=9 s=9 threadsLeft=3
-t=9 s=2 threadsLeft=2
-t=9 s=5 threadsLeft=1
+t=9 s=5 threadsLeft=2
+t=9 s=2 threadsLeft=1
 t=9 s=2 threadsLeft=0
-t=9 time=0.000377
+t=9 time=0.000417
 t=10 s=10 threadsLeft=4
 t=10 s=6 threadsLeft=3
 t=10 s=2 threadsLeft=2
 t=10 s=3 threadsLeft=1
 t=10 s=3 threadsLeft=0
-t=10 time=0.000391
+t=10 time=0.000405
 t=11 s=11 threadsLeft=3
 t=11 s=7 threadsLeft=2
 t=11 s=4 threadsLeft=1
 t=11 s=3 threadsLeft=0
-t=11 time=0.000452
+t=11 time=0.000437
 t=12 s=12 threadsLeft=1
 t=12 s=8 threadsLeft=0
-t=12 time=0.000375
+t=12 time=0.000368
 t=13 s=13 threadsLeft=3
 t=13 s=9 threadsLeft=2
 t=13 s=2 threadsLeft=1
 t=13 s=4 threadsLeft=0
-t=13 time=0.000418
+t=13 time=0.000343
 t=14 s=14 threadsLeft=4
 t=14 s=10 threadsLeft=3
 t=14 s=2 threadsLeft=2
 t=14 s=5 threadsLeft=1
 t=14 s=3 threadsLeft=0
-t=14 time=0.000532
+t=14 time=0.000383
 t=15 s=15 threadsLeft=3
 t=15 s=11 threadsLeft=2
 t=15 s=3 threadsLeft=1
 t=15 s=4 threadsLeft=0
-t=15 time=0.000454
+t=15 time=0.00037
 t=16 s=16 threadsLeft=5
 t=16 s=12 threadsLeft=4
 t=16 s=6 threadsLeft=3
 t=16 s=2 threadsLeft=2
 t=16 s=3 threadsLeft=1
 t=16 s=5 threadsLeft=0
-t=16 time=0.000531
+t=16 time=0.00043
 t=17 s=17 threadsLeft=5
 t=17 s=13 threadsLeft=4
 t=17 s=2 threadsLeft=3
 t=17 s=6 threadsLeft=2
 t=17 s=3 threadsLeft=1
 t=17 s=4 threadsLeft=0
-t=17 time=0.000522
+t=17 time=0.000423
 t=18 s=18 threadsLeft=6
 t=18 s=14 threadsLeft=5
 t=18 s=7 threadsLeft=4
@@ -72,27 +72,27 @@ t=18 s=5 threadsLeft=3
 t=18 s=2 threadsLeft=2
 t=18 s=4 threadsLeft=1
 t=18 s=3 threadsLeft=0
-t=18 time=0.000629
+t=18 time=0.000478
 t=19 s=19 threadsLeft=3
 t=19 s=15 threadsLeft=2
 t=19 s=5 threadsLeft=1
 t=19 s=4 threadsLeft=0
-t=19 time=0.000581
+t=19 time=0.000423
 t=20 s=20 threadsLeft=6
 t=20 s=16 threadsLeft=5
-t=20 s=6 threadsLeft=4
-t=20 s=2 threadsLeft=3
-t=20 s=5 threadsLeft=2
+t=20 s=2 threadsLeft=4
+t=20 s=6 threadsLeft=3
+t=20 s=3 threadsLeft=2
 t=20 s=5 threadsLeft=1
-t=20 s=3 threadsLeft=0
-t=20 time=0.000596
+t=20 s=5 threadsLeft=0
+t=20 time=0.000562
 t=21 s=21 threadsLeft=5
 t=21 s=17 threadsLeft=4
 t=21 s=6 threadsLeft=3
 t=21 s=6 threadsLeft=2
 t=21 s=3 threadsLeft=1
 t=21 s=4 threadsLeft=0
-t=21 time=0.000568
+t=21 time=0.00049
 t=22 s=22 threadsLeft=7
 t=22 s=18 threadsLeft=6
 t=22 s=7 threadsLeft=5
@@ -101,34 +101,34 @@ t=22 s=2 threadsLeft=3
 t=22 s=6 threadsLeft=2
 t=22 s=3 threadsLeft=1
 t=22 s=4 threadsLeft=0
-t=22 time=0.000647
+t=22 time=0.000563
 t=23 s=23 threadsLeft=5
 t=23 s=19 threadsLeft=4
 t=23 s=7 threadsLeft=3
 t=23 s=8 threadsLeft=2
 t=23 s=5 threadsLeft=1
 t=23 s=4 threadsLeft=0
-t=23 time=0.000667
+t=23 time=0.000612
 t=24 s=24 threadsLeft=5
 t=24 s=20 threadsLeft=4
 t=24 s=5 threadsLeft=3
 t=24 s=3 threadsLeft=2
 t=24 s=5 threadsLeft=1
 t=24 s=4 threadsLeft=0
-t=24 time=0.000628
+t=24 time=0.000672
 t=25 s=25 threadsLeft=4
 t=25 s=21 threadsLeft=3
 t=25 s=8 threadsLeft=2
 t=25 s=6 threadsLeft=1
 t=25 s=3 threadsLeft=0
-t=25 time=0.000594
+t=25 time=0.000656
 t=26 s=26 threadsLeft=5
 t=26 s=22 threadsLeft=4
 t=26 s=9 threadsLeft=3
 t=26 s=7 threadsLeft=2
 t=26 s=6 threadsLeft=1
 t=26 s=4 threadsLeft=0
-t=26 time=0.000918
+t=26 time=0.001045
 t=27 s=27 threadsLeft=6
 t=27 s=23 threadsLeft=5
 t=27 s=8 threadsLeft=4
@@ -136,20 +136,20 @@ t=27 s=7 threadsLeft=3
 t=27 s=5 threadsLeft=2
 t=27 s=6 threadsLeft=1
 t=27 s=4 threadsLeft=0
-t=27 time=0.000958
+t=27 time=0.000874
 t=28 s=28 threadsLeft=5
 t=28 s=24 threadsLeft=4
 t=28 s=10 threadsLeft=3
 t=28 s=9 threadsLeft=2
 t=28 s=7 threadsLeft=1
 t=28 s=3 threadsLeft=0
-t=28 time=0.000758
+t=28 time=0.000685
 t=29 s=29 threadsLeft=4
 t=29 s=25 threadsLeft=3
 t=29 s=10 threadsLeft=2
 t=29 s=8 threadsLeft=1
 t=29 s=5 threadsLeft=0
-t=29 time=0.001143
+t=29 time=0.00111
 t=30 s=30 threadsLeft=8
 t=30 s=26 threadsLeft=7
 t=30 s=11 threadsLeft=6
@@ -159,349 +159,52 @@ t=30 s=8 threadsLeft=3
 t=30 s=5 threadsLeft=2
 t=30 s=7 threadsLeft=1
 t=30 s=4 threadsLeft=0
-t=30 time=0.001314
+t=30 time=0.001225
 t=31 s=31 threadsLeft=4
 t=31 s=27 threadsLeft=3
 t=31 s=9 threadsLeft=2
 t=31 s=8 threadsLeft=1
 t=31 s=4 threadsLeft=0
-t=31 time=0.001317
+t=31 time=0.001194
 t=32 s=32 threadsLeft=5
 t=32 s=28 threadsLeft=4
 t=32 s=2 threadsLeft=3
 t=32 s=10 threadsLeft=2
 t=32 s=9 threadsLeft=1
 t=32 s=9 threadsLeft=0
-t=32 time=0.000656
-t=33 s=33 threadsLeft=9
-t=33 s=29 threadsLeft=8
-t=33 s=2 threadsLeft=7
-t=33 s=6 threadsLeft=6
-t=33 s=10 threadsLeft=5
-t=33 s=7 threadsLeft=4
-t=33 s=8 threadsLeft=3
-t=33 s=10 threadsLeft=2
-t=33 s=3 threadsLeft=1
-t=33 s=5 threadsLeft=0
-t=33 time=0.001729
-t=34 s=34 threadsLeft=8
-t=34 s=30 threadsLeft=7
-t=34 s=2 threadsLeft=6
-t=34 s=11 threadsLeft=5
-t=34 s=11 threadsLeft=4
-t=34 s=10 threadsLeft=3
-t=34 s=3 threadsLeft=2
-t=34 s=3 threadsLeft=1
-t=34 s=4 threadsLeft=0
-t=34 time=0.001973
-t=35 s=35 threadsLeft=5
-t=35 s=31 threadsLeft=4
-t=35 s=11 threadsLeft=3
-t=35 s=12 threadsLeft=2
-t=35 s=4 threadsLeft=1
-t=35 s=5 threadsLeft=0
-t=35 time=0.002411
-t=36 s=36 threadsLeft=12
-t=36 s=32 threadsLeft=11
-t=36 s=9 threadsLeft=10
-t=36 s=7 threadsLeft=9
-t=36 s=2 threadsLeft=8
-t=36 s=6 threadsLeft=7
-t=36 s=8 threadsLeft=6
-t=36 s=9 threadsLeft=5
-t=36 s=3 threadsLeft=4
-t=36 s=5 threadsLeft=3
-t=36 s=6 threadsLeft=2
-t=36 s=5 threadsLeft=1
-t=36 s=4 threadsLeft=0
-t=36 time=0.00263
-t=37 s=37 threadsLeft=7
-t=37 s=33 threadsLeft=6
-t=37 s=12 threadsLeft=5
-t=37 s=10 threadsLeft=4
-t=37 s=3 threadsLeft=3
-t=37 s=6 threadsLeft=2
-t=37 s=7 threadsLeft=1
-t=37 s=4 threadsLeft=0
-t=37 time=0.002942
-t=38 s=38 threadsLeft=11
-t=38 s=34 threadsLeft=10
-t=38 s=2 threadsLeft=9
-t=38 s=13 threadsLeft=8
-t=38 s=11 threadsLeft=7
-t=38 s=10 threadsLeft=6
-t=38 s=7 threadsLeft=5
-t=38 s=3 threadsLeft=4
-t=38 s=8 threadsLeft=3
-t=38 s=6 threadsLeft=2
-t=38 s=5 threadsLeft=1
-t=38 s=4 threadsLeft=0
-t=38 time=0.004407
-t=39 s=39 threadsLeft=11
-t=39 s=35 threadsLeft=10
-t=39 s=7 threadsLeft=9
-t=39 s=9 threadsLeft=8
-t=39 s=8 threadsLeft=7
-t=39 s=12 threadsLeft=6
-t=39 s=11 threadsLeft=5
-t=39 s=10 threadsLeft=4
-t=39 s=8 threadsLeft=3
-t=39 s=9 threadsLeft=2
-t=39 s=4 threadsLeft=1
-t=39 s=5 threadsLeft=0
-t=39 time=0.005261
-t=40 s=40 threadsLeft=9
-t=40 s=36 threadsLeft=8
-t=40 s=14 threadsLeft=7
-t=40 s=2 threadsLeft=6
-t=40 s=13 threadsLeft=5
-t=40 s=11 threadsLeft=4
-t=40 s=9 threadsLeft=3
-t=40 s=3 threadsLeft=2
-t=40 s=10 threadsLeft=1
-t=40 s=5 threadsLeft=0
-t=40 time=0.004772
-t=41 s=41 threadsLeft=10
-t=41 s=37 threadsLeft=9
-t=41 s=14 threadsLeft=8
-t=41 s=12 threadsLeft=7
-t=41 s=10 threadsLeft=6
-t=41 s=11 threadsLeft=5
-t=41 s=3 threadsLeft=4
-t=41 s=3 threadsLeft=3
-t=41 s=7 threadsLeft=2
-t=41 s=6 threadsLeft=1
-t=41 s=4 threadsLeft=0
-t=41 time=0.004887
-t=42 s=42 threadsLeft=19
-t=42 s=38 threadsLeft=18
-t=42 s=15 threadsLeft=17
-t=42 s=8 threadsLeft=16
-t=42 s=10 threadsLeft=15
-t=42 s=12 threadsLeft=14
-t=42 s=7 threadsLeft=13
-t=42 s=13 threadsLeft=12
-t=42 s=9 threadsLeft=11
-t=42 s=11 threadsLeft=10
-t=42 s=6 threadsLeft=9
-t=42 s=3 threadsLeft=8
-t=42 s=7 threadsLeft=7
-t=42 s=8 threadsLeft=6
-t=42 s=4 threadsLeft=5
-t=42 s=6 threadsLeft=4
-t=42 s=4 threadsLeft=3
-t=42 s=5 threadsLeft=2
-t=42 s=4 threadsLeft=1
-t=42 s=5 threadsLeft=0
-t=42 time=0.009329
-[38;2;000;128;000mTime: 0.076412s (2025-04-07 00:44:25)
-[0mt=2 s=2 threadsLeft=0
-t=2 time=0.000186
-t=3 s=3 threadsLeft=0
-t=3 time=0.00038
-t=4 s=4 threadsLeft=1
-t=4 s=2 threadsLeft=0
-t=4 time=0.000348
-t=5 s=5 threadsLeft=0
-t=5 time=0.000307
-t=6 s=6 threadsLeft=0
-t=6 time=0.000263
-t=7 s=7 threadsLeft=1
-t=7 s=3 threadsLeft=0
-t=7 time=0.000281
-t=8 s=8 threadsLeft=2
-t=8 s=2 threadsLeft=1
-t=8 s=4 threadsLeft=0
-t=8 time=0.000318
-t=9 s=9 threadsLeft=3
-t=9 s=5 threadsLeft=2
-t=9 s=2 threadsLeft=1
-t=9 s=2 threadsLeft=0
-t=9 time=0.000343
-t=10 s=10 threadsLeft=4
-t=10 s=6 threadsLeft=3
-t=10 s=3 threadsLeft=2
-t=10 s=2 threadsLeft=1
-t=10 s=3 threadsLeft=0
-t=10 time=0.000393
-t=11 s=11 threadsLeft=3
-t=11 s=7 threadsLeft=2
-t=11 s=3 threadsLeft=1
-t=11 s=4 threadsLeft=0
-t=11 time=0.00037
-t=12 s=12 threadsLeft=1
-t=12 s=8 threadsLeft=0
-t=12 time=0.000291
-t=13 s=13 threadsLeft=3
-t=13 s=9 threadsLeft=2
-t=13 s=2 threadsLeft=1
-t=13 s=4 threadsLeft=0
-t=13 time=0.00031
-t=14 s=14 threadsLeft=4
-t=14 s=10 threadsLeft=3
-t=14 s=2 threadsLeft=2
-t=14 s=5 threadsLeft=1
-t=14 s=3 threadsLeft=0
-t=14 time=0.000361
-t=15 s=15 threadsLeft=3
-t=15 s=11 threadsLeft=2
-t=15 s=3 threadsLeft=1
-t=15 s=4 threadsLeft=0
-t=15 time=0.000369
-t=16 s=16 threadsLeft=5
-t=16 s=12 threadsLeft=4
-t=16 s=6 threadsLeft=3
-t=16 s=2 threadsLeft=2
-t=16 s=3 threadsLeft=1
-t=16 s=5 threadsLeft=0
-t=16 time=0.000433
-t=17 s=17 threadsLeft=5
-t=17 s=13 threadsLeft=4
-t=17 s=2 threadsLeft=3
-t=17 s=6 threadsLeft=2
-t=17 s=4 threadsLeft=1
-t=17 s=3 threadsLeft=0
-t=17 time=0.000417
-t=18 s=18 threadsLeft=6
-t=18 s=14 threadsLeft=5
-t=18 s=7 threadsLeft=4
-t=18 s=2 threadsLeft=3
-t=18 s=5 threadsLeft=2
-t=18 s=4 threadsLeft=1
-t=18 s=3 threadsLeft=0
-t=18 time=0.000478
-t=19 s=19 threadsLeft=3
-t=19 s=15 threadsLeft=2
-t=19 s=5 threadsLeft=1
-t=19 s=4 threadsLeft=0
-t=19 time=0.000407
-t=20 s=20 threadsLeft=6
-t=20 s=16 threadsLeft=5
-t=20 s=2 threadsLeft=4
-t=20 s=5 threadsLeft=3
-t=20 s=6 threadsLeft=2
-t=20 s=5 threadsLeft=1
-t=20 s=3 threadsLeft=0
-t=20 time=0.000505
-t=21 s=21 threadsLeft=5
-t=21 s=17 threadsLeft=4
-t=21 s=6 threadsLeft=3
-t=21 s=6 threadsLeft=2
-t=21 s=3 threadsLeft=1
-t=21 s=4 threadsLeft=0
-t=21 time=0.000522
-t=22 s=22 threadsLeft=7
-t=22 s=18 threadsLeft=6
-t=22 s=2 threadsLeft=5
-t=22 s=7 threadsLeft=4
-t=22 s=7 threadsLeft=3
-t=22 s=6 threadsLeft=2
-t=22 s=3 threadsLeft=1
-t=22 s=4 threadsLeft=0
-t=22 time=0.000655
-t=23 s=23 threadsLeft=5
-t=23 s=19 threadsLeft=4
-t=23 s=7 threadsLeft=3
-t=23 s=8 threadsLeft=2
-t=23 s=5 threadsLeft=1
-t=23 s=4 threadsLeft=0
-t=23 time=0.000695
-t=24 s=24 threadsLeft=5
-t=24 s=20 threadsLeft=4
-t=24 s=5 threadsLeft=3
-t=24 s=3 threadsLeft=2
-t=24 s=5 threadsLeft=1
-t=24 s=4 threadsLeft=0
-t=24 time=0.000731
-t=25 s=25 threadsLeft=4
-t=25 s=21 threadsLeft=3
-t=25 s=8 threadsLeft=2
-t=25 s=6 threadsLeft=1
-t=25 s=3 threadsLeft=0
-t=25 time=0.000669
-t=26 s=26 threadsLeft=5
-t=26 s=22 threadsLeft=4
-t=26 s=9 threadsLeft=3
-t=26 s=7 threadsLeft=2
-t=26 s=6 threadsLeft=1
-t=26 s=4 threadsLeft=0
-t=26 time=0.00106
-t=27 s=27 threadsLeft=6
-t=27 s=23 threadsLeft=5
-t=27 s=8 threadsLeft=4
-t=27 s=7 threadsLeft=3
-t=27 s=6 threadsLeft=2
-t=27 s=5 threadsLeft=1
-t=27 s=4 threadsLeft=0
-t=27 time=0.000889
-t=28 s=28 threadsLeft=5
-t=28 s=24 threadsLeft=4
-t=28 s=10 threadsLeft=3
-t=28 s=9 threadsLeft=2
-t=28 s=3 threadsLeft=1
-t=28 s=7 threadsLeft=0
-t=28 time=0.000664
-t=29 s=29 threadsLeft=4
-t=29 s=25 threadsLeft=3
-t=29 s=10 threadsLeft=2
-t=29 s=8 threadsLeft=1
-t=29 s=5 threadsLeft=0
-t=29 time=0.00105
-t=30 s=30 threadsLeft=8
-t=30 s=26 threadsLeft=7
-t=30 s=11 threadsLeft=6
-t=30 s=8 threadsLeft=5
-t=30 s=6 threadsLeft=4
-t=30 s=9 threadsLeft=3
-t=30 s=5 threadsLeft=2
-t=30 s=7 threadsLeft=1
-t=30 s=4 threadsLeft=0
-t=30 time=0.001176
-t=31 s=31 threadsLeft=4
-t=31 s=27 threadsLeft=3
-t=31 s=9 threadsLeft=2
-t=31 s=8 threadsLeft=1
-t=31 s=4 threadsLeft=0
-t=31 time=0.001227
-t=32 s=32 threadsLeft=5
-t=32 s=28 threadsLeft=4
-t=32 s=2 threadsLeft=3
-t=32 s=10 threadsLeft=2
-t=32 s=9 threadsLeft=1
-t=32 s=9 threadsLeft=0
-t=32 time=0.000523
+t=32 time=0.000496
 t=33 s=33 threadsLeft=9
 t=33 s=29 threadsLeft=8
 t=33 s=2 threadsLeft=7
 t=33 s=10 threadsLeft=6
-t=33 s=6 threadsLeft=5
-t=33 s=7 threadsLeft=4
+t=33 s=7 threadsLeft=5
+t=33 s=8 threadsLeft=4
 t=33 s=10 threadsLeft=3
-t=33 s=8 threadsLeft=2
+t=33 s=6 threadsLeft=2
 t=33 s=3 threadsLeft=1
 t=33 s=5 threadsLeft=0
 t=33 time=0.001748
 t=34 s=34 threadsLeft=8
 t=34 s=30 threadsLeft=7
-t=34 s=2 threadsLeft=6
-t=34 s=11 threadsLeft=5
+t=34 s=11 threadsLeft=6
+t=34 s=2 threadsLeft=5
 t=34 s=11 threadsLeft=4
 t=34 s=10 threadsLeft=3
 t=34 s=3 threadsLeft=2
 t=34 s=3 threadsLeft=1
 t=34 s=4 threadsLeft=0
-t=34 time=0.001947
+t=34 time=0.001965
 t=35 s=35 threadsLeft=5
 t=35 s=31 threadsLeft=4
 t=35 s=11 threadsLeft=3
 t=35 s=12 threadsLeft=2
 t=35 s=4 threadsLeft=1
 t=35 s=5 threadsLeft=0
-t=35 time=0.002349
+t=35 time=0.00233
 t=36 s=36 threadsLeft=12
 t=36 s=32 threadsLeft=11
-t=36 s=9 threadsLeft=10
-t=36 s=7 threadsLeft=9
+t=36 s=7 threadsLeft=10
+t=36 s=9 threadsLeft=9
 t=36 s=2 threadsLeft=8
 t=36 s=6 threadsLeft=7
 t=36 s=8 threadsLeft=6
@@ -511,7 +214,7 @@ t=36 s=5 threadsLeft=3
 t=36 s=6 threadsLeft=2
 t=36 s=5 threadsLeft=1
 t=36 s=4 threadsLeft=0
-t=36 time=0.002559
+t=36 time=0.002462
 t=37 s=37 threadsLeft=7
 t=37 s=33 threadsLeft=6
 t=37 s=12 threadsLeft=5
@@ -520,7 +223,7 @@ t=37 s=3 threadsLeft=3
 t=37 s=6 threadsLeft=2
 t=37 s=7 threadsLeft=1
 t=37 s=4 threadsLeft=0
-t=37 time=0.003074
+t=37 time=0.00315
 t=38 s=38 threadsLeft=11
 t=38 s=34 threadsLeft=10
 t=38 s=2 threadsLeft=9
@@ -533,31 +236,31 @@ t=38 s=8 threadsLeft=3
 t=38 s=6 threadsLeft=2
 t=38 s=4 threadsLeft=1
 t=38 s=5 threadsLeft=0
-t=38 time=0.00463
+t=38 time=0.004472
 t=39 s=39 threadsLeft=11
 t=39 s=35 threadsLeft=10
-t=39 s=8 threadsLeft=9
+t=39 s=9 threadsLeft=9
 t=39 s=7 threadsLeft=8
-t=39 s=9 threadsLeft=7
-t=39 s=11 threadsLeft=6
-t=39 s=12 threadsLeft=5
+t=39 s=8 threadsLeft=7
+t=39 s=12 threadsLeft=6
+t=39 s=11 threadsLeft=5
 t=39 s=10 threadsLeft=4
 t=39 s=8 threadsLeft=3
 t=39 s=9 threadsLeft=2
 t=39 s=4 threadsLeft=1
 t=39 s=5 threadsLeft=0
-t=39 time=0.005659
+t=39 time=0.00536
 t=40 s=40 threadsLeft=9
 t=40 s=36 threadsLeft=8
-t=40 s=2 threadsLeft=7
-t=40 s=14 threadsLeft=6
+t=40 s=14 threadsLeft=7
+t=40 s=2 threadsLeft=6
 t=40 s=13 threadsLeft=5
 t=40 s=11 threadsLeft=4
 t=40 s=9 threadsLeft=3
 t=40 s=3 threadsLeft=2
 t=40 s=10 threadsLeft=1
 t=40 s=5 threadsLeft=0
-t=40 time=0.005123
+t=40 time=0.004775
 t=41 s=41 threadsLeft=10
 t=41 s=37 threadsLeft=9
 t=41 s=14 threadsLeft=8
@@ -569,16 +272,16 @@ t=41 s=3 threadsLeft=3
 t=41 s=7 threadsLeft=2
 t=41 s=6 threadsLeft=1
 t=41 s=4 threadsLeft=0
-t=41 time=0.005088
+t=41 time=0.00506
 t=42 s=42 threadsLeft=19
 t=42 s=38 threadsLeft=18
-t=42 s=10 threadsLeft=17
-t=42 s=7 threadsLeft=16
-t=42 s=15 threadsLeft=15
-t=42 s=8 threadsLeft=14
-t=42 s=9 threadsLeft=13
+t=42 s=15 threadsLeft=17
+t=42 s=9 threadsLeft=16
+t=42 s=8 threadsLeft=15
+t=42 s=7 threadsLeft=14
+t=42 s=12 threadsLeft=13
 t=42 s=13 threadsLeft=12
-t=42 s=12 threadsLeft=11
+t=42 s=10 threadsLeft=11
 t=42 s=11 threadsLeft=10
 t=42 s=6 threadsLeft=9
 t=42 s=3 threadsLeft=8
@@ -590,7 +293,7 @@ t=42 s=4 threadsLeft=3
 t=42 s=5 threadsLeft=2
 t=42 s=4 threadsLeft=1
 t=42 s=5 threadsLeft=0
-t=42 time=0.00903
+t=42 time=0.008914
 t=43 s=43 threadsLeft=8
 t=43 s=39 threadsLeft=7
 t=43 s=13 threadsLeft=6
@@ -600,27 +303,27 @@ t=43 s=9 threadsLeft=3
 t=43 s=4 threadsLeft=2
 t=43 s=6 threadsLeft=1
 t=43 s=5 threadsLeft=0
-t=43 time=0.010919
+t=43 time=0.010642
 t=44 s=44 threadsLeft=13
 t=44 s=40 threadsLeft=12
 t=44 s=14 threadsLeft=11
 t=44 s=2 threadsLeft=10
 t=44 s=13 threadsLeft=9
 t=44 s=13 threadsLeft=8
-t=44 s=9 threadsLeft=7
-t=44 s=10 threadsLeft=6
+t=44 s=10 threadsLeft=7
+t=44 s=9 threadsLeft=6
 t=44 s=3 threadsLeft=5
 t=44 s=7 threadsLeft=4
 t=44 s=7 threadsLeft=3
 t=44 s=6 threadsLeft=2
 t=44 s=4 threadsLeft=1
 t=44 s=5 threadsLeft=0
-t=44 time=0.009567
+t=44 time=0.009053
 t=45 s=45 threadsLeft=16
 t=45 s=41 threadsLeft=15
-t=45 s=8 threadsLeft=14
+t=45 s=9 threadsLeft=14
 t=45 s=14 threadsLeft=13
-t=45 s=9 threadsLeft=12
+t=45 s=8 threadsLeft=12
 t=45 s=10 threadsLeft=11
 t=45 s=11 threadsLeft=10
 t=45 s=14 threadsLeft=9
@@ -633,7 +336,7 @@ t=45 s=7 threadsLeft=3
 t=45 s=5 threadsLeft=2
 t=45 s=4 threadsLeft=1
 t=45 s=5 threadsLeft=0
-t=45 time=0.016093
+t=45 time=0.015514
 t=46 s=46 threadsLeft=11
 t=46 s=42 threadsLeft=10
 t=46 s=15 threadsLeft=9
@@ -646,7 +349,7 @@ t=46 s=6 threadsLeft=3
 t=46 s=5 threadsLeft=2
 t=46 s=4 threadsLeft=1
 t=46 s=6 threadsLeft=0
-t=46 time=0.015835
+t=46 time=0.015301
 t=47 s=47 threadsLeft=8
 t=47 s=43 threadsLeft=7
 t=47 s=15 threadsLeft=6
@@ -656,30 +359,30 @@ t=47 s=13 threadsLeft=3
 t=47 s=4 threadsLeft=2
 t=47 s=6 threadsLeft=1
 t=47 s=5 threadsLeft=0
-t=47 time=0.021862
+t=47 time=0.021561
 t=48 s=48 threadsLeft=21
 t=48 s=44 threadsLeft=20
-t=48 s=8 threadsLeft=19
+t=48 s=11 threadsLeft=19
 t=48 s=13 threadsLeft=18
-t=48 s=11 threadsLeft=17
-t=48 s=7 threadsLeft=16
+t=48 s=8 threadsLeft=17
+t=48 s=9 threadsLeft=16
 t=48 s=10 threadsLeft=15
-t=48 s=9 threadsLeft=14
+t=48 s=7 threadsLeft=14
 t=48 s=13 threadsLeft=13
 t=48 s=12 threadsLeft=12
 t=48 s=3 threadsLeft=11
 t=48 s=3 threadsLeft=10
 t=48 s=9 threadsLeft=9
 t=48 s=7 threadsLeft=8
-t=48 s=4 threadsLeft=7
-t=48 s=7 threadsLeft=6
-t=48 s=4 threadsLeft=5
-t=48 s=6 threadsLeft=4
+t=48 s=7 threadsLeft=7
+t=48 s=4 threadsLeft=6
+t=48 s=6 threadsLeft=5
+t=48 s=4 threadsLeft=4
 t=48 s=4 threadsLeft=3
 t=48 s=6 threadsLeft=2
 t=48 s=6 threadsLeft=1
 t=48 s=5 threadsLeft=0
-t=48 time=0.021683
+t=48 time=0.021524
 t=49 s=49 threadsLeft=12
 t=49 s=45 threadsLeft=11
 t=49 s=16 threadsLeft=10
@@ -693,7 +396,7 @@ t=49 s=4 threadsLeft=3
 t=49 s=5 threadsLeft=2
 t=49 s=5 threadsLeft=1
 t=49 s=5 threadsLeft=0
-t=49 time=0.027135
+t=49 time=0.02658
 t=50 s=50 threadsLeft=15
 t=50 s=46 threadsLeft=14
 t=50 s=17 threadsLeft=13
@@ -710,13 +413,13 @@ t=50 s=6 threadsLeft=3
 t=50 s=6 threadsLeft=2
 t=50 s=5 threadsLeft=1
 t=50 s=5 threadsLeft=0
-t=50 time=0.039674
+t=50 time=0.03909
 t=51 s=51 threadsLeft=12
 t=51 s=47 threadsLeft=11
-t=51 s=9 threadsLeft=10
+t=51 s=12 threadsLeft=10
 t=51 s=11 threadsLeft=9
-t=51 s=10 threadsLeft=8
-t=51 s=12 threadsLeft=7
+t=51 s=9 threadsLeft=8
+t=51 s=10 threadsLeft=7
 t=51 s=15 threadsLeft=6
 t=51 s=16 threadsLeft=5
 t=51 s=13 threadsLeft=4
@@ -724,7 +427,7 @@ t=51 s=14 threadsLeft=3
 t=51 s=10 threadsLeft=2
 t=51 s=9 threadsLeft=1
 t=51 s=6 threadsLeft=0
-t=51 time=0.026613
+t=51 time=0.025398
 t=52 s=52 threadsLeft=11
 t=52 s=48 threadsLeft=10
 t=52 s=18 threadsLeft=9
@@ -737,7 +440,7 @@ t=52 s=8 threadsLeft=3
 t=52 s=7 threadsLeft=2
 t=52 s=4 threadsLeft=1
 t=52 s=6 threadsLeft=0
-t=52 time=0.042531
+t=52 time=0.04128
 t=53 s=53 threadsLeft=7
 t=53 s=49 threadsLeft=6
 t=53 s=18 threadsLeft=5
@@ -746,15 +449,15 @@ t=53 s=7 threadsLeft=3
 t=53 s=7 threadsLeft=2
 t=53 s=4 threadsLeft=1
 t=53 s=5 threadsLeft=0
-t=53 time=0.051627
+t=53 time=0.050282
 t=54 s=54 threadsLeft=19
 t=54 s=50 threadsLeft=18
-t=54 s=16 threadsLeft=17
-t=54 s=11 threadsLeft=16
-t=54 s=10 threadsLeft=15
-t=54 s=14 threadsLeft=14
-t=54 s=9 threadsLeft=13
-t=54 s=12 threadsLeft=12
+t=54 s=9 threadsLeft=17
+t=54 s=12 threadsLeft=16
+t=54 s=11 threadsLeft=15
+t=54 s=16 threadsLeft=14
+t=54 s=10 threadsLeft=13
+t=54 s=14 threadsLeft=12
 t=54 s=8 threadsLeft=11
 t=54 s=19 threadsLeft=10
 t=54 s=17 threadsLeft=9
@@ -767,7 +470,7 @@ t=54 s=4 threadsLeft=3
 t=54 s=6 threadsLeft=2
 t=54 s=5 threadsLeft=1
 t=54 s=5 threadsLeft=0
-t=54 time=0.067855
+t=54 time=0.066185
 t=55 s=55 threadsLeft=9
 t=55 s=51 threadsLeft=8
 t=55 s=17 threadsLeft=7
@@ -778,7 +481,7 @@ t=55 s=8 threadsLeft=3
 t=55 s=8 threadsLeft=2
 t=55 s=7 threadsLeft=1
 t=55 s=6 threadsLeft=0
-t=55 time=0.075179
+t=55 time=0.072726
 t=56 s=56 threadsLeft=12
 t=56 s=52 threadsLeft=11
 t=56 s=18 threadsLeft=10
@@ -792,36 +495,36 @@ t=56 s=5 threadsLeft=3
 t=56 s=6 threadsLeft=2
 t=56 s=6 threadsLeft=1
 t=56 s=5 threadsLeft=0
-t=56 time=0.090713
+t=56 time=0.087907
 t=57 s=57 threadsLeft=15
 t=57 s=53 threadsLeft=14
-t=57 s=12 threadsLeft=13
+t=57 s=13 threadsLeft=13
 t=57 s=11 threadsLeft=12
 t=57 s=10 threadsLeft=11
-t=57 s=16 threadsLeft=10
-t=57 s=13 threadsLeft=9
-t=57 s=15 threadsLeft=8
-t=57 s=18 threadsLeft=7
-t=57 s=14 threadsLeft=6
+t=57 s=12 threadsLeft=10
+t=57 s=14 threadsLeft=9
+t=57 s=18 threadsLeft=8
+t=57 s=16 threadsLeft=7
+t=57 s=15 threadsLeft=6
 t=57 s=18 threadsLeft=5
 t=57 s=9 threadsLeft=4
 t=57 s=9 threadsLeft=3
 t=57 s=7 threadsLeft=2
 t=57 s=6 threadsLeft=1
 t=57 s=5 threadsLeft=0
-t=57 time=0.082908
+t=57 time=0.081258
 t=58 s=58 threadsLeft=10
 t=58 s=54 threadsLeft=9
 t=58 s=19 threadsLeft=8
 t=58 s=19 threadsLeft=7
 t=58 s=18 threadsLeft=6
 t=58 s=9 threadsLeft=5
-t=58 s=12 threadsLeft=4
-t=58 s=10 threadsLeft=3
+t=58 s=10 threadsLeft=4
+t=58 s=12 threadsLeft=3
 t=58 s=11 threadsLeft=2
 t=58 s=8 threadsLeft=1
 t=58 s=7 threadsLeft=0
-t=58 time=0.072705
+t=58 time=0.069027
 t=59 s=59 threadsLeft=9
 t=59 s=55 threadsLeft=8
 t=59 s=19 threadsLeft=7
@@ -832,17 +535,17 @@ t=59 s=8 threadsLeft=3
 t=59 s=8 threadsLeft=2
 t=59 s=7 threadsLeft=1
 t=59 s=6 threadsLeft=0
-t=59 time=0.135535
+t=59 time=0.12972
 t=60 s=60 threadsLeft=18
 t=60 s=56 threadsLeft=17
 t=60 s=15 threadsLeft=16
 t=60 s=17 threadsLeft=15
-t=60 s=14 threadsLeft=14
+t=60 s=11 threadsLeft=14
 t=60 s=13 threadsLeft=13
-t=60 s=12 threadsLeft=12
-t=60 s=11 threadsLeft=11
-t=60 s=10 threadsLeft=10
-t=60 s=9 threadsLeft=9
+t=60 s=10 threadsLeft=12
+t=60 s=12 threadsLeft=11
+t=60 s=9 threadsLeft=10
+t=60 s=14 threadsLeft=9
 t=60 s=16 threadsLeft=8
 t=60 s=17 threadsLeft=7
 t=60 s=13 threadsLeft=6
@@ -852,7 +555,2923 @@ t=60 s=8 threadsLeft=3
 t=60 s=5 threadsLeft=2
 t=60 s=8 threadsLeft=1
 t=60 s=6 threadsLeft=0
-t=60 time=0.111408
+t=60 time=0.108412
+[38;2;000;128;000mTime: 0.968402s (2025-08-28 09:19:02)
+[0mt=2 s=2 threadsLeft=0
+t=2 time=0.000134
+t=3 s=3 threadsLeft=0
+t=3 time=0.000304
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000309
+t=5 s=5 threadsLeft=0
+t=5 time=0.000301
+t=6 s=6 threadsLeft=0
+t=6 time=0.000309
+t=7 s=7 threadsLeft=1
+t=7 s=3 threadsLeft=0
+t=7 time=0.000336
+t=8 s=8 threadsLeft=2
+t=8 s=2 threadsLeft=1
+t=8 s=4 threadsLeft=0
+t=8 time=0.000365
+t=9 s=9 threadsLeft=3
+t=9 s=5 threadsLeft=2
+t=9 s=2 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000336
+t=10 s=10 threadsLeft=4
+t=10 s=6 threadsLeft=3
+t=10 s=3 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000369
+t=11 s=11 threadsLeft=3
+t=11 s=7 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.00036
+t=12 s=12 threadsLeft=1
+t=12 s=8 threadsLeft=0
+t=12 time=0.000307
+t=13 s=13 threadsLeft=3
+t=13 s=9 threadsLeft=2
+t=13 s=2 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000329
+t=14 s=14 threadsLeft=4
+t=14 s=10 threadsLeft=3
+t=14 s=2 threadsLeft=2
+t=14 s=5 threadsLeft=1
+t=14 s=3 threadsLeft=0
+t=14 time=0.000381
+t=15 s=15 threadsLeft=3
+t=15 s=11 threadsLeft=2
+t=15 s=3 threadsLeft=1
+t=15 s=4 threadsLeft=0
+t=15 time=0.000375
+t=16 s=16 threadsLeft=5
+t=16 s=12 threadsLeft=4
+t=16 s=6 threadsLeft=3
+t=16 s=2 threadsLeft=2
+t=16 s=3 threadsLeft=1
+t=16 s=5 threadsLeft=0
+t=16 time=0.000395
+t=17 s=17 threadsLeft=5
+t=17 s=13 threadsLeft=4
+t=17 s=2 threadsLeft=3
+t=17 s=6 threadsLeft=2
+t=17 s=3 threadsLeft=1
+t=17 s=4 threadsLeft=0
+t=17 time=0.000591
+t=18 s=18 threadsLeft=6
+t=18 s=14 threadsLeft=5
+t=18 s=7 threadsLeft=4
+t=18 s=2 threadsLeft=3
+t=18 s=4 threadsLeft=2
+t=18 s=5 threadsLeft=1
+t=18 s=3 threadsLeft=0
+t=18 time=0.000501
+t=19 s=19 threadsLeft=3
+t=19 s=15 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.00046
+t=20 s=20 threadsLeft=6
+t=20 s=16 threadsLeft=5
+t=20 s=2 threadsLeft=4
+t=20 s=6 threadsLeft=3
+t=20 s=3 threadsLeft=2
+t=20 s=5 threadsLeft=1
+t=20 s=5 threadsLeft=0
+t=20 time=0.000409
+t=21 s=21 threadsLeft=5
+t=21 s=17 threadsLeft=4
+t=21 s=6 threadsLeft=3
+t=21 s=6 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000465
+t=22 s=22 threadsLeft=7
+t=22 s=18 threadsLeft=6
+t=22 s=2 threadsLeft=5
+t=22 s=7 threadsLeft=4
+t=22 s=7 threadsLeft=3
+t=22 s=6 threadsLeft=2
+t=22 s=3 threadsLeft=1
+t=22 s=4 threadsLeft=0
+t=22 time=0.000598
+t=23 s=23 threadsLeft=5
+t=23 s=19 threadsLeft=4
+t=23 s=7 threadsLeft=3
+t=23 s=8 threadsLeft=2
+t=23 s=5 threadsLeft=1
+t=23 s=4 threadsLeft=0
+t=23 time=0.00058
+t=24 s=24 threadsLeft=5
+t=24 s=20 threadsLeft=4
+t=24 s=5 threadsLeft=3
+t=24 s=3 threadsLeft=2
+t=24 s=4 threadsLeft=1
+t=24 s=5 threadsLeft=0
+t=24 time=0.000592
+t=25 s=25 threadsLeft=4
+t=25 s=21 threadsLeft=3
+t=25 s=8 threadsLeft=2
+t=25 s=6 threadsLeft=1
+t=25 s=3 threadsLeft=0
+t=25 time=0.000548
+t=26 s=26 threadsLeft=5
+t=26 s=22 threadsLeft=4
+t=26 s=9 threadsLeft=3
+t=26 s=7 threadsLeft=2
+t=26 s=6 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.000869
+t=27 s=27 threadsLeft=6
+t=27 s=23 threadsLeft=5
+t=27 s=8 threadsLeft=4
+t=27 s=7 threadsLeft=3
+t=27 s=5 threadsLeft=2
+t=27 s=6 threadsLeft=1
+t=27 s=4 threadsLeft=0
+t=27 time=0.000765
+t=28 s=28 threadsLeft=5
+t=28 s=24 threadsLeft=4
+t=28 s=10 threadsLeft=3
+t=28 s=9 threadsLeft=2
+t=28 s=3 threadsLeft=1
+t=28 s=7 threadsLeft=0
+t=28 time=0.000542
+t=29 s=29 threadsLeft=4
+t=29 s=25 threadsLeft=3
+t=29 s=10 threadsLeft=2
+t=29 s=8 threadsLeft=1
+t=29 s=5 threadsLeft=0
+t=29 time=0.000943
+t=30 s=30 threadsLeft=8
+t=30 s=26 threadsLeft=7
+t=30 s=11 threadsLeft=6
+t=30 s=6 threadsLeft=5
+t=30 s=9 threadsLeft=4
+t=30 s=8 threadsLeft=3
+t=30 s=5 threadsLeft=2
+t=30 s=7 threadsLeft=1
+t=30 s=4 threadsLeft=0
+t=30 time=0.00112
+t=31 s=31 threadsLeft=4
+t=31 s=27 threadsLeft=3
+t=31 s=9 threadsLeft=2
+t=31 s=8 threadsLeft=1
+t=31 s=4 threadsLeft=0
+t=31 time=0.001199
+t=32 s=32 threadsLeft=5
+t=32 s=28 threadsLeft=4
+t=32 s=2 threadsLeft=3
+t=32 s=10 threadsLeft=2
+t=32 s=9 threadsLeft=1
+t=32 s=9 threadsLeft=0
+t=32 time=0.000474
+t=33 s=33 threadsLeft=9
+t=33 s=29 threadsLeft=8
+t=33 s=2 threadsLeft=7
+t=33 s=10 threadsLeft=6
+t=33 s=6 threadsLeft=5
+t=33 s=7 threadsLeft=4
+t=33 s=8 threadsLeft=3
+t=33 s=10 threadsLeft=2
+t=33 s=3 threadsLeft=1
+t=33 s=5 threadsLeft=0
+t=33 time=0.001743
+t=34 s=34 threadsLeft=8
+t=34 s=30 threadsLeft=7
+t=34 s=2 threadsLeft=6
+t=34 s=11 threadsLeft=5
+t=34 s=11 threadsLeft=4
+t=34 s=10 threadsLeft=3
+t=34 s=3 threadsLeft=2
+t=34 s=3 threadsLeft=1
+t=34 s=4 threadsLeft=0
+t=34 time=0.001888
+t=35 s=35 threadsLeft=5
+t=35 s=31 threadsLeft=4
+t=35 s=11 threadsLeft=3
+t=35 s=12 threadsLeft=2
+t=35 s=4 threadsLeft=1
+t=35 s=5 threadsLeft=0
+t=35 time=0.002209
+t=36 s=36 threadsLeft=12
+t=36 s=32 threadsLeft=11
+t=36 s=7 threadsLeft=10
+t=36 s=9 threadsLeft=9
+t=36 s=6 threadsLeft=8
+t=36 s=2 threadsLeft=7
+t=36 s=8 threadsLeft=6
+t=36 s=9 threadsLeft=5
+t=36 s=3 threadsLeft=4
+t=36 s=5 threadsLeft=3
+t=36 s=6 threadsLeft=2
+t=36 s=5 threadsLeft=1
+t=36 s=4 threadsLeft=0
+t=36 time=0.002557
+t=37 s=37 threadsLeft=7
+t=37 s=33 threadsLeft=6
+t=37 s=12 threadsLeft=5
+t=37 s=10 threadsLeft=4
+t=37 s=3 threadsLeft=3
+t=37 s=6 threadsLeft=2
+t=37 s=7 threadsLeft=1
+t=37 s=4 threadsLeft=0
+t=37 time=0.002959
+t=38 s=38 threadsLeft=11
+t=38 s=34 threadsLeft=10
+t=38 s=2 threadsLeft=9
+t=38 s=13 threadsLeft=8
+t=38 s=11 threadsLeft=7
+t=38 s=10 threadsLeft=6
+t=38 s=7 threadsLeft=5
+t=38 s=3 threadsLeft=4
+t=38 s=8 threadsLeft=3
+t=38 s=6 threadsLeft=2
+t=38 s=4 threadsLeft=1
+t=38 s=5 threadsLeft=0
+t=38 time=0.004265
+t=39 s=39 threadsLeft=11
+t=39 s=35 threadsLeft=10
+t=39 s=8 threadsLeft=9
+t=39 s=9 threadsLeft=8
+t=39 s=7 threadsLeft=7
+t=39 s=12 threadsLeft=6
+t=39 s=11 threadsLeft=5
+t=39 s=10 threadsLeft=4
+t=39 s=8 threadsLeft=3
+t=39 s=9 threadsLeft=2
+t=39 s=4 threadsLeft=1
+t=39 s=5 threadsLeft=0
+t=39 time=0.005058
+t=40 s=40 threadsLeft=9
+t=40 s=36 threadsLeft=8
+t=40 s=14 threadsLeft=7
+t=40 s=2 threadsLeft=6
+t=40 s=13 threadsLeft=5
+t=40 s=11 threadsLeft=4
+t=40 s=9 threadsLeft=3
+t=40 s=3 threadsLeft=2
+t=40 s=10 threadsLeft=1
+t=40 s=5 threadsLeft=0
+t=40 time=0.004582
+t=41 s=41 threadsLeft=10
+t=41 s=37 threadsLeft=9
+t=41 s=14 threadsLeft=8
+t=41 s=12 threadsLeft=7
+t=41 s=10 threadsLeft=6
+t=41 s=11 threadsLeft=5
+t=41 s=3 threadsLeft=4
+t=41 s=3 threadsLeft=3
+t=41 s=7 threadsLeft=2
+t=41 s=6 threadsLeft=1
+t=41 s=4 threadsLeft=0
+t=41 time=0.004859
+t=42 s=42 threadsLeft=19
+t=42 s=38 threadsLeft=18
+t=42 s=10 threadsLeft=17
+t=42 s=15 threadsLeft=16
+t=42 s=9 threadsLeft=15
+t=42 s=12 threadsLeft=14
+t=42 s=7 threadsLeft=13
+t=42 s=8 threadsLeft=12
+t=42 s=13 threadsLeft=11
+t=42 s=11 threadsLeft=10
+t=42 s=6 threadsLeft=9
+t=42 s=3 threadsLeft=8
+t=42 s=7 threadsLeft=7
+t=42 s=8 threadsLeft=6
+t=42 s=4 threadsLeft=5
+t=42 s=6 threadsLeft=4
+t=42 s=4 threadsLeft=3
+t=42 s=5 threadsLeft=2
+t=42 s=4 threadsLeft=1
+t=42 s=5 threadsLeft=0
+t=42 time=0.008727
+t=43 s=43 threadsLeft=8
+t=43 s=39 threadsLeft=7
+t=43 s=13 threadsLeft=6
+t=43 s=12 threadsLeft=5
+t=43 s=8 threadsLeft=4
+t=43 s=9 threadsLeft=3
+t=43 s=4 threadsLeft=2
+t=43 s=6 threadsLeft=1
+t=43 s=5 threadsLeft=0
+t=43 time=0.009903
+t=44 s=44 threadsLeft=13
+t=44 s=40 threadsLeft=12
+t=44 s=14 threadsLeft=11
+t=44 s=2 threadsLeft=10
+t=44 s=13 threadsLeft=9
+t=44 s=13 threadsLeft=8
+t=44 s=9 threadsLeft=7
+t=44 s=10 threadsLeft=6
+t=44 s=3 threadsLeft=5
+t=44 s=7 threadsLeft=4
+t=44 s=7 threadsLeft=3
+t=44 s=6 threadsLeft=2
+t=44 s=4 threadsLeft=1
+t=44 s=5 threadsLeft=0
+t=44 time=0.008957
+t=45 s=45 threadsLeft=16
+t=45 s=41 threadsLeft=15
+t=45 s=14 threadsLeft=14
+t=45 s=11 threadsLeft=13
+t=45 s=8 threadsLeft=12
+t=45 s=9 threadsLeft=11
+t=45 s=10 threadsLeft=10
+t=45 s=14 threadsLeft=9
+t=45 s=12 threadsLeft=8
+t=45 s=11 threadsLeft=7
+t=45 s=10 threadsLeft=6
+t=45 s=3 threadsLeft=5
+t=45 s=8 threadsLeft=4
+t=45 s=7 threadsLeft=3
+t=45 s=5 threadsLeft=2
+t=45 s=4 threadsLeft=1
+t=45 s=5 threadsLeft=0
+t=45 time=0.015115
+t=46 s=46 threadsLeft=11
+t=46 s=42 threadsLeft=10
+t=46 s=15 threadsLeft=9
+t=46 s=15 threadsLeft=8
+t=46 s=14 threadsLeft=7
+t=46 s=11 threadsLeft=6
+t=46 s=12 threadsLeft=5
+t=46 s=3 threadsLeft=4
+t=46 s=6 threadsLeft=3
+t=46 s=5 threadsLeft=2
+t=46 s=4 threadsLeft=1
+t=46 s=6 threadsLeft=0
+t=46 time=0.01509
+t=47 s=47 threadsLeft=8
+t=47 s=43 threadsLeft=7
+t=47 s=15 threadsLeft=6
+t=47 s=16 threadsLeft=5
+t=47 s=12 threadsLeft=4
+t=47 s=13 threadsLeft=3
+t=47 s=4 threadsLeft=2
+t=47 s=6 threadsLeft=1
+t=47 s=5 threadsLeft=0
+t=47 time=0.020644
+t=48 s=48 threadsLeft=21
+t=48 s=44 threadsLeft=20
+t=48 s=11 threadsLeft=19
+t=48 s=8 threadsLeft=18
+t=48 s=9 threadsLeft=17
+t=48 s=10 threadsLeft=16
+t=48 s=13 threadsLeft=15
+t=48 s=7 threadsLeft=14
+t=48 s=13 threadsLeft=13
+t=48 s=12 threadsLeft=12
+t=48 s=3 threadsLeft=11
+t=48 s=3 threadsLeft=10
+t=48 s=9 threadsLeft=9
+t=48 s=7 threadsLeft=8
+t=48 s=4 threadsLeft=7
+t=48 s=7 threadsLeft=6
+t=48 s=4 threadsLeft=5
+t=48 s=6 threadsLeft=4
+t=48 s=4 threadsLeft=3
+t=48 s=6 threadsLeft=2
+t=48 s=5 threadsLeft=1
+t=48 s=6 threadsLeft=0
+t=48 time=0.020832
+t=49 s=49 threadsLeft=12
+t=49 s=45 threadsLeft=11
+t=49 s=16 threadsLeft=10
+t=49 s=14 threadsLeft=9
+t=49 s=8 threadsLeft=8
+t=49 s=7 threadsLeft=7
+t=49 s=8 threadsLeft=6
+t=49 s=7 threadsLeft=5
+t=49 s=4 threadsLeft=4
+t=49 s=4 threadsLeft=3
+t=49 s=5 threadsLeft=2
+t=49 s=5 threadsLeft=1
+t=49 s=5 threadsLeft=0
+t=49 time=0.026197
+t=50 s=50 threadsLeft=15
+t=50 s=46 threadsLeft=14
+t=50 s=17 threadsLeft=13
+t=50 s=15 threadsLeft=12
+t=50 s=14 threadsLeft=11
+t=50 s=10 threadsLeft=10
+t=50 s=9 threadsLeft=9
+t=50 s=8 threadsLeft=8
+t=50 s=7 threadsLeft=7
+t=50 s=8 threadsLeft=6
+t=50 s=5 threadsLeft=5
+t=50 s=6 threadsLeft=4
+t=50 s=6 threadsLeft=3
+t=50 s=6 threadsLeft=2
+t=50 s=5 threadsLeft=1
+t=50 s=5 threadsLeft=0
+t=50 time=0.037433
+t=51 s=51 threadsLeft=12
+t=51 s=47 threadsLeft=11
+t=51 s=11 threadsLeft=10
+t=51 s=9 threadsLeft=9
+t=51 s=10 threadsLeft=8
+t=51 s=12 threadsLeft=7
+t=51 s=15 threadsLeft=6
+t=51 s=16 threadsLeft=5
+t=51 s=13 threadsLeft=4
+t=51 s=14 threadsLeft=3
+t=51 s=10 threadsLeft=2
+t=51 s=9 threadsLeft=1
+t=51 s=6 threadsLeft=0
+t=51 time=0.024563
+t=52 s=52 threadsLeft=11
+t=52 s=48 threadsLeft=10
+t=52 s=18 threadsLeft=9
+t=52 s=17 threadsLeft=8
+t=52 s=15 threadsLeft=7
+t=52 s=3 threadsLeft=6
+t=52 s=11 threadsLeft=5
+t=52 s=9 threadsLeft=4
+t=52 s=8 threadsLeft=3
+t=52 s=7 threadsLeft=2
+t=52 s=4 threadsLeft=1
+t=52 s=6 threadsLeft=0
+t=52 time=0.04011
+t=53 s=53 threadsLeft=7
+t=53 s=49 threadsLeft=6
+t=53 s=18 threadsLeft=5
+t=53 s=16 threadsLeft=4
+t=53 s=7 threadsLeft=3
+t=53 s=7 threadsLeft=2
+t=53 s=4 threadsLeft=1
+t=53 s=5 threadsLeft=0
+t=53 time=0.046617
+t=54 s=54 threadsLeft=19
+t=54 s=50 threadsLeft=18
+t=54 s=12 threadsLeft=17
+t=54 s=14 threadsLeft=16
+t=54 s=11 threadsLeft=15
+t=54 s=10 threadsLeft=14
+t=54 s=16 threadsLeft=13
+t=54 s=8 threadsLeft=12
+t=54 s=9 threadsLeft=11
+t=54 s=19 threadsLeft=10
+t=54 s=17 threadsLeft=9
+t=54 s=15 threadsLeft=8
+t=54 s=13 threadsLeft=7
+t=54 s=10 threadsLeft=6
+t=54 s=8 threadsLeft=5
+t=54 s=7 threadsLeft=4
+t=54 s=4 threadsLeft=3
+t=54 s=6 threadsLeft=2
+t=54 s=5 threadsLeft=1
+t=54 s=5 threadsLeft=0
+t=54 time=0.065578
+t=55 s=55 threadsLeft=9
+t=55 s=51 threadsLeft=8
+t=55 s=17 threadsLeft=7
+t=55 s=16 threadsLeft=6
+t=55 s=9 threadsLeft=5
+t=55 s=10 threadsLeft=4
+t=55 s=8 threadsLeft=3
+t=55 s=8 threadsLeft=2
+t=55 s=7 threadsLeft=1
+t=55 s=6 threadsLeft=0
+t=55 time=0.06999
+[38;2;000;128;000mTime: 0.485279s (2025-09-28 21:24:44)
+[0mt=2 s=2 threadsLeft=0
+t=2 time=0.000149
+t=3 s=3 threadsLeft=0
+t=3 time=0.000379
+t=4 s=2 threadsLeft=1
+t=4 s=4 threadsLeft=0
+t=4 time=0.000393
+t=5 s=5 threadsLeft=0
+t=5 time=0.000388
+t=6 s=6 threadsLeft=0
+t=6 time=0.000423
+t=7 s=7 threadsLeft=1
+t=7 s=3 threadsLeft=0
+t=7 time=0.000429
+t=8 s=8 threadsLeft=2
+t=8 s=2 threadsLeft=1
+t=8 s=4 threadsLeft=0
+t=8 time=0.000444
+t=9 s=9 threadsLeft=3
+t=9 s=5 threadsLeft=2
+t=9 s=2 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000556
+t=10 s=10 threadsLeft=4
+t=10 s=6 threadsLeft=3
+t=10 s=3 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000696
+t=11 s=11 threadsLeft=3
+t=11 s=7 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000383
+t=12 s=12 threadsLeft=1
+t=12 s=8 threadsLeft=0
+t=12 time=0.000404
+t=13 s=13 threadsLeft=3
+t=13 s=9 threadsLeft=2
+t=13 s=2 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000367
+t=14 s=14 threadsLeft=4
+t=14 s=10 threadsLeft=3
+t=14 s=2 threadsLeft=2
+t=14 s=5 threadsLeft=1
+t=14 s=3 threadsLeft=0
+t=14 time=0.00041
+t=15 s=15 threadsLeft=3
+t=15 s=11 threadsLeft=2
+t=15 s=3 threadsLeft=1
+t=15 s=4 threadsLeft=0
+t=15 time=0.000398
+t=16 s=16 threadsLeft=5
+t=16 s=12 threadsLeft=4
+t=16 s=6 threadsLeft=3
+t=16 s=2 threadsLeft=2
+t=16 s=3 threadsLeft=1
+t=16 s=5 threadsLeft=0
+t=16 time=0.00046
+t=17 s=17 threadsLeft=5
+t=17 s=13 threadsLeft=4
+t=17 s=6 threadsLeft=3
+t=17 s=2 threadsLeft=2
+t=17 s=3 threadsLeft=1
+t=17 s=4 threadsLeft=0
+t=17 time=0.000478
+t=18 s=18 threadsLeft=6
+t=18 s=14 threadsLeft=5
+t=18 s=7 threadsLeft=4
+t=18 s=2 threadsLeft=3
+t=18 s=5 threadsLeft=2
+t=18 s=4 threadsLeft=1
+t=18 s=3 threadsLeft=0
+t=18 time=0.000522
+t=19 s=19 threadsLeft=3
+t=19 s=15 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.000561
+t=20 s=20 threadsLeft=6
+t=20 s=16 threadsLeft=5
+t=20 s=6 threadsLeft=4
+t=20 s=2 threadsLeft=3
+t=20 s=5 threadsLeft=2
+t=20 s=3 threadsLeft=1
+t=20 s=5 threadsLeft=0
+t=20 time=0.000524
+t=21 s=21 threadsLeft=5
+t=21 s=17 threadsLeft=4
+t=21 s=6 threadsLeft=3
+t=21 s=6 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000599
+t=22 s=22 threadsLeft=7
+t=22 s=18 threadsLeft=6
+t=22 s=2 threadsLeft=5
+t=22 s=7 threadsLeft=4
+t=22 s=7 threadsLeft=3
+t=22 s=6 threadsLeft=2
+t=22 s=3 threadsLeft=1
+t=22 s=4 threadsLeft=0
+t=22 time=0.000939
+t=23 s=23 threadsLeft=5
+t=23 s=19 threadsLeft=4
+t=23 s=7 threadsLeft=3
+t=23 s=8 threadsLeft=2
+t=23 s=5 threadsLeft=1
+t=23 s=4 threadsLeft=0
+t=23 time=0.000753
+t=24 s=24 threadsLeft=5
+t=24 s=20 threadsLeft=4
+t=24 s=5 threadsLeft=3
+t=24 s=3 threadsLeft=2
+t=24 s=5 threadsLeft=1
+t=24 s=4 threadsLeft=0
+t=24 time=0.000637
+t=25 s=25 threadsLeft=4
+t=25 s=21 threadsLeft=3
+t=25 s=8 threadsLeft=2
+t=25 s=6 threadsLeft=1
+t=25 s=3 threadsLeft=0
+t=25 time=0.000604
+t=26 s=26 threadsLeft=5
+t=26 s=22 threadsLeft=4
+t=26 s=9 threadsLeft=3
+t=26 s=7 threadsLeft=2
+t=26 s=6 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.000943
+t=27 s=27 threadsLeft=6
+t=27 s=23 threadsLeft=5
+t=27 s=8 threadsLeft=4
+t=27 s=7 threadsLeft=3
+t=27 s=5 threadsLeft=2
+t=27 s=6 threadsLeft=1
+t=27 s=4 threadsLeft=0
+t=27 time=0.000817
+t=28 s=28 threadsLeft=5
+t=28 s=24 threadsLeft=4
+t=28 s=10 threadsLeft=3
+t=28 s=9 threadsLeft=2
+t=28 s=3 threadsLeft=1
+t=28 s=7 threadsLeft=0
+t=28 time=0.00057
+t=29 s=29 threadsLeft=4
+t=29 s=25 threadsLeft=3
+t=29 s=10 threadsLeft=2
+t=29 s=8 threadsLeft=1
+t=29 s=5 threadsLeft=0
+t=29 time=0.000992
+t=30 s=30 threadsLeft=8
+t=30 s=26 threadsLeft=7
+t=30 s=11 threadsLeft=6
+t=30 s=6 threadsLeft=5
+t=30 s=9 threadsLeft=4
+t=30 s=8 threadsLeft=3
+t=30 s=5 threadsLeft=2
+t=30 s=7 threadsLeft=1
+t=30 s=4 threadsLeft=0
+t=30 time=0.001231
+t=31 s=31 threadsLeft=4
+t=31 s=27 threadsLeft=3
+t=31 s=9 threadsLeft=2
+t=31 s=8 threadsLeft=1
+t=31 s=4 threadsLeft=0
+t=31 time=0.001219
+t=32 s=32 threadsLeft=5
+t=32 s=28 threadsLeft=4
+t=32 s=2 threadsLeft=3
+t=32 s=10 threadsLeft=2
+t=32 s=9 threadsLeft=1
+t=32 s=9 threadsLeft=0
+t=32 time=0.000502
+t=33 s=33 threadsLeft=9
+t=33 s=29 threadsLeft=8
+t=33 s=2 threadsLeft=7
+t=33 s=10 threadsLeft=6
+t=33 s=6 threadsLeft=5
+t=33 s=7 threadsLeft=4
+t=33 s=8 threadsLeft=3
+t=33 s=10 threadsLeft=2
+t=33 s=3 threadsLeft=1
+t=33 s=5 threadsLeft=0
+t=33 time=0.001814
+t=34 s=34 threadsLeft=8
+t=34 s=30 threadsLeft=7
+t=34 s=2 threadsLeft=6
+t=34 s=11 threadsLeft=5
+t=34 s=11 threadsLeft=4
+t=34 s=10 threadsLeft=3
+t=34 s=3 threadsLeft=2
+t=34 s=3 threadsLeft=1
+t=34 s=4 threadsLeft=0
+t=34 time=0.001932
+t=35 s=35 threadsLeft=5
+t=35 s=31 threadsLeft=4
+t=35 s=11 threadsLeft=3
+t=35 s=12 threadsLeft=2
+t=35 s=4 threadsLeft=1
+t=35 s=5 threadsLeft=0
+t=35 time=0.002215
+t=36 s=36 threadsLeft=12
+t=36 s=32 threadsLeft=11
+t=36 s=7 threadsLeft=10
+t=36 s=9 threadsLeft=9
+t=36 s=2 threadsLeft=8
+t=36 s=8 threadsLeft=7
+t=36 s=6 threadsLeft=6
+t=36 s=9 threadsLeft=5
+t=36 s=3 threadsLeft=4
+t=36 s=5 threadsLeft=3
+t=36 s=6 threadsLeft=2
+t=36 s=5 threadsLeft=1
+t=36 s=4 threadsLeft=0
+t=36 time=0.002517
+t=37 s=37 threadsLeft=7
+t=37 s=33 threadsLeft=6
+t=37 s=12 threadsLeft=5
+t=37 s=10 threadsLeft=4
+t=37 s=3 threadsLeft=3
+t=37 s=6 threadsLeft=2
+t=37 s=7 threadsLeft=1
+t=37 s=4 threadsLeft=0
+t=37 time=0.003015
+t=38 s=38 threadsLeft=11
+t=38 s=34 threadsLeft=10
+t=38 s=2 threadsLeft=9
+t=38 s=13 threadsLeft=8
+t=38 s=11 threadsLeft=7
+t=38 s=10 threadsLeft=6
+t=38 s=7 threadsLeft=5
+t=38 s=3 threadsLeft=4
+t=38 s=8 threadsLeft=3
+t=38 s=6 threadsLeft=2
+t=38 s=4 threadsLeft=1
+t=38 s=5 threadsLeft=0
+t=38 time=0.004423
+t=39 s=39 threadsLeft=11
+t=39 s=35 threadsLeft=10
+t=39 s=9 threadsLeft=9
+t=39 s=7 threadsLeft=8
+t=39 s=8 threadsLeft=7
+t=39 s=12 threadsLeft=6
+t=39 s=11 threadsLeft=5
+t=39 s=10 threadsLeft=4
+t=39 s=8 threadsLeft=3
+t=39 s=9 threadsLeft=2
+t=39 s=4 threadsLeft=1
+t=39 s=5 threadsLeft=0
+t=39 time=0.005032
+t=40 s=40 threadsLeft=9
+t=40 s=36 threadsLeft=8
+t=40 s=14 threadsLeft=7
+t=40 s=2 threadsLeft=6
+t=40 s=13 threadsLeft=5
+t=40 s=11 threadsLeft=4
+t=40 s=9 threadsLeft=3
+t=40 s=3 threadsLeft=2
+t=40 s=10 threadsLeft=1
+t=40 s=5 threadsLeft=0
+t=40 time=0.004671
+t=41 s=41 threadsLeft=10
+t=41 s=37 threadsLeft=9
+t=41 s=14 threadsLeft=8
+t=41 s=12 threadsLeft=7
+t=41 s=10 threadsLeft=6
+t=41 s=11 threadsLeft=5
+t=41 s=3 threadsLeft=4
+t=41 s=3 threadsLeft=3
+t=41 s=7 threadsLeft=2
+t=41 s=6 threadsLeft=1
+t=41 s=4 threadsLeft=0
+t=41 time=0.00489
+t=42 s=42 threadsLeft=19
+t=42 s=38 threadsLeft=18
+t=42 s=8 threadsLeft=17
+t=42 s=15 threadsLeft=16
+t=42 s=12 threadsLeft=15
+t=42 s=7 threadsLeft=14
+t=42 s=13 threadsLeft=13
+t=42 s=10 threadsLeft=12
+t=42 s=9 threadsLeft=11
+t=42 s=11 threadsLeft=10
+t=42 s=6 threadsLeft=9
+t=42 s=3 threadsLeft=8
+t=42 s=7 threadsLeft=7
+t=42 s=8 threadsLeft=6
+t=42 s=4 threadsLeft=5
+t=42 s=6 threadsLeft=4
+t=42 s=4 threadsLeft=3
+t=42 s=5 threadsLeft=2
+t=42 s=4 threadsLeft=1
+t=42 s=5 threadsLeft=0
+t=42 time=0.008488
+t=43 s=43 threadsLeft=8
+t=43 s=39 threadsLeft=7
+t=43 s=13 threadsLeft=6
+t=43 s=12 threadsLeft=5
+t=43 s=8 threadsLeft=4
+t=43 s=9 threadsLeft=3
+t=43 s=4 threadsLeft=2
+t=43 s=6 threadsLeft=1
+t=43 s=5 threadsLeft=0
+t=43 time=0.010145
+t=44 s=44 threadsLeft=13
+t=44 s=40 threadsLeft=12
+t=44 s=14 threadsLeft=11
+t=44 s=2 threadsLeft=10
+t=44 s=13 threadsLeft=9
+t=44 s=13 threadsLeft=8
+t=44 s=3 threadsLeft=7
+t=44 s=9 threadsLeft=6
+t=44 s=10 threadsLeft=5
+t=44 s=7 threadsLeft=4
+t=44 s=7 threadsLeft=3
+t=44 s=6 threadsLeft=2
+t=44 s=4 threadsLeft=1
+t=44 s=5 threadsLeft=0
+t=44 time=0.009051
+t=45 s=45 threadsLeft=16
+t=45 s=41 threadsLeft=15
+t=45 s=14 threadsLeft=14
+t=45 s=11 threadsLeft=13
+t=45 s=8 threadsLeft=12
+t=45 s=9 threadsLeft=11
+t=45 s=10 threadsLeft=10
+t=45 s=14 threadsLeft=9
+t=45 s=12 threadsLeft=8
+t=45 s=11 threadsLeft=7
+t=45 s=10 threadsLeft=6
+t=45 s=3 threadsLeft=5
+t=45 s=8 threadsLeft=4
+t=45 s=7 threadsLeft=3
+t=45 s=5 threadsLeft=2
+t=45 s=4 threadsLeft=1
+t=45 s=5 threadsLeft=0
+t=45 time=0.014981
+t=46 s=46 threadsLeft=11
+t=46 s=42 threadsLeft=10
+t=46 s=15 threadsLeft=9
+t=46 s=15 threadsLeft=8
+t=46 s=14 threadsLeft=7
+t=46 s=11 threadsLeft=6
+t=46 s=12 threadsLeft=5
+t=46 s=3 threadsLeft=4
+t=46 s=6 threadsLeft=3
+t=46 s=5 threadsLeft=2
+t=46 s=4 threadsLeft=1
+t=46 s=6 threadsLeft=0
+t=46 time=0.01448
+t=47 s=47 threadsLeft=8
+t=47 s=43 threadsLeft=7
+t=47 s=15 threadsLeft=6
+t=47 s=16 threadsLeft=5
+t=47 s=12 threadsLeft=4
+t=47 s=13 threadsLeft=3
+t=47 s=4 threadsLeft=2
+t=47 s=6 threadsLeft=1
+t=47 s=5 threadsLeft=0
+t=47 time=0.020208
+t=48 s=48 threadsLeft=21
+t=48 s=44 threadsLeft=20
+t=48 s=11 threadsLeft=19
+t=48 s=8 threadsLeft=18
+t=48 s=9 threadsLeft=17
+t=48 s=13 threadsLeft=16
+t=48 s=10 threadsLeft=15
+t=48 s=7 threadsLeft=14
+t=48 s=13 threadsLeft=13
+t=48 s=12 threadsLeft=12
+t=48 s=3 threadsLeft=11
+t=48 s=3 threadsLeft=10
+t=48 s=9 threadsLeft=9
+t=48 s=7 threadsLeft=8
+t=48 s=4 threadsLeft=7
+t=48 s=7 threadsLeft=6
+t=48 s=6 threadsLeft=5
+t=48 s=4 threadsLeft=4
+t=48 s=4 threadsLeft=3
+t=48 s=6 threadsLeft=2
+t=48 s=6 threadsLeft=1
+t=48 s=5 threadsLeft=0
+t=48 time=0.021097
+t=49 s=49 threadsLeft=12
+t=49 s=45 threadsLeft=11
+t=49 s=16 threadsLeft=10
+t=49 s=14 threadsLeft=9
+t=49 s=8 threadsLeft=8
+t=49 s=7 threadsLeft=7
+t=49 s=8 threadsLeft=6
+t=49 s=7 threadsLeft=5
+t=49 s=4 threadsLeft=4
+t=49 s=4 threadsLeft=3
+t=49 s=5 threadsLeft=2
+t=49 s=5 threadsLeft=1
+t=49 s=5 threadsLeft=0
+t=49 time=0.025508
+t=50 s=50 threadsLeft=15
+t=50 s=46 threadsLeft=14
+t=50 s=17 threadsLeft=13
+t=50 s=15 threadsLeft=12
+t=50 s=14 threadsLeft=11
+t=50 s=10 threadsLeft=10
+t=50 s=9 threadsLeft=9
+t=50 s=8 threadsLeft=8
+t=50 s=7 threadsLeft=7
+t=50 s=8 threadsLeft=6
+t=50 s=5 threadsLeft=5
+t=50 s=6 threadsLeft=4
+t=50 s=6 threadsLeft=3
+t=50 s=6 threadsLeft=2
+t=50 s=5 threadsLeft=1
+t=50 s=5 threadsLeft=0
+t=50 time=0.037666
+t=51 s=51 threadsLeft=12
+t=51 s=47 threadsLeft=11
+t=51 s=12 threadsLeft=10
+t=51 s=11 threadsLeft=9
+t=51 s=10 threadsLeft=8
+t=51 s=9 threadsLeft=7
+t=51 s=15 threadsLeft=6
+t=51 s=16 threadsLeft=5
+t=51 s=13 threadsLeft=4
+t=51 s=14 threadsLeft=3
+t=51 s=10 threadsLeft=2
+t=51 s=9 threadsLeft=1
+t=51 s=6 threadsLeft=0
+t=51 time=0.024058
+t=52 s=52 threadsLeft=11
+t=52 s=48 threadsLeft=10
+t=52 s=18 threadsLeft=9
+t=52 s=17 threadsLeft=8
+t=52 s=15 threadsLeft=7
+t=52 s=3 threadsLeft=6
+t=52 s=11 threadsLeft=5
+t=52 s=9 threadsLeft=4
+t=52 s=8 threadsLeft=3
+t=52 s=7 threadsLeft=2
+t=52 s=4 threadsLeft=1
+t=52 s=6 threadsLeft=0
+t=52 time=0.038732
+t=53 s=53 threadsLeft=7
+t=53 s=49 threadsLeft=6
+t=53 s=18 threadsLeft=5
+t=53 s=16 threadsLeft=4
+t=53 s=7 threadsLeft=3
+t=53 s=7 threadsLeft=2
+t=53 s=4 threadsLeft=1
+t=53 s=5 threadsLeft=0
+t=53 time=0.048453
+t=54 s=54 threadsLeft=19
+t=54 s=50 threadsLeft=18
+t=54 s=11 threadsLeft=17
+t=54 s=12 threadsLeft=16
+t=54 s=16 threadsLeft=15
+t=54 s=10 threadsLeft=14
+t=54 s=8 threadsLeft=13
+t=54 s=9 threadsLeft=12
+t=54 s=14 threadsLeft=11
+t=54 s=19 threadsLeft=10
+t=54 s=17 threadsLeft=9
+t=54 s=15 threadsLeft=8
+t=54 s=13 threadsLeft=7
+t=54 s=10 threadsLeft=6
+t=54 s=8 threadsLeft=5
+t=54 s=7 threadsLeft=4
+t=54 s=4 threadsLeft=3
+t=54 s=6 threadsLeft=2
+t=54 s=5 threadsLeft=1
+t=54 s=5 threadsLeft=0
+t=54 time=0.064795
+t=55 s=55 threadsLeft=9
+t=55 s=51 threadsLeft=8
+t=55 s=17 threadsLeft=7
+t=55 s=16 threadsLeft=6
+t=55 s=9 threadsLeft=5
+t=55 s=10 threadsLeft=4
+t=55 s=8 threadsLeft=3
+t=55 s=8 threadsLeft=2
+t=55 s=7 threadsLeft=1
+t=55 s=6 threadsLeft=0
+t=55 time=0.067862
+[38;2;000;128;000mTime: 0.477257s (2025-10-04 15:37:46)
+[0mt=2 s=2 threadsLeft=0
+t=2 time=0.000156
+t=3 s=3 threadsLeft=0
+t=3 time=0.000352
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000369
+t=5 s=5 threadsLeft=0
+t=5 time=0.000379
+t=6 s=6 threadsLeft=0
+t=6 time=0.000352
+t=7 s=7 threadsLeft=1
+t=7 s=3 threadsLeft=0
+t=7 time=0.000409
+t=8 s=8 threadsLeft=2
+t=8 s=4 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000518
+t=9 s=9 threadsLeft=3
+t=9 s=2 threadsLeft=2
+t=9 s=5 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000415
+t=10 s=10 threadsLeft=4
+t=10 s=6 threadsLeft=3
+t=10 s=2 threadsLeft=2
+t=10 s=3 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000547
+t=11 s=11 threadsLeft=3
+t=11 s=7 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000635
+t=12 s=12 threadsLeft=1
+t=12 s=8 threadsLeft=0
+t=12 time=0.000473
+t=13 s=13 threadsLeft=3
+t=13 s=9 threadsLeft=2
+t=13 s=2 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000525
+t=14 s=14 threadsLeft=4
+t=14 s=10 threadsLeft=3
+t=14 s=2 threadsLeft=2
+t=14 s=5 threadsLeft=1
+t=14 s=3 threadsLeft=0
+t=14 time=0.000517
+t=15 s=15 threadsLeft=3
+t=15 s=11 threadsLeft=2
+t=15 s=3 threadsLeft=1
+t=15 s=4 threadsLeft=0
+t=15 time=0.000615
+t=16 s=16 threadsLeft=5
+t=16 s=12 threadsLeft=4
+t=16 s=2 threadsLeft=3
+t=16 s=6 threadsLeft=2
+t=16 s=3 threadsLeft=1
+t=16 s=5 threadsLeft=0
+t=16 time=0.00051
+t=17 s=17 threadsLeft=5
+t=17 s=13 threadsLeft=4
+t=17 s=2 threadsLeft=3
+t=17 s=6 threadsLeft=2
+t=17 s=3 threadsLeft=1
+t=17 s=4 threadsLeft=0
+t=17 time=0.00056
+t=18 s=18 threadsLeft=6
+t=18 s=14 threadsLeft=5
+t=18 s=2 threadsLeft=4
+t=18 s=7 threadsLeft=3
+t=18 s=5 threadsLeft=2
+t=18 s=4 threadsLeft=1
+t=18 s=3 threadsLeft=0
+t=18 time=0.000607
+t=19 s=19 threadsLeft=3
+t=19 s=15 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.000547
+t=20 s=20 threadsLeft=6
+t=20 s=16 threadsLeft=5
+t=20 s=2 threadsLeft=4
+t=20 s=3 threadsLeft=3
+t=20 s=5 threadsLeft=2
+t=20 s=5 threadsLeft=1
+t=20 s=6 threadsLeft=0
+t=20 time=0.000618
+t=21 s=21 threadsLeft=5
+t=21 s=17 threadsLeft=4
+t=21 s=6 threadsLeft=3
+t=21 s=6 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000565
+t=22 s=22 threadsLeft=7
+t=22 s=18 threadsLeft=6
+t=22 s=2 threadsLeft=5
+t=22 s=7 threadsLeft=4
+t=22 s=7 threadsLeft=3
+t=22 s=6 threadsLeft=2
+t=22 s=3 threadsLeft=1
+t=22 s=4 threadsLeft=0
+t=22 time=0.000605
+t=23 s=23 threadsLeft=5
+t=23 s=19 threadsLeft=4
+t=23 s=7 threadsLeft=3
+t=23 s=8 threadsLeft=2
+t=23 s=5 threadsLeft=1
+t=23 s=4 threadsLeft=0
+t=23 time=0.000651
+t=24 s=24 threadsLeft=5
+t=24 s=20 threadsLeft=4
+t=24 s=5 threadsLeft=3
+t=24 s=3 threadsLeft=2
+t=24 s=4 threadsLeft=1
+t=24 s=5 threadsLeft=0
+t=24 time=0.000727
+t=25 s=25 threadsLeft=4
+t=25 s=21 threadsLeft=3
+t=25 s=8 threadsLeft=2
+t=25 s=6 threadsLeft=1
+t=25 s=3 threadsLeft=0
+t=25 time=0.000699
+t=26 s=26 threadsLeft=5
+t=26 s=22 threadsLeft=4
+t=26 s=9 threadsLeft=3
+t=26 s=7 threadsLeft=2
+t=26 s=6 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.000932
+t=27 s=27 threadsLeft=6
+t=27 s=23 threadsLeft=5
+t=27 s=8 threadsLeft=4
+t=27 s=7 threadsLeft=3
+t=27 s=5 threadsLeft=2
+t=27 s=6 threadsLeft=1
+t=27 s=4 threadsLeft=0
+t=27 time=0.000779
+t=28 s=28 threadsLeft=5
+t=28 s=24 threadsLeft=4
+t=28 s=10 threadsLeft=3
+t=28 s=9 threadsLeft=2
+t=28 s=7 threadsLeft=1
+t=28 s=3 threadsLeft=0
+t=28 time=0.000581
+t=29 s=29 threadsLeft=4
+t=29 s=25 threadsLeft=3
+t=29 s=10 threadsLeft=2
+t=29 s=8 threadsLeft=1
+t=29 s=5 threadsLeft=0
+t=29 time=0.000978
+t=30 s=30 threadsLeft=8
+t=30 s=26 threadsLeft=7
+t=30 s=11 threadsLeft=6
+t=30 s=6 threadsLeft=5
+t=30 s=9 threadsLeft=4
+t=30 s=8 threadsLeft=3
+t=30 s=7 threadsLeft=2
+t=30 s=5 threadsLeft=1
+t=30 s=4 threadsLeft=0
+t=30 time=0.001148
+t=31 s=31 threadsLeft=4
+t=31 s=27 threadsLeft=3
+t=31 s=9 threadsLeft=2
+t=31 s=8 threadsLeft=1
+t=31 s=4 threadsLeft=0
+t=31 time=0.001176
+t=32 s=32 threadsLeft=5
+t=32 s=28 threadsLeft=4
+t=32 s=2 threadsLeft=3
+t=32 s=10 threadsLeft=2
+t=32 s=9 threadsLeft=1
+t=32 s=9 threadsLeft=0
+t=32 time=0.000517
+t=33 s=33 threadsLeft=9
+t=33 s=29 threadsLeft=8
+t=33 s=2 threadsLeft=7
+t=33 s=10 threadsLeft=6
+t=33 s=7 threadsLeft=5
+t=33 s=6 threadsLeft=4
+t=33 s=8 threadsLeft=3
+t=33 s=10 threadsLeft=2
+t=33 s=3 threadsLeft=1
+t=33 s=5 threadsLeft=0
+t=33 time=0.001736
+t=34 s=34 threadsLeft=8
+t=34 s=30 threadsLeft=7
+t=34 s=2 threadsLeft=6
+t=34 s=11 threadsLeft=5
+t=34 s=11 threadsLeft=4
+t=34 s=10 threadsLeft=3
+t=34 s=3 threadsLeft=2
+t=34 s=3 threadsLeft=1
+t=34 s=4 threadsLeft=0
+t=34 time=0.001923
+t=35 s=35 threadsLeft=5
+t=35 s=31 threadsLeft=4
+t=35 s=11 threadsLeft=3
+t=35 s=12 threadsLeft=2
+t=35 s=4 threadsLeft=1
+t=35 s=5 threadsLeft=0
+t=35 time=0.0022
+t=36 s=36 threadsLeft=12
+t=36 s=32 threadsLeft=11
+t=36 s=7 threadsLeft=10
+t=36 s=9 threadsLeft=9
+t=36 s=6 threadsLeft=8
+t=36 s=2 threadsLeft=7
+t=36 s=8 threadsLeft=6
+t=36 s=9 threadsLeft=5
+t=36 s=3 threadsLeft=4
+t=36 s=5 threadsLeft=3
+t=36 s=6 threadsLeft=2
+t=36 s=5 threadsLeft=1
+t=36 s=4 threadsLeft=0
+t=36 time=0.002467
+t=37 s=37 threadsLeft=7
+t=37 s=33 threadsLeft=6
+t=37 s=12 threadsLeft=5
+t=37 s=10 threadsLeft=4
+t=37 s=3 threadsLeft=3
+t=37 s=6 threadsLeft=2
+t=37 s=7 threadsLeft=1
+t=37 s=4 threadsLeft=0
+t=37 time=0.00295
+t=38 s=38 threadsLeft=11
+t=38 s=34 threadsLeft=10
+t=38 s=2 threadsLeft=9
+t=38 s=13 threadsLeft=8
+t=38 s=11 threadsLeft=7
+t=38 s=10 threadsLeft=6
+t=38 s=7 threadsLeft=5
+t=38 s=3 threadsLeft=4
+t=38 s=8 threadsLeft=3
+t=38 s=6 threadsLeft=2
+t=38 s=4 threadsLeft=1
+t=38 s=5 threadsLeft=0
+t=38 time=0.004501
+t=39 s=39 threadsLeft=11
+t=39 s=35 threadsLeft=10
+t=39 s=9 threadsLeft=9
+t=39 s=7 threadsLeft=8
+t=39 s=8 threadsLeft=7
+t=39 s=12 threadsLeft=6
+t=39 s=11 threadsLeft=5
+t=39 s=10 threadsLeft=4
+t=39 s=8 threadsLeft=3
+t=39 s=9 threadsLeft=2
+t=39 s=4 threadsLeft=1
+t=39 s=5 threadsLeft=0
+t=39 time=0.005061
+t=40 s=40 threadsLeft=9
+t=40 s=36 threadsLeft=8
+t=40 s=14 threadsLeft=7
+t=40 s=2 threadsLeft=6
+t=40 s=13 threadsLeft=5
+t=40 s=11 threadsLeft=4
+t=40 s=9 threadsLeft=3
+t=40 s=3 threadsLeft=2
+t=40 s=10 threadsLeft=1
+t=40 s=5 threadsLeft=0
+t=40 time=0.00465
+t=41 s=41 threadsLeft=10
+t=41 s=37 threadsLeft=9
+t=41 s=14 threadsLeft=8
+t=41 s=12 threadsLeft=7
+t=41 s=10 threadsLeft=6
+t=41 s=11 threadsLeft=5
+t=41 s=3 threadsLeft=4
+t=41 s=3 threadsLeft=3
+t=41 s=7 threadsLeft=2
+t=41 s=6 threadsLeft=1
+t=41 s=4 threadsLeft=0
+t=41 time=0.004861
+t=42 s=42 threadsLeft=19
+t=42 s=38 threadsLeft=18
+t=42 s=10 threadsLeft=17
+t=42 s=15 threadsLeft=16
+t=42 s=7 threadsLeft=15
+t=42 s=8 threadsLeft=14
+t=42 s=12 threadsLeft=13
+t=42 s=9 threadsLeft=12
+t=42 s=13 threadsLeft=11
+t=42 s=11 threadsLeft=10
+t=42 s=6 threadsLeft=9
+t=42 s=3 threadsLeft=8
+t=42 s=7 threadsLeft=7
+t=42 s=8 threadsLeft=6
+t=42 s=4 threadsLeft=5
+t=42 s=6 threadsLeft=4
+t=42 s=4 threadsLeft=3
+t=42 s=5 threadsLeft=2
+t=42 s=4 threadsLeft=1
+t=42 s=5 threadsLeft=0
+t=42 time=0.008859
+t=43 s=43 threadsLeft=8
+t=43 s=39 threadsLeft=7
+t=43 s=13 threadsLeft=6
+t=43 s=12 threadsLeft=5
+t=43 s=8 threadsLeft=4
+t=43 s=9 threadsLeft=3
+t=43 s=4 threadsLeft=2
+t=43 s=6 threadsLeft=1
+t=43 s=5 threadsLeft=0
+t=43 time=0.010063
+t=44 s=44 threadsLeft=13
+t=44 s=40 threadsLeft=12
+t=44 s=14 threadsLeft=11
+t=44 s=2 threadsLeft=10
+t=44 s=13 threadsLeft=9
+t=44 s=13 threadsLeft=8
+t=44 s=10 threadsLeft=7
+t=44 s=9 threadsLeft=6
+t=44 s=3 threadsLeft=5
+t=44 s=7 threadsLeft=4
+t=44 s=7 threadsLeft=3
+t=44 s=6 threadsLeft=2
+t=44 s=5 threadsLeft=1
+t=44 s=4 threadsLeft=0
+t=44 time=0.008757
+t=45 s=45 threadsLeft=16
+t=45 s=41 threadsLeft=15
+t=45 s=8 threadsLeft=14
+t=45 s=14 threadsLeft=13
+t=45 s=11 threadsLeft=12
+t=45 s=10 threadsLeft=11
+t=45 s=9 threadsLeft=10
+t=45 s=14 threadsLeft=9
+t=45 s=12 threadsLeft=8
+t=45 s=11 threadsLeft=7
+t=45 s=10 threadsLeft=6
+t=45 s=3 threadsLeft=5
+t=45 s=8 threadsLeft=4
+t=45 s=7 threadsLeft=3
+t=45 s=5 threadsLeft=2
+t=45 s=4 threadsLeft=1
+t=45 s=5 threadsLeft=0
+t=45 time=0.014519
+t=46 s=46 threadsLeft=11
+t=46 s=42 threadsLeft=10
+t=46 s=15 threadsLeft=9
+t=46 s=15 threadsLeft=8
+t=46 s=14 threadsLeft=7
+t=46 s=11 threadsLeft=6
+t=46 s=12 threadsLeft=5
+t=46 s=3 threadsLeft=4
+t=46 s=6 threadsLeft=3
+t=46 s=5 threadsLeft=2
+t=46 s=4 threadsLeft=1
+t=46 s=6 threadsLeft=0
+t=46 time=0.015269
+t=47 s=47 threadsLeft=8
+t=47 s=43 threadsLeft=7
+t=47 s=15 threadsLeft=6
+t=47 s=16 threadsLeft=5
+t=47 s=12 threadsLeft=4
+t=47 s=13 threadsLeft=3
+t=47 s=4 threadsLeft=2
+t=47 s=6 threadsLeft=1
+t=47 s=5 threadsLeft=0
+t=47 time=0.019981
+t=48 s=48 threadsLeft=21
+t=48 s=44 threadsLeft=20
+t=48 s=11 threadsLeft=19
+t=48 s=13 threadsLeft=18
+t=48 s=8 threadsLeft=17
+t=48 s=9 threadsLeft=16
+t=48 s=7 threadsLeft=15
+t=48 s=10 threadsLeft=14
+t=48 s=13 threadsLeft=13
+t=48 s=12 threadsLeft=12
+t=48 s=3 threadsLeft=11
+t=48 s=3 threadsLeft=10
+t=48 s=9 threadsLeft=9
+t=48 s=7 threadsLeft=8
+t=48 s=4 threadsLeft=7
+t=48 s=7 threadsLeft=6
+t=48 s=6 threadsLeft=5
+t=48 s=4 threadsLeft=4
+t=48 s=4 threadsLeft=3
+t=48 s=6 threadsLeft=2
+t=48 s=6 threadsLeft=1
+t=48 s=5 threadsLeft=0
+t=48 time=0.0216
+t=49 s=49 threadsLeft=12
+t=49 s=45 threadsLeft=11
+t=49 s=16 threadsLeft=10
+t=49 s=14 threadsLeft=9
+t=49 s=8 threadsLeft=8
+t=49 s=7 threadsLeft=7
+t=49 s=8 threadsLeft=6
+t=49 s=7 threadsLeft=5
+t=49 s=4 threadsLeft=4
+t=49 s=4 threadsLeft=3
+t=49 s=5 threadsLeft=2
+t=49 s=5 threadsLeft=1
+t=49 s=5 threadsLeft=0
+t=49 time=0.025767
+t=50 s=50 threadsLeft=15
+t=50 s=46 threadsLeft=14
+t=50 s=17 threadsLeft=13
+t=50 s=15 threadsLeft=12
+t=50 s=14 threadsLeft=11
+t=50 s=10 threadsLeft=10
+t=50 s=9 threadsLeft=9
+t=50 s=8 threadsLeft=8
+t=50 s=7 threadsLeft=7
+t=50 s=8 threadsLeft=6
+t=50 s=5 threadsLeft=5
+t=50 s=6 threadsLeft=4
+t=50 s=6 threadsLeft=3
+t=50 s=6 threadsLeft=2
+t=50 s=5 threadsLeft=1
+t=50 s=5 threadsLeft=0
+t=50 time=0.037828
+t=51 s=51 threadsLeft=12
+t=51 s=47 threadsLeft=11
+t=51 s=11 threadsLeft=10
+t=51 s=9 threadsLeft=9
+t=51 s=10 threadsLeft=8
+t=51 s=12 threadsLeft=7
+t=51 s=15 threadsLeft=6
+t=51 s=16 threadsLeft=5
+t=51 s=13 threadsLeft=4
+t=51 s=14 threadsLeft=3
+t=51 s=10 threadsLeft=2
+t=51 s=9 threadsLeft=1
+t=51 s=6 threadsLeft=0
+t=51 time=0.024129
+t=52 s=52 threadsLeft=11
+t=52 s=48 threadsLeft=10
+t=52 s=18 threadsLeft=9
+t=52 s=17 threadsLeft=8
+t=52 s=15 threadsLeft=7
+t=52 s=3 threadsLeft=6
+t=52 s=11 threadsLeft=5
+t=52 s=9 threadsLeft=4
+t=52 s=8 threadsLeft=3
+t=52 s=7 threadsLeft=2
+t=52 s=4 threadsLeft=1
+t=52 s=6 threadsLeft=0
+t=52 time=0.039429
+t=53 s=53 threadsLeft=7
+t=53 s=49 threadsLeft=6
+t=53 s=18 threadsLeft=5
+t=53 s=16 threadsLeft=4
+t=53 s=7 threadsLeft=3
+t=53 s=7 threadsLeft=2
+t=53 s=4 threadsLeft=1
+t=53 s=5 threadsLeft=0
+t=53 time=0.048687
+t=54 s=54 threadsLeft=19
+t=54 s=50 threadsLeft=18
+t=54 s=11 threadsLeft=17
+t=54 s=12 threadsLeft=16
+t=54 s=16 threadsLeft=15
+t=54 s=8 threadsLeft=14
+t=54 s=10 threadsLeft=13
+t=54 s=14 threadsLeft=12
+t=54 s=9 threadsLeft=11
+t=54 s=19 threadsLeft=10
+t=54 s=17 threadsLeft=9
+t=54 s=15 threadsLeft=8
+t=54 s=13 threadsLeft=7
+t=54 s=10 threadsLeft=6
+t=54 s=8 threadsLeft=5
+t=54 s=7 threadsLeft=4
+t=54 s=4 threadsLeft=3
+t=54 s=6 threadsLeft=2
+t=54 s=5 threadsLeft=1
+t=54 s=5 threadsLeft=0
+t=54 time=0.063936
+t=55 s=55 threadsLeft=9
+t=55 s=51 threadsLeft=8
+t=55 s=17 threadsLeft=7
+t=55 s=16 threadsLeft=6
+t=55 s=9 threadsLeft=5
+t=55 s=10 threadsLeft=4
+t=55 s=8 threadsLeft=3
+t=55 s=8 threadsLeft=2
+t=55 s=7 threadsLeft=1
+t=55 s=6 threadsLeft=0
+t=55 time=0.067934
+[38;2;000;128;000mTime: 0.478798s (2025-10-04 15:40:47)
+[0mt=2 s=2 threadsLeft=0
+t=2 time=0.000166
+t=3 s=3 threadsLeft=0
+t=3 time=0.000411
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000506
+t=5 s=5 threadsLeft=0
+t=5 time=0.000445
+t=6 s=6 threadsLeft=0
+t=6 time=0.000496
+t=7 s=7 threadsLeft=1
+t=7 s=3 threadsLeft=0
+t=7 time=0.000408
+t=8 s=8 threadsLeft=2
+t=8 s=4 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000445
+t=9 s=9 threadsLeft=3
+t=9 s=2 threadsLeft=2
+t=9 s=2 threadsLeft=1
+t=9 s=5 threadsLeft=0
+t=9 time=0.000409
+t=10 s=10 threadsLeft=4
+t=10 s=6 threadsLeft=3
+t=10 s=2 threadsLeft=2
+t=10 s=3 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000448
+t=11 s=11 threadsLeft=3
+t=11 s=7 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000429
+t=12 s=12 threadsLeft=1
+t=12 s=8 threadsLeft=0
+t=12 time=0.000385
+t=13 s=13 threadsLeft=3
+t=13 s=9 threadsLeft=2
+t=13 s=2 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000418
+t=14 s=14 threadsLeft=4
+t=14 s=10 threadsLeft=3
+t=14 s=2 threadsLeft=2
+t=14 s=5 threadsLeft=1
+t=14 s=3 threadsLeft=0
+t=14 time=0.000482
+t=15 s=15 threadsLeft=3
+t=15 s=11 threadsLeft=2
+t=15 s=3 threadsLeft=1
+t=15 s=4 threadsLeft=0
+t=15 time=0.000428
+t=16 s=16 threadsLeft=5
+t=16 s=12 threadsLeft=4
+t=16 s=6 threadsLeft=3
+t=16 s=2 threadsLeft=2
+t=16 s=5 threadsLeft=1
+t=16 s=3 threadsLeft=0
+t=16 time=0.000494
+t=17 s=17 threadsLeft=5
+t=17 s=13 threadsLeft=4
+t=17 s=6 threadsLeft=3
+t=17 s=2 threadsLeft=2
+t=17 s=3 threadsLeft=1
+t=17 s=4 threadsLeft=0
+t=17 time=0.000463
+t=18 s=18 threadsLeft=6
+t=18 s=14 threadsLeft=5
+t=18 s=7 threadsLeft=4
+t=18 s=2 threadsLeft=3
+t=18 s=5 threadsLeft=2
+t=18 s=4 threadsLeft=1
+t=18 s=3 threadsLeft=0
+t=18 time=0.000529
+t=19 s=19 threadsLeft=3
+t=19 s=15 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.000628
+t=20 s=20 threadsLeft=6
+t=20 s=16 threadsLeft=5
+t=20 s=6 threadsLeft=4
+t=20 s=2 threadsLeft=3
+t=20 s=3 threadsLeft=2
+t=20 s=5 threadsLeft=1
+t=20 s=5 threadsLeft=0
+t=20 time=0.000559
+t=21 s=21 threadsLeft=5
+t=21 s=17 threadsLeft=4
+t=21 s=6 threadsLeft=3
+t=21 s=6 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000529
+t=22 s=22 threadsLeft=7
+t=22 s=18 threadsLeft=6
+t=22 s=7 threadsLeft=5
+t=22 s=2 threadsLeft=4
+t=22 s=7 threadsLeft=3
+t=22 s=6 threadsLeft=2
+t=22 s=4 threadsLeft=1
+t=22 s=3 threadsLeft=0
+t=22 time=0.000611
+t=23 s=23 threadsLeft=5
+t=23 s=19 threadsLeft=4
+t=23 s=7 threadsLeft=3
+t=23 s=8 threadsLeft=2
+t=23 s=5 threadsLeft=1
+t=23 s=4 threadsLeft=0
+t=23 time=0.000653
+t=24 s=24 threadsLeft=5
+t=24 s=20 threadsLeft=4
+t=24 s=5 threadsLeft=3
+t=24 s=3 threadsLeft=2
+t=24 s=5 threadsLeft=1
+t=24 s=4 threadsLeft=0
+t=24 time=0.000632
+t=25 s=25 threadsLeft=4
+t=25 s=21 threadsLeft=3
+t=25 s=8 threadsLeft=2
+t=25 s=6 threadsLeft=1
+t=25 s=3 threadsLeft=0
+t=25 time=0.000568
+t=26 s=26 threadsLeft=5
+t=26 s=22 threadsLeft=4
+t=26 s=9 threadsLeft=3
+t=26 s=7 threadsLeft=2
+t=26 s=6 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.000953
+t=27 s=27 threadsLeft=6
+t=27 s=23 threadsLeft=5
+t=27 s=8 threadsLeft=4
+t=27 s=7 threadsLeft=3
+t=27 s=5 threadsLeft=2
+t=27 s=6 threadsLeft=1
+t=27 s=4 threadsLeft=0
+t=27 time=0.000807
+t=28 s=28 threadsLeft=5
+t=28 s=24 threadsLeft=4
+t=28 s=10 threadsLeft=3
+t=28 s=9 threadsLeft=2
+t=28 s=7 threadsLeft=1
+t=28 s=3 threadsLeft=0
+t=28 time=0.000574
+t=29 s=29 threadsLeft=4
+t=29 s=25 threadsLeft=3
+t=29 s=10 threadsLeft=2
+t=29 s=8 threadsLeft=1
+t=29 s=5 threadsLeft=0
+t=29 time=0.001008
+t=30 s=30 threadsLeft=8
+t=30 s=26 threadsLeft=7
+t=30 s=11 threadsLeft=6
+t=30 s=8 threadsLeft=5
+t=30 s=9 threadsLeft=4
+t=30 s=6 threadsLeft=3
+t=30 s=5 threadsLeft=2
+t=30 s=7 threadsLeft=1
+t=30 s=4 threadsLeft=0
+t=30 time=0.001125
+t=31 s=31 threadsLeft=4
+t=31 s=27 threadsLeft=3
+t=31 s=9 threadsLeft=2
+t=31 s=8 threadsLeft=1
+t=31 s=4 threadsLeft=0
+t=31 time=0.00121
+t=32 s=32 threadsLeft=5
+t=32 s=28 threadsLeft=4
+t=32 s=2 threadsLeft=3
+t=32 s=10 threadsLeft=2
+t=32 s=9 threadsLeft=1
+t=32 s=9 threadsLeft=0
+t=32 time=0.000496
+t=33 s=33 threadsLeft=9
+t=33 s=29 threadsLeft=8
+t=33 s=2 threadsLeft=7
+t=33 s=10 threadsLeft=6
+t=33 s=7 threadsLeft=5
+t=33 s=8 threadsLeft=4
+t=33 s=10 threadsLeft=3
+t=33 s=6 threadsLeft=2
+t=33 s=3 threadsLeft=1
+t=33 s=5 threadsLeft=0
+t=33 time=0.001778
+t=34 s=34 threadsLeft=8
+t=34 s=30 threadsLeft=7
+t=34 s=11 threadsLeft=6
+t=34 s=2 threadsLeft=5
+t=34 s=11 threadsLeft=4
+t=34 s=10 threadsLeft=3
+t=34 s=3 threadsLeft=2
+t=34 s=3 threadsLeft=1
+t=34 s=4 threadsLeft=0
+t=34 time=0.001882
+t=35 s=35 threadsLeft=5
+t=35 s=31 threadsLeft=4
+t=35 s=11 threadsLeft=3
+t=35 s=12 threadsLeft=2
+t=35 s=4 threadsLeft=1
+t=35 s=5 threadsLeft=0
+t=35 time=0.002207
+t=36 s=36 threadsLeft=12
+t=36 s=32 threadsLeft=11
+t=36 s=7 threadsLeft=10
+t=36 s=9 threadsLeft=9
+t=36 s=6 threadsLeft=8
+t=36 s=2 threadsLeft=7
+t=36 s=8 threadsLeft=6
+t=36 s=9 threadsLeft=5
+t=36 s=3 threadsLeft=4
+t=36 s=5 threadsLeft=3
+t=36 s=6 threadsLeft=2
+t=36 s=5 threadsLeft=1
+t=36 s=4 threadsLeft=0
+t=36 time=0.002505
+t=37 s=37 threadsLeft=7
+t=37 s=33 threadsLeft=6
+t=37 s=12 threadsLeft=5
+t=37 s=10 threadsLeft=4
+t=37 s=3 threadsLeft=3
+t=37 s=6 threadsLeft=2
+t=37 s=7 threadsLeft=1
+t=37 s=4 threadsLeft=0
+t=37 time=0.003015
+t=38 s=38 threadsLeft=11
+t=38 s=34 threadsLeft=10
+t=38 s=13 threadsLeft=9
+t=38 s=2 threadsLeft=8
+t=38 s=11 threadsLeft=7
+t=38 s=10 threadsLeft=6
+t=38 s=7 threadsLeft=5
+t=38 s=3 threadsLeft=4
+t=38 s=8 threadsLeft=3
+t=38 s=6 threadsLeft=2
+t=38 s=4 threadsLeft=1
+t=38 s=5 threadsLeft=0
+t=38 time=0.0044
+t=39 s=39 threadsLeft=11
+t=39 s=35 threadsLeft=10
+t=39 s=9 threadsLeft=9
+t=39 s=7 threadsLeft=8
+t=39 s=8 threadsLeft=7
+t=39 s=12 threadsLeft=6
+t=39 s=11 threadsLeft=5
+t=39 s=10 threadsLeft=4
+t=39 s=8 threadsLeft=3
+t=39 s=9 threadsLeft=2
+t=39 s=4 threadsLeft=1
+t=39 s=5 threadsLeft=0
+t=39 time=0.005069
+t=40 s=40 threadsLeft=9
+t=40 s=36 threadsLeft=8
+t=40 s=14 threadsLeft=7
+t=40 s=2 threadsLeft=6
+t=40 s=13 threadsLeft=5
+t=40 s=11 threadsLeft=4
+t=40 s=9 threadsLeft=3
+t=40 s=3 threadsLeft=2
+t=40 s=10 threadsLeft=1
+t=40 s=5 threadsLeft=0
+t=40 time=0.004594
+t=41 s=41 threadsLeft=10
+t=41 s=37 threadsLeft=9
+t=41 s=14 threadsLeft=8
+t=41 s=12 threadsLeft=7
+t=41 s=10 threadsLeft=6
+t=41 s=11 threadsLeft=5
+t=41 s=3 threadsLeft=4
+t=41 s=3 threadsLeft=3
+t=41 s=7 threadsLeft=2
+t=41 s=6 threadsLeft=1
+t=41 s=4 threadsLeft=0
+t=41 time=0.004663
+t=42 s=42 threadsLeft=19
+t=42 s=38 threadsLeft=18
+t=42 s=10 threadsLeft=17
+t=42 s=15 threadsLeft=16
+t=42 s=12 threadsLeft=15
+t=42 s=9 threadsLeft=14
+t=42 s=13 threadsLeft=13
+t=42 s=8 threadsLeft=12
+t=42 s=7 threadsLeft=11
+t=42 s=11 threadsLeft=10
+t=42 s=6 threadsLeft=9
+t=42 s=3 threadsLeft=8
+t=42 s=7 threadsLeft=7
+t=42 s=8 threadsLeft=6
+t=42 s=4 threadsLeft=5
+t=42 s=6 threadsLeft=4
+t=42 s=5 threadsLeft=3
+t=42 s=4 threadsLeft=2
+t=42 s=4 threadsLeft=1
+t=42 s=5 threadsLeft=0
+t=42 time=0.008824
+t=43 s=43 threadsLeft=8
+t=43 s=39 threadsLeft=7
+t=43 s=13 threadsLeft=6
+t=43 s=12 threadsLeft=5
+t=43 s=8 threadsLeft=4
+t=43 s=9 threadsLeft=3
+t=43 s=4 threadsLeft=2
+t=43 s=6 threadsLeft=1
+t=43 s=5 threadsLeft=0
+t=43 time=0.01005
+t=44 s=44 threadsLeft=13
+t=44 s=40 threadsLeft=12
+t=44 s=14 threadsLeft=11
+t=44 s=2 threadsLeft=10
+t=44 s=13 threadsLeft=9
+t=44 s=13 threadsLeft=8
+t=44 s=10 threadsLeft=7
+t=44 s=9 threadsLeft=6
+t=44 s=3 threadsLeft=5
+t=44 s=7 threadsLeft=4
+t=44 s=7 threadsLeft=3
+t=44 s=6 threadsLeft=2
+t=44 s=4 threadsLeft=1
+t=44 s=5 threadsLeft=0
+t=44 time=0.008519
+t=45 s=45 threadsLeft=16
+t=45 s=41 threadsLeft=15
+t=45 s=14 threadsLeft=14
+t=45 s=8 threadsLeft=13
+t=45 s=11 threadsLeft=12
+t=45 s=9 threadsLeft=11
+t=45 s=10 threadsLeft=10
+t=45 s=14 threadsLeft=9
+t=45 s=12 threadsLeft=8
+t=45 s=10 threadsLeft=7
+t=45 s=11 threadsLeft=6
+t=45 s=3 threadsLeft=5
+t=45 s=8 threadsLeft=4
+t=45 s=7 threadsLeft=3
+t=45 s=5 threadsLeft=2
+t=45 s=4 threadsLeft=1
+t=45 s=5 threadsLeft=0
+t=45 time=0.015195
+t=46 s=46 threadsLeft=11
+t=46 s=42 threadsLeft=10
+t=46 s=15 threadsLeft=9
+t=46 s=15 threadsLeft=8
+t=46 s=14 threadsLeft=7
+t=46 s=11 threadsLeft=6
+t=46 s=12 threadsLeft=5
+t=46 s=3 threadsLeft=4
+t=46 s=6 threadsLeft=3
+t=46 s=5 threadsLeft=2
+t=46 s=4 threadsLeft=1
+t=46 s=6 threadsLeft=0
+t=46 time=0.015213
+t=47 s=47 threadsLeft=8
+t=47 s=43 threadsLeft=7
+t=47 s=15 threadsLeft=6
+t=47 s=16 threadsLeft=5
+t=47 s=12 threadsLeft=4
+t=47 s=13 threadsLeft=3
+t=47 s=6 threadsLeft=2
+t=47 s=4 threadsLeft=1
+t=47 s=5 threadsLeft=0
+t=47 time=0.019694
+t=48 s=48 threadsLeft=21
+t=48 s=44 threadsLeft=20
+t=48 s=11 threadsLeft=19
+t=48 s=8 threadsLeft=18
+t=48 s=13 threadsLeft=17
+t=48 s=10 threadsLeft=16
+t=48 s=7 threadsLeft=15
+t=48 s=9 threadsLeft=14
+t=48 s=13 threadsLeft=13
+t=48 s=12 threadsLeft=12
+t=48 s=3 threadsLeft=11
+t=48 s=3 threadsLeft=10
+t=48 s=9 threadsLeft=9
+t=48 s=7 threadsLeft=8
+t=48 s=7 threadsLeft=7
+t=48 s=4 threadsLeft=6
+t=48 s=4 threadsLeft=5
+t=48 s=6 threadsLeft=4
+t=48 s=4 threadsLeft=3
+t=48 s=6 threadsLeft=2
+t=48 s=6 threadsLeft=1
+t=48 s=5 threadsLeft=0
+t=48 time=0.020962
+t=49 s=49 threadsLeft=12
+t=49 s=45 threadsLeft=11
+t=49 s=16 threadsLeft=10
+t=49 s=14 threadsLeft=9
+t=49 s=8 threadsLeft=8
+t=49 s=7 threadsLeft=7
+t=49 s=8 threadsLeft=6
+t=49 s=7 threadsLeft=5
+t=49 s=4 threadsLeft=4
+t=49 s=4 threadsLeft=3
+t=49 s=5 threadsLeft=2
+t=49 s=5 threadsLeft=1
+t=49 s=5 threadsLeft=0
+t=49 time=0.025141
+t=50 s=50 threadsLeft=15
+t=50 s=46 threadsLeft=14
+t=50 s=17 threadsLeft=13
+t=50 s=15 threadsLeft=12
+t=50 s=14 threadsLeft=11
+t=50 s=10 threadsLeft=10
+t=50 s=9 threadsLeft=9
+t=50 s=8 threadsLeft=8
+t=50 s=7 threadsLeft=7
+t=50 s=8 threadsLeft=6
+t=50 s=5 threadsLeft=5
+t=50 s=6 threadsLeft=4
+t=50 s=6 threadsLeft=3
+t=50 s=6 threadsLeft=2
+t=50 s=5 threadsLeft=1
+t=50 s=5 threadsLeft=0
+t=50 time=0.0367
+t=51 s=51 threadsLeft=12
+t=51 s=47 threadsLeft=11
+t=51 s=12 threadsLeft=10
+t=51 s=11 threadsLeft=9
+t=51 s=9 threadsLeft=8
+t=51 s=10 threadsLeft=7
+t=51 s=15 threadsLeft=6
+t=51 s=16 threadsLeft=5
+t=51 s=13 threadsLeft=4
+t=51 s=14 threadsLeft=3
+t=51 s=10 threadsLeft=2
+t=51 s=9 threadsLeft=1
+t=51 s=6 threadsLeft=0
+t=51 time=0.023704
+t=52 s=52 threadsLeft=11
+t=52 s=48 threadsLeft=10
+t=52 s=18 threadsLeft=9
+t=52 s=17 threadsLeft=8
+t=52 s=15 threadsLeft=7
+t=52 s=3 threadsLeft=6
+t=52 s=11 threadsLeft=5
+t=52 s=9 threadsLeft=4
+t=52 s=8 threadsLeft=3
+t=52 s=7 threadsLeft=2
+t=52 s=4 threadsLeft=1
+t=52 s=6 threadsLeft=0
+t=52 time=0.038271
+t=53 s=53 threadsLeft=7
+t=53 s=49 threadsLeft=6
+t=53 s=18 threadsLeft=5
+t=53 s=16 threadsLeft=4
+t=53 s=7 threadsLeft=3
+t=53 s=7 threadsLeft=2
+t=53 s=4 threadsLeft=1
+t=53 s=5 threadsLeft=0
+t=53 time=0.047311
+t=54 s=54 threadsLeft=19
+t=54 s=50 threadsLeft=18
+t=54 s=12 threadsLeft=17
+t=54 s=16 threadsLeft=16
+t=54 s=8 threadsLeft=15
+t=54 s=9 threadsLeft=14
+t=54 s=14 threadsLeft=13
+t=54 s=19 threadsLeft=12
+t=54 s=10 threadsLeft=11
+t=54 s=11 threadsLeft=10
+t=54 s=17 threadsLeft=9
+t=54 s=15 threadsLeft=8
+t=54 s=13 threadsLeft=7
+t=54 s=10 threadsLeft=6
+t=54 s=8 threadsLeft=5
+t=54 s=7 threadsLeft=4
+t=54 s=4 threadsLeft=3
+t=54 s=6 threadsLeft=2
+t=54 s=5 threadsLeft=1
+t=54 s=5 threadsLeft=0
+t=54 time=0.06396
+t=55 s=55 threadsLeft=9
+t=55 s=51 threadsLeft=8
+t=55 s=17 threadsLeft=7
+t=55 s=16 threadsLeft=6
+t=55 s=9 threadsLeft=5
+t=55 s=10 threadsLeft=4
+t=55 s=8 threadsLeft=3
+t=55 s=8 threadsLeft=2
+t=55 s=7 threadsLeft=1
+t=55 s=6 threadsLeft=0
+t=55 time=0.066743
+[38;2;000;128;000mTime: 0.471176s (2025-10-27 20:18:05)
+[0mt=2 s=2 threadsLeft=0
+t=2 time=0.000136
+t=3 s=3 threadsLeft=0
+t=3 time=0.000372
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000362
+t=5 s=5 threadsLeft=0
+t=5 time=0.000495
+t=6 s=6 threadsLeft=0
+t=6 time=0.000386
+t=7 s=7 threadsLeft=1
+t=7 s=3 threadsLeft=0
+t=7 time=0.000404
+t=8 s=8 threadsLeft=2
+t=8 s=4 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000346
+t=9 s=9 threadsLeft=3
+t=9 s=5 threadsLeft=2
+t=9 s=2 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000371
+t=10 s=10 threadsLeft=4
+t=10 s=6 threadsLeft=3
+t=10 s=3 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.00039
+t=11 s=11 threadsLeft=3
+t=11 s=7 threadsLeft=2
+t=11 s=3 threadsLeft=1
+t=11 s=4 threadsLeft=0
+t=11 time=0.000359
+t=12 s=12 threadsLeft=1
+t=12 s=8 threadsLeft=0
+t=12 time=0.000308
+t=13 s=13 threadsLeft=3
+t=13 s=9 threadsLeft=2
+t=13 s=2 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000344
+t=14 s=14 threadsLeft=4
+t=14 s=10 threadsLeft=3
+t=14 s=2 threadsLeft=2
+t=14 s=5 threadsLeft=1
+t=14 s=3 threadsLeft=0
+t=14 time=0.000414
+t=15 s=15 threadsLeft=3
+t=15 s=11 threadsLeft=2
+t=15 s=3 threadsLeft=1
+t=15 s=4 threadsLeft=0
+t=15 time=0.000426
+t=16 s=16 threadsLeft=5
+t=16 s=12 threadsLeft=4
+t=16 s=6 threadsLeft=3
+t=16 s=2 threadsLeft=2
+t=16 s=5 threadsLeft=1
+t=16 s=3 threadsLeft=0
+t=16 time=0.000425
+t=17 s=17 threadsLeft=5
+t=17 s=13 threadsLeft=4
+t=17 s=2 threadsLeft=3
+t=17 s=6 threadsLeft=2
+t=17 s=3 threadsLeft=1
+t=17 s=4 threadsLeft=0
+t=17 time=0.000404
+t=18 s=18 threadsLeft=6
+t=18 s=14 threadsLeft=5
+t=18 s=7 threadsLeft=4
+t=18 s=5 threadsLeft=3
+t=18 s=2 threadsLeft=2
+t=18 s=4 threadsLeft=1
+t=18 s=3 threadsLeft=0
+t=18 time=0.000463
+t=19 s=19 threadsLeft=3
+t=19 s=15 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.000424
+t=20 s=20 threadsLeft=6
+t=20 s=16 threadsLeft=5
+t=20 s=2 threadsLeft=4
+t=20 s=6 threadsLeft=3
+t=20 s=3 threadsLeft=2
+t=20 s=5 threadsLeft=1
+t=20 s=5 threadsLeft=0
+t=20 time=0.000516
+t=21 s=21 threadsLeft=5
+t=21 s=17 threadsLeft=4
+t=21 s=6 threadsLeft=3
+t=21 s=6 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000735
+t=22 s=22 threadsLeft=7
+t=22 s=18 threadsLeft=6
+t=22 s=7 threadsLeft=5
+t=22 s=7 threadsLeft=4
+t=22 s=6 threadsLeft=3
+t=22 s=2 threadsLeft=2
+t=22 s=3 threadsLeft=1
+t=22 s=4 threadsLeft=0
+t=22 time=0.00073
+t=23 s=23 threadsLeft=5
+t=23 s=19 threadsLeft=4
+t=23 s=7 threadsLeft=3
+t=23 s=8 threadsLeft=2
+t=23 s=5 threadsLeft=1
+t=23 s=4 threadsLeft=0
+t=23 time=0.000577
+t=24 s=24 threadsLeft=5
+t=24 s=20 threadsLeft=4
+t=24 s=5 threadsLeft=3
+t=24 s=3 threadsLeft=2
+t=24 s=4 threadsLeft=1
+t=24 s=5 threadsLeft=0
+t=24 time=0.000586
+t=25 s=25 threadsLeft=4
+t=25 s=21 threadsLeft=3
+t=25 s=8 threadsLeft=2
+t=25 s=6 threadsLeft=1
+t=25 s=3 threadsLeft=0
+t=25 time=0.000526
+t=26 s=26 threadsLeft=5
+t=26 s=22 threadsLeft=4
+t=26 s=9 threadsLeft=3
+t=26 s=7 threadsLeft=2
+t=26 s=6 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.000911
+t=27 s=27 threadsLeft=6
+t=27 s=23 threadsLeft=5
+t=27 s=8 threadsLeft=4
+t=27 s=7 threadsLeft=3
+t=27 s=5 threadsLeft=2
+t=27 s=6 threadsLeft=1
+t=27 s=4 threadsLeft=0
+t=27 time=0.000768
+t=28 s=28 threadsLeft=5
+t=28 s=24 threadsLeft=4
+t=28 s=10 threadsLeft=3
+t=28 s=9 threadsLeft=2
+t=28 s=3 threadsLeft=1
+t=28 s=7 threadsLeft=0
+t=28 time=0.000583
+t=29 s=29 threadsLeft=4
+t=29 s=25 threadsLeft=3
+t=29 s=10 threadsLeft=2
+t=29 s=8 threadsLeft=1
+t=29 s=5 threadsLeft=0
+t=29 time=0.00097
+t=30 s=30 threadsLeft=8
+t=30 s=26 threadsLeft=7
+t=30 s=11 threadsLeft=6
+t=30 s=6 threadsLeft=5
+t=30 s=8 threadsLeft=4
+t=30 s=9 threadsLeft=3
+t=30 s=7 threadsLeft=2
+t=30 s=5 threadsLeft=1
+t=30 s=4 threadsLeft=0
+t=30 time=0.001186
+t=31 s=31 threadsLeft=4
+t=31 s=27 threadsLeft=3
+t=31 s=9 threadsLeft=2
+t=31 s=8 threadsLeft=1
+t=31 s=4 threadsLeft=0
+t=31 time=0.001191
+t=32 s=32 threadsLeft=5
+t=32 s=28 threadsLeft=4
+t=32 s=2 threadsLeft=3
+t=32 s=10 threadsLeft=2
+t=32 s=9 threadsLeft=1
+t=32 s=9 threadsLeft=0
+t=32 time=0.000502
+t=33 s=33 threadsLeft=9
+t=33 s=29 threadsLeft=8
+t=33 s=10 threadsLeft=7
+t=33 s=2 threadsLeft=6
+t=33 s=6 threadsLeft=5
+t=33 s=7 threadsLeft=4
+t=33 s=8 threadsLeft=3
+t=33 s=10 threadsLeft=2
+t=33 s=3 threadsLeft=1
+t=33 s=5 threadsLeft=0
+t=33 time=0.001711
+t=34 s=34 threadsLeft=8
+t=34 s=30 threadsLeft=7
+t=34 s=2 threadsLeft=6
+t=34 s=11 threadsLeft=5
+t=34 s=11 threadsLeft=4
+t=34 s=10 threadsLeft=3
+t=34 s=3 threadsLeft=2
+t=34 s=3 threadsLeft=1
+t=34 s=4 threadsLeft=0
+t=34 time=0.001904
+t=35 s=35 threadsLeft=5
+t=35 s=31 threadsLeft=4
+t=35 s=11 threadsLeft=3
+t=35 s=12 threadsLeft=2
+t=35 s=4 threadsLeft=1
+t=35 s=5 threadsLeft=0
+t=35 time=0.002193
+t=36 s=36 threadsLeft=12
+t=36 s=32 threadsLeft=11
+t=36 s=9 threadsLeft=10
+t=36 s=6 threadsLeft=9
+t=36 s=7 threadsLeft=8
+t=36 s=2 threadsLeft=7
+t=36 s=8 threadsLeft=6
+t=36 s=9 threadsLeft=5
+t=36 s=3 threadsLeft=4
+t=36 s=5 threadsLeft=3
+t=36 s=6 threadsLeft=2
+t=36 s=5 threadsLeft=1
+t=36 s=4 threadsLeft=0
+t=36 time=0.002545
+t=37 s=37 threadsLeft=7
+t=37 s=33 threadsLeft=6
+t=37 s=12 threadsLeft=5
+t=37 s=10 threadsLeft=4
+t=37 s=3 threadsLeft=3
+t=37 s=6 threadsLeft=2
+t=37 s=7 threadsLeft=1
+t=37 s=4 threadsLeft=0
+t=37 time=0.00301
+t=38 s=38 threadsLeft=11
+t=38 s=34 threadsLeft=10
+t=38 s=13 threadsLeft=9
+t=38 s=2 threadsLeft=8
+t=38 s=11 threadsLeft=7
+t=38 s=10 threadsLeft=6
+t=38 s=7 threadsLeft=5
+t=38 s=3 threadsLeft=4
+t=38 s=8 threadsLeft=3
+t=38 s=6 threadsLeft=2
+t=38 s=4 threadsLeft=1
+t=38 s=5 threadsLeft=0
+t=38 time=0.00429
+t=39 s=39 threadsLeft=11
+t=39 s=35 threadsLeft=10
+t=39 s=9 threadsLeft=9
+t=39 s=7 threadsLeft=8
+t=39 s=8 threadsLeft=7
+t=39 s=12 threadsLeft=6
+t=39 s=11 threadsLeft=5
+t=39 s=10 threadsLeft=4
+t=39 s=8 threadsLeft=3
+t=39 s=9 threadsLeft=2
+t=39 s=4 threadsLeft=1
+t=39 s=5 threadsLeft=0
+t=39 time=0.005064
+t=40 s=40 threadsLeft=9
+t=40 s=36 threadsLeft=8
+t=40 s=14 threadsLeft=7
+t=40 s=2 threadsLeft=6
+t=40 s=13 threadsLeft=5
+t=40 s=11 threadsLeft=4
+t=40 s=9 threadsLeft=3
+t=40 s=3 threadsLeft=2
+t=40 s=10 threadsLeft=1
+t=40 s=5 threadsLeft=0
+t=40 time=0.004739
+t=41 s=41 threadsLeft=10
+t=41 s=37 threadsLeft=9
+t=41 s=14 threadsLeft=8
+t=41 s=12 threadsLeft=7
+t=41 s=10 threadsLeft=6
+t=41 s=11 threadsLeft=5
+t=41 s=3 threadsLeft=4
+t=41 s=3 threadsLeft=3
+t=41 s=7 threadsLeft=2
+t=41 s=6 threadsLeft=1
+t=41 s=4 threadsLeft=0
+t=41 time=0.004823
+t=42 s=42 threadsLeft=19
+t=42 s=38 threadsLeft=18
+t=42 s=15 threadsLeft=17
+t=42 s=8 threadsLeft=16
+t=42 s=12 threadsLeft=15
+t=42 s=13 threadsLeft=14
+t=42 s=10 threadsLeft=13
+t=42 s=9 threadsLeft=12
+t=42 s=7 threadsLeft=11
+t=42 s=11 threadsLeft=10
+t=42 s=6 threadsLeft=9
+t=42 s=3 threadsLeft=8
+t=42 s=7 threadsLeft=7
+t=42 s=8 threadsLeft=6
+t=42 s=4 threadsLeft=5
+t=42 s=6 threadsLeft=4
+t=42 s=4 threadsLeft=3
+t=42 s=5 threadsLeft=2
+t=42 s=4 threadsLeft=1
+t=42 s=5 threadsLeft=0
+t=42 time=0.008772
+t=43 s=43 threadsLeft=8
+t=43 s=39 threadsLeft=7
+t=43 s=13 threadsLeft=6
+t=43 s=12 threadsLeft=5
+t=43 s=8 threadsLeft=4
+t=43 s=9 threadsLeft=3
+t=43 s=4 threadsLeft=2
+t=43 s=6 threadsLeft=1
+t=43 s=5 threadsLeft=0
+t=43 time=0.010375
+t=44 s=44 threadsLeft=13
+t=44 s=40 threadsLeft=12
+t=44 s=14 threadsLeft=11
+t=44 s=2 threadsLeft=10
+t=44 s=13 threadsLeft=9
+t=44 s=13 threadsLeft=8
+t=44 s=9 threadsLeft=7
+t=44 s=10 threadsLeft=6
+t=44 s=3 threadsLeft=5
+t=44 s=7 threadsLeft=4
+t=44 s=7 threadsLeft=3
+t=44 s=6 threadsLeft=2
+t=44 s=4 threadsLeft=1
+t=44 s=5 threadsLeft=0
+t=44 time=0.008989
+t=45 s=45 threadsLeft=16
+t=45 s=41 threadsLeft=15
+t=45 s=14 threadsLeft=14
+t=45 s=8 threadsLeft=13
+t=45 s=10 threadsLeft=12
+t=45 s=9 threadsLeft=11
+t=45 s=11 threadsLeft=10
+t=45 s=14 threadsLeft=9
+t=45 s=12 threadsLeft=8
+t=45 s=11 threadsLeft=7
+t=45 s=10 threadsLeft=6
+t=45 s=3 threadsLeft=5
+t=45 s=8 threadsLeft=4
+t=45 s=7 threadsLeft=3
+t=45 s=5 threadsLeft=2
+t=45 s=4 threadsLeft=1
+t=45 s=5 threadsLeft=0
+t=45 time=0.015044
+t=46 s=46 threadsLeft=11
+t=46 s=42 threadsLeft=10
+t=46 s=15 threadsLeft=9
+t=46 s=15 threadsLeft=8
+t=46 s=14 threadsLeft=7
+t=46 s=11 threadsLeft=6
+t=46 s=12 threadsLeft=5
+t=46 s=3 threadsLeft=4
+t=46 s=6 threadsLeft=3
+t=46 s=5 threadsLeft=2
+t=46 s=4 threadsLeft=1
+t=46 s=6 threadsLeft=0
+t=46 time=0.015268
+t=47 s=47 threadsLeft=8
+t=47 s=43 threadsLeft=7
+t=47 s=15 threadsLeft=6
+t=47 s=16 threadsLeft=5
+t=47 s=12 threadsLeft=4
+t=47 s=13 threadsLeft=3
+t=47 s=4 threadsLeft=2
+t=47 s=6 threadsLeft=1
+t=47 s=5 threadsLeft=0
+t=47 time=0.019932
+t=48 s=48 threadsLeft=21
+t=48 s=44 threadsLeft=20
+t=48 s=11 threadsLeft=19
+t=48 s=9 threadsLeft=18
+t=48 s=8 threadsLeft=17
+t=48 s=13 threadsLeft=16
+t=48 s=10 threadsLeft=15
+t=48 s=7 threadsLeft=14
+t=48 s=13 threadsLeft=13
+t=48 s=12 threadsLeft=12
+t=48 s=3 threadsLeft=11
+t=48 s=3 threadsLeft=10
+t=48 s=9 threadsLeft=9
+t=48 s=7 threadsLeft=8
+t=48 s=4 threadsLeft=7
+t=48 s=7 threadsLeft=6
+t=48 s=4 threadsLeft=5
+t=48 s=6 threadsLeft=4
+t=48 s=4 threadsLeft=3
+t=48 s=6 threadsLeft=2
+t=48 s=5 threadsLeft=1
+t=48 s=6 threadsLeft=0
+t=48 time=0.020883
+t=49 s=49 threadsLeft=12
+t=49 s=45 threadsLeft=11
+t=49 s=16 threadsLeft=10
+t=49 s=14 threadsLeft=9
+t=49 s=8 threadsLeft=8
+t=49 s=7 threadsLeft=7
+t=49 s=8 threadsLeft=6
+t=49 s=7 threadsLeft=5
+t=49 s=4 threadsLeft=4
+t=49 s=4 threadsLeft=3
+t=49 s=5 threadsLeft=2
+t=49 s=5 threadsLeft=1
+t=49 s=5 threadsLeft=0
+t=49 time=0.025519
+t=50 s=50 threadsLeft=15
+t=50 s=46 threadsLeft=14
+t=50 s=17 threadsLeft=13
+t=50 s=15 threadsLeft=12
+t=50 s=14 threadsLeft=11
+t=50 s=10 threadsLeft=10
+t=50 s=9 threadsLeft=9
+t=50 s=8 threadsLeft=8
+t=50 s=7 threadsLeft=7
+t=50 s=8 threadsLeft=6
+t=50 s=5 threadsLeft=5
+t=50 s=6 threadsLeft=4
+t=50 s=6 threadsLeft=3
+t=50 s=6 threadsLeft=2
+t=50 s=5 threadsLeft=1
+t=50 s=5 threadsLeft=0
+t=50 time=0.037734
+[38;2;000;128;000mTime: 0.233928s (2025-10-29 20:48:35)
+[0mt=2 s=2 threadsLeft=0
+t=2 time=0.000193
+t=3 s=3 threadsLeft=0
+t=3 time=0.00036
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000331
+t=5 s=5 threadsLeft=0
+t=5 time=0.000316
+t=6 s=6 threadsLeft=0
+t=6 time=0.000306
+t=7 s=7 threadsLeft=1
+t=7 s=3 threadsLeft=0
+t=7 time=0.000345
+t=8 s=8 threadsLeft=2
+t=8 s=4 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.00049
+t=9 s=9 threadsLeft=3
+t=9 s=2 threadsLeft=2
+t=9 s=5 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000506
+t=10 s=10 threadsLeft=4
+t=10 s=6 threadsLeft=3
+t=10 s=2 threadsLeft=2
+t=10 s=3 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000511
+t=11 s=11 threadsLeft=3
+t=11 s=7 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.00053
+t=12 s=12 threadsLeft=1
+t=12 s=8 threadsLeft=0
+t=12 time=0.000477
+t=13 s=13 threadsLeft=3
+t=13 s=9 threadsLeft=2
+t=13 s=2 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000462
+t=14 s=14 threadsLeft=4
+t=14 s=10 threadsLeft=3
+t=14 s=2 threadsLeft=2
+t=14 s=5 threadsLeft=1
+t=14 s=3 threadsLeft=0
+t=14 time=0.000463
+t=15 s=15 threadsLeft=3
+t=15 s=11 threadsLeft=2
+t=15 s=3 threadsLeft=1
+t=15 s=4 threadsLeft=0
+t=15 time=0.000535
+t=16 s=16 threadsLeft=5
+t=16 s=12 threadsLeft=4
+t=16 s=6 threadsLeft=3
+t=16 s=2 threadsLeft=2
+t=16 s=3 threadsLeft=1
+t=16 s=5 threadsLeft=0
+t=16 time=0.000444
+t=17 s=17 threadsLeft=5
+t=17 s=13 threadsLeft=4
+t=17 s=2 threadsLeft=3
+t=17 s=6 threadsLeft=2
+t=17 s=3 threadsLeft=1
+t=17 s=4 threadsLeft=0
+t=17 time=0.000446
+t=18 s=18 threadsLeft=6
+t=18 s=14 threadsLeft=5
+t=18 s=7 threadsLeft=4
+t=18 s=2 threadsLeft=3
+t=18 s=5 threadsLeft=2
+t=18 s=4 threadsLeft=1
+t=18 s=3 threadsLeft=0
+t=18 time=0.000482
+t=19 s=19 threadsLeft=3
+t=19 s=15 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.000453
+t=20 s=20 threadsLeft=6
+t=20 s=16 threadsLeft=5
+t=20 s=6 threadsLeft=4
+t=20 s=2 threadsLeft=3
+t=20 s=5 threadsLeft=2
+t=20 s=3 threadsLeft=1
+t=20 s=5 threadsLeft=0
+t=20 time=0.00045
+t=21 s=21 threadsLeft=5
+t=21 s=17 threadsLeft=4
+t=21 s=6 threadsLeft=3
+t=21 s=6 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000486
+t=22 s=22 threadsLeft=7
+t=22 s=18 threadsLeft=6
+t=22 s=7 threadsLeft=5
+t=22 s=7 threadsLeft=4
+t=22 s=2 threadsLeft=3
+t=22 s=6 threadsLeft=2
+t=22 s=4 threadsLeft=1
+t=22 s=3 threadsLeft=0
+t=22 time=0.000657
+t=23 s=23 threadsLeft=5
+t=23 s=19 threadsLeft=4
+t=23 s=7 threadsLeft=3
+t=23 s=8 threadsLeft=2
+t=23 s=5 threadsLeft=1
+t=23 s=4 threadsLeft=0
+t=23 time=0.000617
+t=24 s=24 threadsLeft=5
+t=24 s=20 threadsLeft=4
+t=24 s=5 threadsLeft=3
+t=24 s=3 threadsLeft=2
+t=24 s=4 threadsLeft=1
+t=24 s=5 threadsLeft=0
+t=24 time=0.000611
+t=25 s=25 threadsLeft=4
+t=25 s=21 threadsLeft=3
+t=25 s=8 threadsLeft=2
+t=25 s=6 threadsLeft=1
+t=25 s=3 threadsLeft=0
+t=25 time=0.000558
+t=26 s=26 threadsLeft=5
+t=26 s=22 threadsLeft=4
+t=26 s=9 threadsLeft=3
+t=26 s=7 threadsLeft=2
+t=26 s=6 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.000931
+t=27 s=27 threadsLeft=6
+t=27 s=23 threadsLeft=5
+t=27 s=8 threadsLeft=4
+t=27 s=7 threadsLeft=3
+t=27 s=5 threadsLeft=2
+t=27 s=6 threadsLeft=1
+t=27 s=4 threadsLeft=0
+t=27 time=0.000863
+t=28 s=28 threadsLeft=5
+t=28 s=24 threadsLeft=4
+t=28 s=10 threadsLeft=3
+t=28 s=9 threadsLeft=2
+t=28 s=7 threadsLeft=1
+t=28 s=3 threadsLeft=0
+t=28 time=0.000594
+t=29 s=29 threadsLeft=4
+t=29 s=25 threadsLeft=3
+t=29 s=10 threadsLeft=2
+t=29 s=8 threadsLeft=1
+t=29 s=5 threadsLeft=0
+t=29 time=0.000985
+t=30 s=30 threadsLeft=8
+t=30 s=26 threadsLeft=7
+t=30 s=11 threadsLeft=6
+t=30 s=8 threadsLeft=5
+t=30 s=9 threadsLeft=4
+t=30 s=6 threadsLeft=3
+t=30 s=7 threadsLeft=2
+t=30 s=5 threadsLeft=1
+t=30 s=4 threadsLeft=0
+t=30 time=0.001315
+t=31 s=31 threadsLeft=4
+t=31 s=27 threadsLeft=3
+t=31 s=9 threadsLeft=2
+t=31 s=8 threadsLeft=1
+t=31 s=4 threadsLeft=0
+t=31 time=0.001282
+t=32 s=32 threadsLeft=5
+t=32 s=28 threadsLeft=4
+t=32 s=2 threadsLeft=3
+t=32 s=10 threadsLeft=2
+t=32 s=9 threadsLeft=1
+t=32 s=9 threadsLeft=0
+t=32 time=0.000523
+t=33 s=33 threadsLeft=9
+t=33 s=29 threadsLeft=8
+t=33 s=10 threadsLeft=7
+t=33 s=2 threadsLeft=6
+t=33 s=6 threadsLeft=5
+t=33 s=7 threadsLeft=4
+t=33 s=8 threadsLeft=3
+t=33 s=10 threadsLeft=2
+t=33 s=3 threadsLeft=1
+t=33 s=5 threadsLeft=0
+t=33 time=0.001856
+t=34 s=34 threadsLeft=8
+t=34 s=30 threadsLeft=7
+t=34 s=11 threadsLeft=6
+t=34 s=2 threadsLeft=5
+t=34 s=11 threadsLeft=4
+t=34 s=10 threadsLeft=3
+t=34 s=3 threadsLeft=2
+t=34 s=3 threadsLeft=1
+t=34 s=4 threadsLeft=0
+t=34 time=0.001953
+t=35 s=35 threadsLeft=5
+t=35 s=31 threadsLeft=4
+t=35 s=11 threadsLeft=3
+t=35 s=12 threadsLeft=2
+t=35 s=4 threadsLeft=1
+t=35 s=5 threadsLeft=0
+t=35 time=0.002283
+t=36 s=36 threadsLeft=12
+t=36 s=32 threadsLeft=11
+t=36 s=7 threadsLeft=10
+t=36 s=9 threadsLeft=9
+t=36 s=6 threadsLeft=8
+t=36 s=2 threadsLeft=7
+t=36 s=8 threadsLeft=6
+t=36 s=9 threadsLeft=5
+t=36 s=3 threadsLeft=4
+t=36 s=5 threadsLeft=3
+t=36 s=6 threadsLeft=2
+t=36 s=5 threadsLeft=1
+t=36 s=4 threadsLeft=0
+t=36 time=0.002618
+t=37 s=37 threadsLeft=7
+t=37 s=33 threadsLeft=6
+t=37 s=12 threadsLeft=5
+t=37 s=10 threadsLeft=4
+t=37 s=3 threadsLeft=3
+t=37 s=6 threadsLeft=2
+t=37 s=7 threadsLeft=1
+t=37 s=4 threadsLeft=0
+t=37 time=0.003097
+t=38 s=38 threadsLeft=11
+t=38 s=34 threadsLeft=10
+t=38 s=2 threadsLeft=9
+t=38 s=13 threadsLeft=8
+t=38 s=11 threadsLeft=7
+t=38 s=10 threadsLeft=6
+t=38 s=7 threadsLeft=5
+t=38 s=3 threadsLeft=4
+t=38 s=8 threadsLeft=3
+t=38 s=6 threadsLeft=2
+t=38 s=4 threadsLeft=1
+t=38 s=5 threadsLeft=0
+t=38 time=0.004502
+t=39 s=39 threadsLeft=11
+t=39 s=35 threadsLeft=10
+t=39 s=9 threadsLeft=9
+t=39 s=7 threadsLeft=8
+t=39 s=8 threadsLeft=7
+t=39 s=12 threadsLeft=6
+t=39 s=11 threadsLeft=5
+t=39 s=10 threadsLeft=4
+t=39 s=8 threadsLeft=3
+t=39 s=9 threadsLeft=2
+t=39 s=4 threadsLeft=1
+t=39 s=5 threadsLeft=0
+t=39 time=0.005454
+t=40 s=40 threadsLeft=9
+t=40 s=36 threadsLeft=8
+t=40 s=14 threadsLeft=7
+t=40 s=2 threadsLeft=6
+t=40 s=13 threadsLeft=5
+t=40 s=11 threadsLeft=4
+t=40 s=9 threadsLeft=3
+t=40 s=3 threadsLeft=2
+t=40 s=10 threadsLeft=1
+t=40 s=5 threadsLeft=0
+t=40 time=0.004972
+t=41 s=41 threadsLeft=10
+t=41 s=37 threadsLeft=9
+t=41 s=14 threadsLeft=8
+t=41 s=12 threadsLeft=7
+t=41 s=10 threadsLeft=6
+t=41 s=11 threadsLeft=5
+t=41 s=3 threadsLeft=4
+t=41 s=3 threadsLeft=3
+t=41 s=7 threadsLeft=2
+t=41 s=6 threadsLeft=1
+t=41 s=4 threadsLeft=0
+t=41 time=0.005044
+t=42 s=42 threadsLeft=19
+t=42 s=38 threadsLeft=18
+t=42 s=15 threadsLeft=17
+t=42 s=9 threadsLeft=16
+t=42 s=12 threadsLeft=15
+t=42 s=8 threadsLeft=14
+t=42 s=7 threadsLeft=13
+t=42 s=10 threadsLeft=12
+t=42 s=13 threadsLeft=11
+t=42 s=11 threadsLeft=10
+t=42 s=6 threadsLeft=9
+t=42 s=3 threadsLeft=8
+t=42 s=7 threadsLeft=7
+t=42 s=8 threadsLeft=6
+t=42 s=4 threadsLeft=5
+t=42 s=6 threadsLeft=4
+t=42 s=5 threadsLeft=3
+t=42 s=4 threadsLeft=2
+t=42 s=4 threadsLeft=1
+t=42 s=5 threadsLeft=0
+t=42 time=0.008963
+t=43 s=43 threadsLeft=8
+t=43 s=39 threadsLeft=7
+t=43 s=13 threadsLeft=6
+t=43 s=12 threadsLeft=5
+t=43 s=8 threadsLeft=4
+t=43 s=9 threadsLeft=3
+t=43 s=4 threadsLeft=2
+t=43 s=6 threadsLeft=1
+t=43 s=5 threadsLeft=0
+t=43 time=0.010723
+t=44 s=44 threadsLeft=13
+t=44 s=40 threadsLeft=12
+t=44 s=14 threadsLeft=11
+t=44 s=2 threadsLeft=10
+t=44 s=13 threadsLeft=9
+t=44 s=13 threadsLeft=8
+t=44 s=10 threadsLeft=7
+t=44 s=9 threadsLeft=6
+t=44 s=3 threadsLeft=5
+t=44 s=7 threadsLeft=4
+t=44 s=7 threadsLeft=3
+t=44 s=6 threadsLeft=2
+t=44 s=4 threadsLeft=1
+t=44 s=5 threadsLeft=0
+t=44 time=0.009173
+t=45 s=45 threadsLeft=16
+t=45 s=41 threadsLeft=15
+t=45 s=14 threadsLeft=14
+t=45 s=11 threadsLeft=13
+t=45 s=9 threadsLeft=12
+t=45 s=10 threadsLeft=11
+t=45 s=8 threadsLeft=10
+t=45 s=14 threadsLeft=9
+t=45 s=12 threadsLeft=8
+t=45 s=10 threadsLeft=7
+t=45 s=11 threadsLeft=6
+t=45 s=3 threadsLeft=5
+t=45 s=8 threadsLeft=4
+t=45 s=7 threadsLeft=3
+t=45 s=5 threadsLeft=2
+t=45 s=4 threadsLeft=1
+t=45 s=5 threadsLeft=0
+t=45 time=0.015526
+t=46 s=46 threadsLeft=11
+t=46 s=42 threadsLeft=10
+t=46 s=15 threadsLeft=9
+t=46 s=15 threadsLeft=8
+t=46 s=14 threadsLeft=7
+t=46 s=11 threadsLeft=6
+t=46 s=12 threadsLeft=5
+t=46 s=3 threadsLeft=4
+t=46 s=6 threadsLeft=3
+t=46 s=5 threadsLeft=2
+t=46 s=4 threadsLeft=1
+t=46 s=6 threadsLeft=0
+t=46 time=0.015038
+t=47 s=47 threadsLeft=8
+t=47 s=43 threadsLeft=7
+t=47 s=15 threadsLeft=6
+t=47 s=16 threadsLeft=5
+t=47 s=12 threadsLeft=4
+t=47 s=13 threadsLeft=3
+t=47 s=4 threadsLeft=2
+t=47 s=6 threadsLeft=1
+t=47 s=5 threadsLeft=0
+t=47 time=0.021114
+t=48 s=48 threadsLeft=21
+t=48 s=44 threadsLeft=20
+t=48 s=11 threadsLeft=19
+t=48 s=9 threadsLeft=18
+t=48 s=13 threadsLeft=17
+t=48 s=8 threadsLeft=16
+t=48 s=10 threadsLeft=15
+t=48 s=7 threadsLeft=14
+t=48 s=13 threadsLeft=13
+t=48 s=12 threadsLeft=12
+t=48 s=3 threadsLeft=11
+t=48 s=3 threadsLeft=10
+t=48 s=9 threadsLeft=9
+t=48 s=7 threadsLeft=8
+t=48 s=4 threadsLeft=7
+t=48 s=7 threadsLeft=6
+t=48 s=6 threadsLeft=5
+t=48 s=4 threadsLeft=4
+t=48 s=4 threadsLeft=3
+t=48 s=6 threadsLeft=2
+t=48 s=6 threadsLeft=1
+t=48 s=5 threadsLeft=0
+t=48 time=0.021374
+t=49 s=49 threadsLeft=12
+t=49 s=45 threadsLeft=11
+t=49 s=16 threadsLeft=10
+t=49 s=14 threadsLeft=9
+t=49 s=8 threadsLeft=8
+t=49 s=7 threadsLeft=7
+t=49 s=8 threadsLeft=6
+t=49 s=7 threadsLeft=5
+t=49 s=4 threadsLeft=4
+t=49 s=4 threadsLeft=3
+t=49 s=5 threadsLeft=2
+t=49 s=5 threadsLeft=1
+t=49 s=5 threadsLeft=0
+t=49 time=0.026435
+t=50 s=50 threadsLeft=15
+t=50 s=46 threadsLeft=14
+t=50 s=17 threadsLeft=13
+t=50 s=15 threadsLeft=12
+t=50 s=14 threadsLeft=11
+t=50 s=10 threadsLeft=10
+t=50 s=9 threadsLeft=9
+t=50 s=8 threadsLeft=8
+t=50 s=7 threadsLeft=7
+t=50 s=8 threadsLeft=6
+t=50 s=5 threadsLeft=5
+t=50 s=6 threadsLeft=4
+t=50 s=6 threadsLeft=3
+t=50 s=6 threadsLeft=2
+t=50 s=5 threadsLeft=1
+t=50 s=5 threadsLeft=0
+t=50 time=0.038834
+t=51 s=51 threadsLeft=12
+t=51 s=47 threadsLeft=11
+t=51 s=12 threadsLeft=10
+t=51 s=11 threadsLeft=9
+t=51 s=9 threadsLeft=8
+t=51 s=10 threadsLeft=7
+t=51 s=15 threadsLeft=6
+t=51 s=16 threadsLeft=5
+t=51 s=13 threadsLeft=4
+t=51 s=14 threadsLeft=3
+t=51 s=10 threadsLeft=2
+t=51 s=9 threadsLeft=1
+t=51 s=6 threadsLeft=0
+t=51 time=0.025388
+t=52 s=52 threadsLeft=11
+t=52 s=48 threadsLeft=10
+t=52 s=18 threadsLeft=9
+t=52 s=17 threadsLeft=8
+t=52 s=15 threadsLeft=7
+t=52 s=3 threadsLeft=6
+t=52 s=11 threadsLeft=5
+t=52 s=9 threadsLeft=4
+t=52 s=8 threadsLeft=3
+t=52 s=7 threadsLeft=2
+t=52 s=4 threadsLeft=1
+t=52 s=6 threadsLeft=0
+t=52 time=0.041177
+t=53 s=53 threadsLeft=7
+t=53 s=49 threadsLeft=6
+t=53 s=18 threadsLeft=5
+t=53 s=16 threadsLeft=4
+t=53 s=7 threadsLeft=3
+t=53 s=7 threadsLeft=2
+t=53 s=4 threadsLeft=1
+t=53 s=5 threadsLeft=0
+t=53 time=0.049844
+t=54 s=54 threadsLeft=19
+t=54 s=50 threadsLeft=18
+t=54 s=9 threadsLeft=17
+t=54 s=11 threadsLeft=16
+t=54 s=10 threadsLeft=15
+t=54 s=12 threadsLeft=14
+t=54 s=16 threadsLeft=13
+t=54 s=14 threadsLeft=12
+t=54 s=19 threadsLeft=11
+t=54 s=8 threadsLeft=10
+t=54 s=17 threadsLeft=9
+t=54 s=15 threadsLeft=8
+t=54 s=13 threadsLeft=7
+t=54 s=10 threadsLeft=6
+t=54 s=8 threadsLeft=5
+t=54 s=7 threadsLeft=4
+t=54 s=4 threadsLeft=3
+t=54 s=6 threadsLeft=2
+t=54 s=5 threadsLeft=1
+t=54 s=5 threadsLeft=0
+t=54 time=0.065503
+t=55 s=55 threadsLeft=9
+t=55 s=51 threadsLeft=8
+t=55 s=17 threadsLeft=7
+t=55 s=16 threadsLeft=6
+t=55 s=9 threadsLeft=5
+t=55 s=10 threadsLeft=4
+t=55 s=8 threadsLeft=3
+t=55 s=8 threadsLeft=2
+t=55 s=7 threadsLeft=1
+t=55 s=6 threadsLeft=0
+t=55 time=0.07216
+t=56 s=56 threadsLeft=12
+t=56 s=52 threadsLeft=11
+t=56 s=18 threadsLeft=10
+t=56 s=17 threadsLeft=9
+t=56 s=17 threadsLeft=8
+t=56 s=11 threadsLeft=7
+t=56 s=8 threadsLeft=6
+t=56 s=4 threadsLeft=5
+t=56 s=7 threadsLeft=4
+t=56 s=5 threadsLeft=3
+t=56 s=6 threadsLeft=2
+t=56 s=6 threadsLeft=1
+t=56 s=5 threadsLeft=0
+t=56 time=0.086923
+t=57 s=57 threadsLeft=15
+t=57 s=53 threadsLeft=14
+t=57 s=12 threadsLeft=13
+t=57 s=13 threadsLeft=12
+t=57 s=14 threadsLeft=11
+t=57 s=11 threadsLeft=10
+t=57 s=10 threadsLeft=9
+t=57 s=18 threadsLeft=8
+t=57 s=16 threadsLeft=7
+t=57 s=15 threadsLeft=6
+t=57 s=18 threadsLeft=5
+t=57 s=9 threadsLeft=4
+t=57 s=9 threadsLeft=3
+t=57 s=7 threadsLeft=2
+t=57 s=6 threadsLeft=1
+t=57 s=5 threadsLeft=0
+t=57 time=0.080764
+t=58 s=58 threadsLeft=10
+t=58 s=54 threadsLeft=9
+t=58 s=19 threadsLeft=8
+t=58 s=19 threadsLeft=7
+t=58 s=18 threadsLeft=6
+t=58 s=9 threadsLeft=5
+t=58 s=10 threadsLeft=4
+t=58 s=12 threadsLeft=3
+t=58 s=11 threadsLeft=2
+t=58 s=8 threadsLeft=1
+t=58 s=7 threadsLeft=0
+t=58 time=0.069387
+t=59 s=59 threadsLeft=9
+t=59 s=55 threadsLeft=8
+t=59 s=19 threadsLeft=7
+t=59 s=20 threadsLeft=6
+t=59 s=13 threadsLeft=5
+t=59 s=12 threadsLeft=4
+t=59 s=8 threadsLeft=3
+t=59 s=8 threadsLeft=2
+t=59 s=7 threadsLeft=1
+t=59 s=6 threadsLeft=0
+t=59 time=0.128131
+t=60 s=60 threadsLeft=18
+t=60 s=56 threadsLeft=17
+t=60 s=15 threadsLeft=16
+t=60 s=17 threadsLeft=15
+t=60 s=13 threadsLeft=14
+t=60 s=10 threadsLeft=13
+t=60 s=12 threadsLeft=12
+t=60 s=11 threadsLeft=11
+t=60 s=9 threadsLeft=10
+t=60 s=14 threadsLeft=9
+t=60 s=16 threadsLeft=8
+t=60 s=17 threadsLeft=7
+t=60 s=13 threadsLeft=6
+t=60 s=13 threadsLeft=5
+t=60 s=14 threadsLeft=4
+t=60 s=8 threadsLeft=3
+t=60 s=5 threadsLeft=2
+t=60 s=8 threadsLeft=1
+t=60 s=6 threadsLeft=0
+t=60 time=0.107121
 t=61 s=61 threadsLeft=12
 t=61 s=57 threadsLeft=11
 t=61 s=20 threadsLeft=10
@@ -866,7 +3485,7 @@ t=61 s=9 threadsLeft=3
 t=61 s=9 threadsLeft=2
 t=61 s=5 threadsLeft=1
 t=61 s=6 threadsLeft=0
-t=61 time=0.131109
+t=61 time=0.125991
 t=62 s=62 threadsLeft=13
 t=62 s=58 threadsLeft=12
 t=62 s=21 threadsLeft=11
@@ -881,16 +3500,16 @@ t=62 s=7 threadsLeft=3
 t=62 s=7 threadsLeft=2
 t=62 s=6 threadsLeft=1
 t=62 s=5 threadsLeft=0
-t=62 time=0.248009
+t=62 time=0.237949
 t=63 s=63 threadsLeft=16
 t=63 s=59 threadsLeft=15
-t=63 s=13 threadsLeft=14
-t=63 s=16 threadsLeft=13
-t=63 s=15 threadsLeft=12
-t=63 s=17 threadsLeft=11
-t=63 s=14 threadsLeft=10
-t=63 s=11 threadsLeft=9
-t=63 s=12 threadsLeft=8
+t=63 s=15 threadsLeft=14
+t=63 s=14 threadsLeft=13
+t=63 s=12 threadsLeft=12
+t=63 s=16 threadsLeft=11
+t=63 s=13 threadsLeft=10
+t=63 s=17 threadsLeft=9
+t=63 s=11 threadsLeft=8
 t=63 s=19 threadsLeft=7
 t=63 s=20 threadsLeft=6
 t=63 s=18 threadsLeft=5
@@ -899,15 +3518,15 @@ t=63 s=17 threadsLeft=3
 t=63 s=10 threadsLeft=2
 t=63 s=8 threadsLeft=1
 t=63 s=9 threadsLeft=0
-t=63 time=0.066926
+t=63 time=0.065495
 t=64 s=64 threadsLeft=21
 t=64 s=60 threadsLeft=20
 t=64 s=22 threadsLeft=19
-t=64 s=21 threadsLeft=18
-t=64 s=10 threadsLeft=17
+t=64 s=10 threadsLeft=18
+t=64 s=21 threadsLeft=17
 t=64 s=19 threadsLeft=16
-t=64 s=17 threadsLeft=15
-t=64 s=2 threadsLeft=14
+t=64 s=2 threadsLeft=15
+t=64 s=17 threadsLeft=14
 t=64 s=18 threadsLeft=13
 t=64 s=11 threadsLeft=12
 t=64 s=13 threadsLeft=11
@@ -922,13 +3541,13 @@ t=64 s=7 threadsLeft=3
 t=64 s=7 threadsLeft=2
 t=64 s=6 threadsLeft=1
 t=64 s=6 threadsLeft=0
-t=64 time=0.256577
+t=64 time=0.248374
 t=65 s=65 threadsLeft=17
 t=65 s=61 threadsLeft=16
-t=65 s=22 threadsLeft=15
-t=65 s=20 threadsLeft=14
-t=65 s=18 threadsLeft=13
-t=65 s=2 threadsLeft=12
+t=65 s=2 threadsLeft=15
+t=65 s=22 threadsLeft=14
+t=65 s=20 threadsLeft=13
+t=65 s=18 threadsLeft=12
 t=65 s=19 threadsLeft=11
 t=65 s=15 threadsLeft=10
 t=65 s=14 threadsLeft=9
@@ -941,23 +3560,23 @@ t=65 s=8 threadsLeft=3
 t=65 s=8 threadsLeft=2
 t=65 s=4 threadsLeft=1
 t=65 s=7 threadsLeft=0
-t=65 time=0.170508
+t=65 time=0.165858
 t=66 s=66 threadsLeft=28
 t=66 s=62 threadsLeft=27
-t=66 s=18 threadsLeft=26
-t=66 s=16 threadsLeft=25
+t=66 s=16 threadsLeft=26
+t=66 s=18 threadsLeft=25
 t=66 s=15 threadsLeft=24
-t=66 s=14 threadsLeft=23
-t=66 s=20 threadsLeft=22
-t=66 s=17 threadsLeft=21
-t=66 s=13 threadsLeft=20
-t=66 s=11 threadsLeft=19
-t=66 s=12 threadsLeft=18
-t=66 s=23 threadsLeft=17
-t=66 s=10 threadsLeft=16
-t=66 s=21 threadsLeft=15
-t=66 s=19 threadsLeft=14
-t=66 s=2 threadsLeft=13
+t=66 s=20 threadsLeft=23
+t=66 s=17 threadsLeft=22
+t=66 s=11 threadsLeft=21
+t=66 s=14 threadsLeft=20
+t=66 s=12 threadsLeft=19
+t=66 s=10 threadsLeft=18
+t=66 s=13 threadsLeft=17
+t=66 s=23 threadsLeft=16
+t=66 s=2 threadsLeft=15
+t=66 s=21 threadsLeft=14
+t=66 s=19 threadsLeft=13
 t=66 s=15 threadsLeft=12
 t=66 s=16 threadsLeft=11
 t=66 s=3 threadsLeft=10
@@ -971,7 +3590,7 @@ t=66 s=9 threadsLeft=3
 t=66 s=4 threadsLeft=2
 t=66 s=8 threadsLeft=1
 t=66 s=7 threadsLeft=0
-t=66 time=0.285006
+t=66 time=0.28675
 t=67 s=67 threadsLeft=19
 t=67 s=63 threadsLeft=18
 t=67 s=21 threadsLeft=17
@@ -992,7 +3611,7 @@ t=67 s=5 threadsLeft=3
 t=67 s=7 threadsLeft=2
 t=67 s=5 threadsLeft=1
 t=67 s=5 threadsLeft=0
-t=67 time=0.439623
+t=67 time=0.423163
 t=68 s=68 threadsLeft=16
 t=68 s=64 threadsLeft=15
 t=68 s=22 threadsLeft=14
@@ -1010,18 +3629,18 @@ t=68 s=4 threadsLeft=3
 t=68 s=5 threadsLeft=2
 t=68 s=6 threadsLeft=1
 t=68 s=6 threadsLeft=0
-t=68 time=0.545092
+t=68 time=0.528035
 t=69 s=69 threadsLeft=25
 t=69 s=65 threadsLeft=24
 t=69 s=18 threadsLeft=23
-t=69 s=17 threadsLeft=22
-t=69 s=12 threadsLeft=21
-t=69 s=13 threadsLeft=20
-t=69 s=14 threadsLeft=19
-t=69 s=16 threadsLeft=18
-t=69 s=15 threadsLeft=17
+t=69 s=16 threadsLeft=22
+t=69 s=17 threadsLeft=21
+t=69 s=15 threadsLeft=20
+t=69 s=12 threadsLeft=19
+t=69 s=14 threadsLeft=18
+t=69 s=19 threadsLeft=17
 t=69 s=22 threadsLeft=16
-t=69 s=19 threadsLeft=15
+t=69 s=13 threadsLeft=15
 t=69 s=22 threadsLeft=14
 t=69 s=20 threadsLeft=13
 t=69 s=18 threadsLeft=12
@@ -1037,12 +3656,1558 @@ t=69 s=9 threadsLeft=3
 t=69 s=7 threadsLeft=2
 t=69 s=6 threadsLeft=1
 t=69 s=6 threadsLeft=0
-t=69 time=0.543563
+t=69 time=0.52706
 t=70 s=70 threadsLeft=27
 t=70 s=66 threadsLeft=26
 t=70 s=23 threadsLeft=25
-t=70 s=12 threadsLeft=24
-t=70 s=11 threadsLeft=23
+t=70 s=11 threadsLeft=24
+t=70 s=12 threadsLeft=23
+t=70 s=23 threadsLeft=22
+t=70 s=22 threadsLeft=21
+t=70 s=19 threadsLeft=20
+t=70 s=20 threadsLeft=19
+t=70 s=13 threadsLeft=18
+t=70 s=10 threadsLeft=17
+t=70 s=14 threadsLeft=16
+t=70 s=2 threadsLeft=15
+t=70 s=13 threadsLeft=14
+t=70 s=3 threadsLeft=13
+t=70 s=12 threadsLeft=12
+t=70 s=8 threadsLeft=11
+t=70 s=10 threadsLeft=10
+t=70 s=9 threadsLeft=9
+t=70 s=9 threadsLeft=8
+t=70 s=8 threadsLeft=7
+t=70 s=8 threadsLeft=6
+t=70 s=8 threadsLeft=5
+t=70 s=9 threadsLeft=4
+t=70 s=7 threadsLeft=3
+t=70 s=7 threadsLeft=2
+t=70 s=7 threadsLeft=1
+t=70 s=6 threadsLeft=0
+t=70 time=0.665072
+[38;2;000;128;000mTime: 4.26838s (2025-11-03 16:53:51)
+[0mt=2 s=2 threadsLeft=0
+t=2 time=0.000178
+t=3 s=3 threadsLeft=0
+t=3 time=0.000371
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000393
+t=5 s=5 threadsLeft=0
+t=5 time=0.000358
+t=6 s=6 threadsLeft=0
+t=6 time=0.000348
+t=7 s=7 threadsLeft=1
+t=7 s=3 threadsLeft=0
+t=7 time=0.000342
+t=8 s=8 threadsLeft=2
+t=8 s=4 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000382
+t=9 s=9 threadsLeft=3
+t=9 s=5 threadsLeft=2
+t=9 s=2 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.00041
+t=10 s=10 threadsLeft=4
+t=10 s=6 threadsLeft=3
+t=10 s=2 threadsLeft=2
+t=10 s=3 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.00046
+t=11 s=11 threadsLeft=3
+t=11 s=7 threadsLeft=2
+t=11 s=3 threadsLeft=1
+t=11 s=4 threadsLeft=0
+t=11 time=0.000428
+t=12 s=12 threadsLeft=1
+t=12 s=8 threadsLeft=0
+t=12 time=0.000343
+t=13 s=13 threadsLeft=3
+t=13 s=9 threadsLeft=2
+t=13 s=2 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000381
+t=14 s=14 threadsLeft=4
+t=14 s=10 threadsLeft=3
+t=14 s=2 threadsLeft=2
+t=14 s=5 threadsLeft=1
+t=14 s=3 threadsLeft=0
+t=14 time=0.000412
+t=15 s=15 threadsLeft=3
+t=15 s=11 threadsLeft=2
+t=15 s=3 threadsLeft=1
+t=15 s=4 threadsLeft=0
+t=15 time=0.000401
+t=16 s=16 threadsLeft=5
+t=16 s=12 threadsLeft=4
+t=16 s=6 threadsLeft=3
+t=16 s=2 threadsLeft=2
+t=16 s=3 threadsLeft=1
+t=16 s=5 threadsLeft=0
+t=16 time=0.000464
+t=17 s=17 threadsLeft=5
+t=17 s=13 threadsLeft=4
+t=17 s=2 threadsLeft=3
+t=17 s=6 threadsLeft=2
+t=17 s=3 threadsLeft=1
+t=17 s=4 threadsLeft=0
+t=17 time=0.000493
+t=18 s=18 threadsLeft=6
+t=18 s=14 threadsLeft=5
+t=18 s=7 threadsLeft=4
+t=18 s=2 threadsLeft=3
+t=18 s=4 threadsLeft=2
+t=18 s=5 threadsLeft=1
+t=18 s=3 threadsLeft=0
+t=18 time=0.000637
+t=19 s=19 threadsLeft=3
+t=19 s=15 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.000514
+t=20 s=20 threadsLeft=6
+t=20 s=16 threadsLeft=5
+t=20 s=2 threadsLeft=4
+t=20 s=6 threadsLeft=3
+t=20 s=5 threadsLeft=2
+t=20 s=3 threadsLeft=1
+t=20 s=5 threadsLeft=0
+t=20 time=0.000525
+t=21 s=21 threadsLeft=5
+t=21 s=17 threadsLeft=4
+t=21 s=6 threadsLeft=3
+t=21 s=6 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000592
+t=22 s=22 threadsLeft=7
+t=22 s=18 threadsLeft=6
+t=22 s=7 threadsLeft=5
+t=22 s=7 threadsLeft=4
+t=22 s=2 threadsLeft=3
+t=22 s=6 threadsLeft=2
+t=22 s=3 threadsLeft=1
+t=22 s=4 threadsLeft=0
+t=22 time=0.000731
+t=23 s=23 threadsLeft=5
+t=23 s=19 threadsLeft=4
+t=23 s=7 threadsLeft=3
+t=23 s=8 threadsLeft=2
+t=23 s=5 threadsLeft=1
+t=23 s=4 threadsLeft=0
+t=23 time=0.000727
+t=24 s=24 threadsLeft=5
+t=24 s=20 threadsLeft=4
+t=24 s=5 threadsLeft=3
+t=24 s=3 threadsLeft=2
+t=24 s=4 threadsLeft=1
+t=24 s=5 threadsLeft=0
+t=24 time=0.000712
+t=25 s=25 threadsLeft=4
+t=25 s=21 threadsLeft=3
+t=25 s=8 threadsLeft=2
+t=25 s=6 threadsLeft=1
+t=25 s=3 threadsLeft=0
+t=25 time=0.000615
+t=26 s=26 threadsLeft=5
+t=26 s=22 threadsLeft=4
+t=26 s=9 threadsLeft=3
+t=26 s=7 threadsLeft=2
+t=26 s=6 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.000913
+t=27 s=27 threadsLeft=6
+t=27 s=23 threadsLeft=5
+t=27 s=8 threadsLeft=4
+t=27 s=7 threadsLeft=3
+t=27 s=6 threadsLeft=2
+t=27 s=5 threadsLeft=1
+t=27 s=4 threadsLeft=0
+t=27 time=0.000858
+t=28 s=28 threadsLeft=5
+t=28 s=24 threadsLeft=4
+t=28 s=10 threadsLeft=3
+t=28 s=9 threadsLeft=2
+t=28 s=3 threadsLeft=1
+t=28 s=7 threadsLeft=0
+t=28 time=0.000547
+t=29 s=29 threadsLeft=4
+t=29 s=25 threadsLeft=3
+t=29 s=10 threadsLeft=2
+t=29 s=8 threadsLeft=1
+t=29 s=5 threadsLeft=0
+t=29 time=0.000946
+t=30 s=30 threadsLeft=8
+t=30 s=26 threadsLeft=7
+t=30 s=11 threadsLeft=6
+t=30 s=9 threadsLeft=5
+t=30 s=8 threadsLeft=4
+t=30 s=6 threadsLeft=3
+t=30 s=5 threadsLeft=2
+t=30 s=7 threadsLeft=1
+t=30 s=4 threadsLeft=0
+t=30 time=0.001117
+t=31 s=31 threadsLeft=4
+t=31 s=27 threadsLeft=3
+t=31 s=9 threadsLeft=2
+t=31 s=8 threadsLeft=1
+t=31 s=4 threadsLeft=0
+t=31 time=0.001228
+t=32 s=32 threadsLeft=5
+t=32 s=28 threadsLeft=4
+t=32 s=2 threadsLeft=3
+t=32 s=10 threadsLeft=2
+t=32 s=9 threadsLeft=1
+t=32 s=9 threadsLeft=0
+t=32 time=0.000502
+t=33 s=33 threadsLeft=9
+t=33 s=29 threadsLeft=8
+t=33 s=2 threadsLeft=7
+t=33 s=10 threadsLeft=6
+t=33 s=7 threadsLeft=5
+t=33 s=8 threadsLeft=4
+t=33 s=10 threadsLeft=3
+t=33 s=6 threadsLeft=2
+t=33 s=3 threadsLeft=1
+t=33 s=5 threadsLeft=0
+t=33 time=0.001776
+t=34 s=34 threadsLeft=8
+t=34 s=30 threadsLeft=7
+t=34 s=2 threadsLeft=6
+t=34 s=11 threadsLeft=5
+t=34 s=11 threadsLeft=4
+t=34 s=10 threadsLeft=3
+t=34 s=3 threadsLeft=2
+t=34 s=3 threadsLeft=1
+t=34 s=4 threadsLeft=0
+t=34 time=0.002179
+t=35 s=35 threadsLeft=5
+t=35 s=31 threadsLeft=4
+t=35 s=11 threadsLeft=3
+t=35 s=12 threadsLeft=2
+t=35 s=4 threadsLeft=1
+t=35 s=5 threadsLeft=0
+t=35 time=0.002413
+t=36 s=36 threadsLeft=12
+t=36 s=32 threadsLeft=11
+t=36 s=9 threadsLeft=10
+t=36 s=7 threadsLeft=9
+t=36 s=2 threadsLeft=8
+t=36 s=6 threadsLeft=7
+t=36 s=8 threadsLeft=6
+t=36 s=9 threadsLeft=5
+t=36 s=3 threadsLeft=4
+t=36 s=5 threadsLeft=3
+t=36 s=6 threadsLeft=2
+t=36 s=5 threadsLeft=1
+t=36 s=4 threadsLeft=0
+t=36 time=0.002585
+t=37 s=37 threadsLeft=7
+t=37 s=33 threadsLeft=6
+t=37 s=12 threadsLeft=5
+t=37 s=10 threadsLeft=4
+t=37 s=3 threadsLeft=3
+t=37 s=6 threadsLeft=2
+t=37 s=7 threadsLeft=1
+t=37 s=4 threadsLeft=0
+t=37 time=0.003109
+t=38 s=38 threadsLeft=11
+t=38 s=34 threadsLeft=10
+t=38 s=13 threadsLeft=9
+t=38 s=2 threadsLeft=8
+t=38 s=11 threadsLeft=7
+t=38 s=10 threadsLeft=6
+t=38 s=7 threadsLeft=5
+t=38 s=3 threadsLeft=4
+t=38 s=8 threadsLeft=3
+t=38 s=6 threadsLeft=2
+t=38 s=4 threadsLeft=1
+t=38 s=5 threadsLeft=0
+t=38 time=0.00446
+t=39 s=39 threadsLeft=11
+t=39 s=35 threadsLeft=10
+t=39 s=9 threadsLeft=9
+t=39 s=7 threadsLeft=8
+t=39 s=8 threadsLeft=7
+t=39 s=12 threadsLeft=6
+t=39 s=11 threadsLeft=5
+t=39 s=10 threadsLeft=4
+t=39 s=8 threadsLeft=3
+t=39 s=9 threadsLeft=2
+t=39 s=4 threadsLeft=1
+t=39 s=5 threadsLeft=0
+t=39 time=0.00544
+t=40 s=40 threadsLeft=9
+t=40 s=36 threadsLeft=8
+t=40 s=14 threadsLeft=7
+t=40 s=2 threadsLeft=6
+t=40 s=13 threadsLeft=5
+t=40 s=11 threadsLeft=4
+t=40 s=9 threadsLeft=3
+t=40 s=3 threadsLeft=2
+t=40 s=10 threadsLeft=1
+t=40 s=5 threadsLeft=0
+t=40 time=0.004948
+t=41 s=41 threadsLeft=10
+t=41 s=37 threadsLeft=9
+t=41 s=14 threadsLeft=8
+t=41 s=12 threadsLeft=7
+t=41 s=10 threadsLeft=6
+t=41 s=11 threadsLeft=5
+t=41 s=3 threadsLeft=4
+t=41 s=3 threadsLeft=3
+t=41 s=7 threadsLeft=2
+t=41 s=6 threadsLeft=1
+t=41 s=4 threadsLeft=0
+t=41 time=0.005061
+t=42 s=42 threadsLeft=19
+t=42 s=38 threadsLeft=18
+t=42 s=15 threadsLeft=17
+t=42 s=8 threadsLeft=16
+t=42 s=10 threadsLeft=15
+t=42 s=12 threadsLeft=14
+t=42 s=7 threadsLeft=13
+t=42 s=9 threadsLeft=12
+t=42 s=13 threadsLeft=11
+t=42 s=11 threadsLeft=10
+t=42 s=6 threadsLeft=9
+t=42 s=3 threadsLeft=8
+t=42 s=7 threadsLeft=7
+t=42 s=8 threadsLeft=6
+t=42 s=4 threadsLeft=5
+t=42 s=6 threadsLeft=4
+t=42 s=4 threadsLeft=3
+t=42 s=5 threadsLeft=2
+t=42 s=4 threadsLeft=1
+t=42 s=5 threadsLeft=0
+t=42 time=0.00899
+t=43 s=43 threadsLeft=8
+t=43 s=39 threadsLeft=7
+t=43 s=13 threadsLeft=6
+t=43 s=12 threadsLeft=5
+t=43 s=8 threadsLeft=4
+t=43 s=9 threadsLeft=3
+t=43 s=4 threadsLeft=2
+t=43 s=6 threadsLeft=1
+t=43 s=5 threadsLeft=0
+t=43 time=0.010699
+t=44 s=44 threadsLeft=13
+t=44 s=40 threadsLeft=12
+t=44 s=14 threadsLeft=11
+t=44 s=2 threadsLeft=10
+t=44 s=13 threadsLeft=9
+t=44 s=13 threadsLeft=8
+t=44 s=9 threadsLeft=7
+t=44 s=10 threadsLeft=6
+t=44 s=3 threadsLeft=5
+t=44 s=7 threadsLeft=4
+t=44 s=7 threadsLeft=3
+t=44 s=6 threadsLeft=2
+t=44 s=4 threadsLeft=1
+t=44 s=5 threadsLeft=0
+t=44 time=0.009177
+t=45 s=45 threadsLeft=16
+t=45 s=41 threadsLeft=15
+t=45 s=14 threadsLeft=14
+t=45 s=8 threadsLeft=13
+t=45 s=9 threadsLeft=12
+t=45 s=10 threadsLeft=11
+t=45 s=11 threadsLeft=10
+t=45 s=14 threadsLeft=9
+t=45 s=12 threadsLeft=8
+t=45 s=11 threadsLeft=7
+t=45 s=10 threadsLeft=6
+t=45 s=3 threadsLeft=5
+t=45 s=8 threadsLeft=4
+t=45 s=7 threadsLeft=3
+t=45 s=5 threadsLeft=2
+t=45 s=4 threadsLeft=1
+t=45 s=5 threadsLeft=0
+t=45 time=0.015599
+t=46 s=46 threadsLeft=11
+t=46 s=42 threadsLeft=10
+t=46 s=15 threadsLeft=9
+t=46 s=15 threadsLeft=8
+t=46 s=14 threadsLeft=7
+t=46 s=11 threadsLeft=6
+t=46 s=12 threadsLeft=5
+t=46 s=3 threadsLeft=4
+t=46 s=6 threadsLeft=3
+t=46 s=5 threadsLeft=2
+t=46 s=4 threadsLeft=1
+t=46 s=6 threadsLeft=0
+t=46 time=0.015431
+t=47 s=47 threadsLeft=8
+t=47 s=43 threadsLeft=7
+t=47 s=15 threadsLeft=6
+t=47 s=16 threadsLeft=5
+t=47 s=12 threadsLeft=4
+t=47 s=13 threadsLeft=3
+t=47 s=4 threadsLeft=2
+t=47 s=6 threadsLeft=1
+t=47 s=5 threadsLeft=0
+t=47 time=0.021346
+t=48 s=48 threadsLeft=21
+t=48 s=44 threadsLeft=20
+t=48 s=11 threadsLeft=19
+t=48 s=10 threadsLeft=18
+t=48 s=9 threadsLeft=17
+t=48 s=8 threadsLeft=16
+t=48 s=13 threadsLeft=15
+t=48 s=7 threadsLeft=14
+t=48 s=13 threadsLeft=13
+t=48 s=12 threadsLeft=12
+t=48 s=3 threadsLeft=11
+t=48 s=3 threadsLeft=10
+t=48 s=9 threadsLeft=9
+t=48 s=7 threadsLeft=8
+t=48 s=4 threadsLeft=7
+t=48 s=7 threadsLeft=6
+t=48 s=4 threadsLeft=5
+t=48 s=6 threadsLeft=4
+t=48 s=4 threadsLeft=3
+t=48 s=6 threadsLeft=2
+t=48 s=6 threadsLeft=1
+t=48 s=5 threadsLeft=0
+t=48 time=0.021516
+t=49 s=49 threadsLeft=12
+t=49 s=45 threadsLeft=11
+t=49 s=16 threadsLeft=10
+t=49 s=14 threadsLeft=9
+t=49 s=8 threadsLeft=8
+t=49 s=7 threadsLeft=7
+t=49 s=8 threadsLeft=6
+t=49 s=7 threadsLeft=5
+t=49 s=4 threadsLeft=4
+t=49 s=4 threadsLeft=3
+t=49 s=5 threadsLeft=2
+t=49 s=5 threadsLeft=1
+t=49 s=5 threadsLeft=0
+t=49 time=0.02631
+t=50 s=50 threadsLeft=15
+t=50 s=46 threadsLeft=14
+t=50 s=17 threadsLeft=13
+t=50 s=15 threadsLeft=12
+t=50 s=14 threadsLeft=11
+t=50 s=10 threadsLeft=10
+t=50 s=9 threadsLeft=9
+t=50 s=8 threadsLeft=8
+t=50 s=7 threadsLeft=7
+t=50 s=8 threadsLeft=6
+t=50 s=5 threadsLeft=5
+t=50 s=6 threadsLeft=4
+t=50 s=6 threadsLeft=3
+t=50 s=6 threadsLeft=2
+t=50 s=5 threadsLeft=1
+t=50 s=5 threadsLeft=0
+t=50 time=0.038936
+t=51 s=51 threadsLeft=12
+t=51 s=47 threadsLeft=11
+t=51 s=12 threadsLeft=10
+t=51 s=10 threadsLeft=9
+t=51 s=11 threadsLeft=8
+t=51 s=9 threadsLeft=7
+t=51 s=15 threadsLeft=6
+t=51 s=16 threadsLeft=5
+t=51 s=14 threadsLeft=4
+t=51 s=13 threadsLeft=3
+t=51 s=10 threadsLeft=2
+t=51 s=9 threadsLeft=1
+t=51 s=6 threadsLeft=0
+t=51 time=0.025517
+t=52 s=52 threadsLeft=11
+t=52 s=48 threadsLeft=10
+t=52 s=18 threadsLeft=9
+t=52 s=17 threadsLeft=8
+t=52 s=15 threadsLeft=7
+t=52 s=3 threadsLeft=6
+t=52 s=11 threadsLeft=5
+t=52 s=9 threadsLeft=4
+t=52 s=8 threadsLeft=3
+t=52 s=7 threadsLeft=2
+t=52 s=4 threadsLeft=1
+t=52 s=6 threadsLeft=0
+t=52 time=0.041589
+t=53 s=53 threadsLeft=7
+t=53 s=49 threadsLeft=6
+t=53 s=18 threadsLeft=5
+t=53 s=16 threadsLeft=4
+t=53 s=7 threadsLeft=3
+t=53 s=7 threadsLeft=2
+t=53 s=4 threadsLeft=1
+t=53 s=5 threadsLeft=0
+t=53 time=0.052822
+t=54 s=54 threadsLeft=19
+t=54 s=50 threadsLeft=18
+t=54 s=14 threadsLeft=17
+t=54 s=9 threadsLeft=16
+t=54 s=12 threadsLeft=15
+t=54 s=11 threadsLeft=14
+t=54 s=16 threadsLeft=13
+t=54 s=8 threadsLeft=12
+t=54 s=10 threadsLeft=11
+t=54 s=19 threadsLeft=10
+t=54 s=17 threadsLeft=9
+t=54 s=15 threadsLeft=8
+t=54 s=13 threadsLeft=7
+t=54 s=10 threadsLeft=6
+t=54 s=8 threadsLeft=5
+t=54 s=7 threadsLeft=4
+t=54 s=4 threadsLeft=3
+t=54 s=6 threadsLeft=2
+t=54 s=5 threadsLeft=1
+t=54 s=5 threadsLeft=0
+t=54 time=0.068721
+t=55 s=55 threadsLeft=9
+t=55 s=51 threadsLeft=8
+t=55 s=17 threadsLeft=7
+t=55 s=16 threadsLeft=6
+t=55 s=9 threadsLeft=5
+t=55 s=10 threadsLeft=4
+t=55 s=8 threadsLeft=3
+t=55 s=8 threadsLeft=2
+t=55 s=7 threadsLeft=1
+t=55 s=6 threadsLeft=0
+t=55 time=0.074114
+t=56 s=56 threadsLeft=12
+t=56 s=52 threadsLeft=11
+t=56 s=18 threadsLeft=10
+t=56 s=17 threadsLeft=9
+t=56 s=17 threadsLeft=8
+t=56 s=11 threadsLeft=7
+t=56 s=8 threadsLeft=6
+t=56 s=4 threadsLeft=5
+t=56 s=7 threadsLeft=4
+t=56 s=5 threadsLeft=3
+t=56 s=6 threadsLeft=2
+t=56 s=6 threadsLeft=1
+t=56 s=5 threadsLeft=0
+t=56 time=0.090064
+t=57 s=57 threadsLeft=15
+t=57 s=53 threadsLeft=14
+t=57 s=12 threadsLeft=13
+t=57 s=10 threadsLeft=12
+t=57 s=11 threadsLeft=11
+t=57 s=13 threadsLeft=10
+t=57 s=18 threadsLeft=9
+t=57 s=14 threadsLeft=8
+t=57 s=16 threadsLeft=7
+t=57 s=15 threadsLeft=6
+t=57 s=18 threadsLeft=5
+t=57 s=9 threadsLeft=4
+t=57 s=9 threadsLeft=3
+t=57 s=7 threadsLeft=2
+t=57 s=6 threadsLeft=1
+t=57 s=5 threadsLeft=0
+t=57 time=0.080693
+t=58 s=58 threadsLeft=10
+t=58 s=54 threadsLeft=9
+t=58 s=19 threadsLeft=8
+t=58 s=19 threadsLeft=7
+t=58 s=18 threadsLeft=6
+t=58 s=9 threadsLeft=5
+t=58 s=10 threadsLeft=4
+t=58 s=12 threadsLeft=3
+t=58 s=11 threadsLeft=2
+t=58 s=8 threadsLeft=1
+t=58 s=7 threadsLeft=0
+t=58 time=0.06863
+t=59 s=59 threadsLeft=9
+t=59 s=55 threadsLeft=8
+t=59 s=19 threadsLeft=7
+t=59 s=20 threadsLeft=6
+t=59 s=13 threadsLeft=5
+t=59 s=12 threadsLeft=4
+t=59 s=8 threadsLeft=3
+t=59 s=8 threadsLeft=2
+t=59 s=7 threadsLeft=1
+t=59 s=6 threadsLeft=0
+t=59 time=0.129742
+t=60 s=60 threadsLeft=18
+t=60 s=56 threadsLeft=17
+t=60 s=17 threadsLeft=16
+t=60 s=15 threadsLeft=15
+t=60 s=14 threadsLeft=14
+t=60 s=12 threadsLeft=13
+t=60 s=13 threadsLeft=12
+t=60 s=10 threadsLeft=11
+t=60 s=11 threadsLeft=10
+t=60 s=9 threadsLeft=9
+t=60 s=16 threadsLeft=8
+t=60 s=17 threadsLeft=7
+t=60 s=13 threadsLeft=6
+t=60 s=13 threadsLeft=5
+t=60 s=14 threadsLeft=4
+t=60 s=8 threadsLeft=3
+t=60 s=5 threadsLeft=2
+t=60 s=8 threadsLeft=1
+t=60 s=6 threadsLeft=0
+t=60 time=0.107138
+t=61 s=61 threadsLeft=12
+t=61 s=57 threadsLeft=11
+t=61 s=20 threadsLeft=10
+t=61 s=18 threadsLeft=9
+t=61 s=10 threadsLeft=8
+t=61 s=14 threadsLeft=7
+t=61 s=15 threadsLeft=6
+t=61 s=11 threadsLeft=5
+t=61 s=12 threadsLeft=4
+t=61 s=9 threadsLeft=3
+t=61 s=9 threadsLeft=2
+t=61 s=5 threadsLeft=1
+t=61 s=6 threadsLeft=0
+t=61 time=0.126656
+t=62 s=62 threadsLeft=13
+t=62 s=58 threadsLeft=12
+t=62 s=21 threadsLeft=11
+t=62 s=19 threadsLeft=10
+t=62 s=18 threadsLeft=9
+t=62 s=15 threadsLeft=8
+t=62 s=16 threadsLeft=7
+t=62 s=14 threadsLeft=6
+t=62 s=9 threadsLeft=5
+t=62 s=8 threadsLeft=4
+t=62 s=7 threadsLeft=3
+t=62 s=7 threadsLeft=2
+t=62 s=6 threadsLeft=1
+t=62 s=5 threadsLeft=0
+t=62 time=0.237407
+t=63 s=63 threadsLeft=16
+t=63 s=59 threadsLeft=15
+t=63 s=17 threadsLeft=14
+t=63 s=16 threadsLeft=13
+t=63 s=13 threadsLeft=12
+t=63 s=12 threadsLeft=11
+t=63 s=14 threadsLeft=10
+t=63 s=11 threadsLeft=9
+t=63 s=15 threadsLeft=8
+t=63 s=19 threadsLeft=7
+t=63 s=20 threadsLeft=6
+t=63 s=18 threadsLeft=5
+t=63 s=16 threadsLeft=4
+t=63 s=17 threadsLeft=3
+t=63 s=10 threadsLeft=2
+t=63 s=8 threadsLeft=1
+t=63 s=9 threadsLeft=0
+t=63 time=0.064477
+t=64 s=64 threadsLeft=21
+t=64 s=60 threadsLeft=20
+t=64 s=22 threadsLeft=19
+t=64 s=21 threadsLeft=18
+t=64 s=19 threadsLeft=17
+t=64 s=10 threadsLeft=16
+t=64 s=17 threadsLeft=15
+t=64 s=2 threadsLeft=14
+t=64 s=18 threadsLeft=13
+t=64 s=11 threadsLeft=12
+t=64 s=13 threadsLeft=11
+t=64 s=12 threadsLeft=10
+t=64 s=13 threadsLeft=9
+t=64 s=9 threadsLeft=8
+t=64 s=11 threadsLeft=7
+t=64 s=10 threadsLeft=6
+t=64 s=10 threadsLeft=5
+t=64 s=8 threadsLeft=4
+t=64 s=7 threadsLeft=3
+t=64 s=7 threadsLeft=2
+t=64 s=6 threadsLeft=1
+t=64 s=6 threadsLeft=0
+t=64 time=0.243348
+t=65 s=65 threadsLeft=17
+t=65 s=61 threadsLeft=16
+t=65 s=22 threadsLeft=15
+t=65 s=20 threadsLeft=14
+t=65 s=18 threadsLeft=13
+t=65 s=2 threadsLeft=12
+t=65 s=19 threadsLeft=11
+t=65 s=15 threadsLeft=10
+t=65 s=14 threadsLeft=9
+t=65 s=3 threadsLeft=8
+t=65 s=11 threadsLeft=7
+t=65 s=12 threadsLeft=6
+t=65 s=11 threadsLeft=5
+t=65 s=9 threadsLeft=4
+t=65 s=8 threadsLeft=3
+t=65 s=8 threadsLeft=2
+t=65 s=4 threadsLeft=1
+t=65 s=7 threadsLeft=0
+t=65 time=0.1653
+t=66 s=66 threadsLeft=28
+t=66 s=62 threadsLeft=27
+t=66 s=16 threadsLeft=26
+t=66 s=18 threadsLeft=25
+t=66 s=15 threadsLeft=24
+t=66 s=20 threadsLeft=23
+t=66 s=13 threadsLeft=22
+t=66 s=17 threadsLeft=21
+t=66 s=14 threadsLeft=20
+t=66 s=12 threadsLeft=19
+t=66 s=11 threadsLeft=18
+t=66 s=23 threadsLeft=17
+t=66 s=2 threadsLeft=16
+t=66 s=21 threadsLeft=15
+t=66 s=10 threadsLeft=14
+t=66 s=19 threadsLeft=13
+t=66 s=15 threadsLeft=12
+t=66 s=16 threadsLeft=11
+t=66 s=3 threadsLeft=10
+t=66 s=14 threadsLeft=9
+t=66 s=3 threadsLeft=8
+t=66 s=13 threadsLeft=7
+t=66 s=12 threadsLeft=6
+t=66 s=9 threadsLeft=5
+t=66 s=10 threadsLeft=4
+t=66 s=9 threadsLeft=3
+t=66 s=4 threadsLeft=2
+t=66 s=8 threadsLeft=1
+t=66 s=7 threadsLeft=0
+t=66 time=0.271514
+t=67 s=67 threadsLeft=19
+t=67 s=63 threadsLeft=18
+t=67 s=11 threadsLeft=17
+t=67 s=21 threadsLeft=16
+t=67 s=20 threadsLeft=15
+t=67 s=16 threadsLeft=14
+t=67 s=12 threadsLeft=13
+t=67 s=17 threadsLeft=12
+t=67 s=13 threadsLeft=11
+t=67 s=14 threadsLeft=10
+t=67 s=14 threadsLeft=9
+t=67 s=12 threadsLeft=8
+t=67 s=13 threadsLeft=7
+t=67 s=4 threadsLeft=6
+t=67 s=6 threadsLeft=5
+t=67 s=6 threadsLeft=4
+t=67 s=5 threadsLeft=3
+t=67 s=7 threadsLeft=2
+t=67 s=5 threadsLeft=1
+t=67 s=5 threadsLeft=0
+t=67 time=0.416937
+t=68 s=68 threadsLeft=16
+t=68 s=64 threadsLeft=15
+t=68 s=22 threadsLeft=14
+t=68 s=21 threadsLeft=13
+t=68 s=21 threadsLeft=12
+t=68 s=17 threadsLeft=11
+t=68 s=18 threadsLeft=10
+t=68 s=3 threadsLeft=9
+t=68 s=15 threadsLeft=8
+t=68 s=15 threadsLeft=7
+t=68 s=14 threadsLeft=6
+t=68 s=10 threadsLeft=5
+t=68 s=7 threadsLeft=4
+t=68 s=4 threadsLeft=3
+t=68 s=6 threadsLeft=2
+t=68 s=5 threadsLeft=1
+t=68 s=6 threadsLeft=0
+t=68 time=0.532242
+t=69 s=69 threadsLeft=25
+t=69 s=65 threadsLeft=24
+t=69 s=16 threadsLeft=23
+t=69 s=18 threadsLeft=22
+t=69 s=15 threadsLeft=21
+t=69 s=17 threadsLeft=20
+t=69 s=14 threadsLeft=19
+t=69 s=12 threadsLeft=18
+t=69 s=13 threadsLeft=17
+t=69 s=19 threadsLeft=16
+t=69 s=22 threadsLeft=15
+t=69 s=22 threadsLeft=14
+t=69 s=20 threadsLeft=13
+t=69 s=18 threadsLeft=12
+t=69 s=19 threadsLeft=11
+t=69 s=16 threadsLeft=10
+t=69 s=15 threadsLeft=9
+t=69 s=11 threadsLeft=8
+t=69 s=9 threadsLeft=7
+t=69 s=11 threadsLeft=6
+t=69 s=10 threadsLeft=5
+t=69 s=8 threadsLeft=4
+t=69 s=9 threadsLeft=3
+t=69 s=7 threadsLeft=2
+t=69 s=6 threadsLeft=1
+t=69 s=6 threadsLeft=0
+t=69 time=0.523538
+t=70 s=70 threadsLeft=27
+t=70 s=66 threadsLeft=26
+t=70 s=11 threadsLeft=25
+t=70 s=23 threadsLeft=24
+t=70 s=12 threadsLeft=23
+t=70 s=23 threadsLeft=22
+t=70 s=22 threadsLeft=21
+t=70 s=19 threadsLeft=20
+t=70 s=20 threadsLeft=19
+t=70 s=13 threadsLeft=18
+t=70 s=10 threadsLeft=17
+t=70 s=14 threadsLeft=16
+t=70 s=2 threadsLeft=15
+t=70 s=13 threadsLeft=14
+t=70 s=3 threadsLeft=13
+t=70 s=12 threadsLeft=12
+t=70 s=8 threadsLeft=11
+t=70 s=10 threadsLeft=10
+t=70 s=9 threadsLeft=9
+t=70 s=9 threadsLeft=8
+t=70 s=8 threadsLeft=7
+t=70 s=9 threadsLeft=6
+t=70 s=8 threadsLeft=5
+t=70 s=8 threadsLeft=4
+t=70 s=7 threadsLeft=3
+t=70 s=7 threadsLeft=2
+t=70 s=7 threadsLeft=1
+t=70 s=6 threadsLeft=0
+t=70 time=0.665278
+[38;2;000;128;000mTime: 4.254228s (2025-11-03 16:58:37)
+[0mt=2 s=2 threadsLeft=0
+t=2 time=0.000167
+t=3 s=3 threadsLeft=0
+t=3 time=0.000324
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000276
+t=5 s=5 threadsLeft=0
+t=5 time=0.000268
+t=6 s=6 threadsLeft=0
+t=6 time=0.00025
+t=7 s=7 threadsLeft=1
+t=7 s=3 threadsLeft=0
+t=7 time=0.000283
+t=8 s=8 threadsLeft=2
+t=8 s=2 threadsLeft=1
+t=8 s=4 threadsLeft=0
+t=8 time=0.000338
+t=9 s=9 threadsLeft=3
+t=9 s=5 threadsLeft=2
+t=9 s=2 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000326
+t=10 s=10 threadsLeft=4
+t=10 s=3 threadsLeft=3
+t=10 s=2 threadsLeft=2
+t=10 s=6 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000449
+t=11 s=11 threadsLeft=3
+t=11 s=7 threadsLeft=2
+t=11 s=3 threadsLeft=1
+t=11 s=4 threadsLeft=0
+t=11 time=0.000636
+t=12 s=12 threadsLeft=1
+t=12 s=8 threadsLeft=0
+t=12 time=0.000333
+t=13 s=13 threadsLeft=3
+t=13 s=9 threadsLeft=2
+t=13 s=2 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000337
+t=14 s=14 threadsLeft=4
+t=14 s=10 threadsLeft=3
+t=14 s=2 threadsLeft=2
+t=14 s=5 threadsLeft=1
+t=14 s=3 threadsLeft=0
+t=14 time=0.000352
+t=15 s=15 threadsLeft=3
+t=15 s=11 threadsLeft=2
+t=15 s=3 threadsLeft=1
+t=15 s=4 threadsLeft=0
+t=15 time=0.000355
+t=16 s=16 threadsLeft=5
+t=16 s=12 threadsLeft=4
+t=16 s=6 threadsLeft=3
+t=16 s=2 threadsLeft=2
+t=16 s=3 threadsLeft=1
+t=16 s=5 threadsLeft=0
+t=16 time=0.000418
+t=17 s=17 threadsLeft=5
+t=17 s=13 threadsLeft=4
+t=17 s=2 threadsLeft=3
+t=17 s=6 threadsLeft=2
+t=17 s=3 threadsLeft=1
+t=17 s=4 threadsLeft=0
+t=17 time=0.000634
+t=18 s=18 threadsLeft=6
+t=18 s=14 threadsLeft=5
+t=18 s=7 threadsLeft=4
+t=18 s=2 threadsLeft=3
+t=18 s=4 threadsLeft=2
+t=18 s=5 threadsLeft=1
+t=18 s=3 threadsLeft=0
+t=18 time=0.000413
+t=19 s=19 threadsLeft=3
+t=19 s=15 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.000422
+t=20 s=20 threadsLeft=6
+t=20 s=16 threadsLeft=5
+t=20 s=2 threadsLeft=4
+t=20 s=6 threadsLeft=3
+t=20 s=5 threadsLeft=2
+t=20 s=3 threadsLeft=1
+t=20 s=5 threadsLeft=0
+t=20 time=0.00047
+t=21 s=21 threadsLeft=5
+t=21 s=17 threadsLeft=4
+t=21 s=6 threadsLeft=3
+t=21 s=6 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000461
+t=22 s=22 threadsLeft=7
+t=22 s=18 threadsLeft=6
+t=22 s=7 threadsLeft=5
+t=22 s=7 threadsLeft=4
+t=22 s=6 threadsLeft=3
+t=22 s=2 threadsLeft=2
+t=22 s=3 threadsLeft=1
+t=22 s=4 threadsLeft=0
+t=22 time=0.000525
+t=23 s=23 threadsLeft=5
+t=23 s=19 threadsLeft=4
+t=23 s=7 threadsLeft=3
+t=23 s=8 threadsLeft=2
+t=23 s=5 threadsLeft=1
+t=23 s=4 threadsLeft=0
+t=23 time=0.000639
+t=24 s=24 threadsLeft=5
+t=24 s=20 threadsLeft=4
+t=24 s=5 threadsLeft=3
+t=24 s=3 threadsLeft=2
+t=24 s=4 threadsLeft=1
+t=24 s=5 threadsLeft=0
+t=24 time=0.000663
+t=25 s=25 threadsLeft=4
+t=25 s=21 threadsLeft=3
+t=25 s=8 threadsLeft=2
+t=25 s=6 threadsLeft=1
+t=25 s=3 threadsLeft=0
+t=25 time=0.000605
+t=26 s=26 threadsLeft=5
+t=26 s=22 threadsLeft=4
+t=26 s=9 threadsLeft=3
+t=26 s=7 threadsLeft=2
+t=26 s=6 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.001054
+t=27 s=27 threadsLeft=6
+t=27 s=23 threadsLeft=5
+t=27 s=8 threadsLeft=4
+t=27 s=7 threadsLeft=3
+t=27 s=5 threadsLeft=2
+t=27 s=6 threadsLeft=1
+t=27 s=4 threadsLeft=0
+t=27 time=0.000844
+t=28 s=28 threadsLeft=5
+t=28 s=24 threadsLeft=4
+t=28 s=10 threadsLeft=3
+t=28 s=9 threadsLeft=2
+t=28 s=3 threadsLeft=1
+t=28 s=7 threadsLeft=0
+t=28 time=0.000588
+t=29 s=29 threadsLeft=4
+t=29 s=25 threadsLeft=3
+t=29 s=10 threadsLeft=2
+t=29 s=8 threadsLeft=1
+t=29 s=5 threadsLeft=0
+t=29 time=0.000976
+t=30 s=30 threadsLeft=8
+t=30 s=26 threadsLeft=7
+t=30 s=11 threadsLeft=6
+t=30 s=9 threadsLeft=5
+t=30 s=8 threadsLeft=4
+t=30 s=6 threadsLeft=3
+t=30 s=5 threadsLeft=2
+t=30 s=7 threadsLeft=1
+t=30 s=4 threadsLeft=0
+t=30 time=0.001146
+t=31 s=31 threadsLeft=4
+t=31 s=27 threadsLeft=3
+t=31 s=9 threadsLeft=2
+t=31 s=8 threadsLeft=1
+t=31 s=4 threadsLeft=0
+t=31 time=0.001215
+t=32 s=32 threadsLeft=5
+t=32 s=28 threadsLeft=4
+t=32 s=2 threadsLeft=3
+t=32 s=10 threadsLeft=2
+t=32 s=9 threadsLeft=1
+t=32 s=9 threadsLeft=0
+t=32 time=0.000536
+t=33 s=33 threadsLeft=9
+t=33 s=29 threadsLeft=8
+t=33 s=10 threadsLeft=7
+t=33 s=6 threadsLeft=6
+t=33 s=7 threadsLeft=5
+t=33 s=8 threadsLeft=4
+t=33 s=10 threadsLeft=3
+t=33 s=2 threadsLeft=2
+t=33 s=3 threadsLeft=1
+t=33 s=5 threadsLeft=0
+t=33 time=0.001831
+t=34 s=34 threadsLeft=8
+t=34 s=30 threadsLeft=7
+t=34 s=2 threadsLeft=6
+t=34 s=11 threadsLeft=5
+t=34 s=11 threadsLeft=4
+t=34 s=10 threadsLeft=3
+t=34 s=3 threadsLeft=2
+t=34 s=3 threadsLeft=1
+t=34 s=4 threadsLeft=0
+t=34 time=0.001923
+t=35 s=35 threadsLeft=5
+t=35 s=31 threadsLeft=4
+t=35 s=11 threadsLeft=3
+t=35 s=12 threadsLeft=2
+t=35 s=4 threadsLeft=1
+t=35 s=5 threadsLeft=0
+t=35 time=0.002217
+t=36 s=36 threadsLeft=12
+t=36 s=32 threadsLeft=11
+t=36 s=7 threadsLeft=10
+t=36 s=9 threadsLeft=9
+t=36 s=2 threadsLeft=8
+t=36 s=8 threadsLeft=7
+t=36 s=6 threadsLeft=6
+t=36 s=9 threadsLeft=5
+t=36 s=3 threadsLeft=4
+t=36 s=5 threadsLeft=3
+t=36 s=6 threadsLeft=2
+t=36 s=4 threadsLeft=1
+t=36 s=5 threadsLeft=0
+t=36 time=0.002486
+t=37 s=37 threadsLeft=7
+t=37 s=33 threadsLeft=6
+t=37 s=12 threadsLeft=5
+t=37 s=10 threadsLeft=4
+t=37 s=3 threadsLeft=3
+t=37 s=6 threadsLeft=2
+t=37 s=7 threadsLeft=1
+t=37 s=4 threadsLeft=0
+t=37 time=0.002993
+t=38 s=38 threadsLeft=11
+t=38 s=34 threadsLeft=10
+t=38 s=2 threadsLeft=9
+t=38 s=13 threadsLeft=8
+t=38 s=11 threadsLeft=7
+t=38 s=10 threadsLeft=6
+t=38 s=7 threadsLeft=5
+t=38 s=3 threadsLeft=4
+t=38 s=8 threadsLeft=3
+t=38 s=6 threadsLeft=2
+t=38 s=4 threadsLeft=1
+t=38 s=5 threadsLeft=0
+t=38 time=0.00447
+t=39 s=39 threadsLeft=11
+t=39 s=35 threadsLeft=10
+t=39 s=9 threadsLeft=9
+t=39 s=8 threadsLeft=8
+t=39 s=7 threadsLeft=7
+t=39 s=12 threadsLeft=6
+t=39 s=11 threadsLeft=5
+t=39 s=10 threadsLeft=4
+t=39 s=8 threadsLeft=3
+t=39 s=9 threadsLeft=2
+t=39 s=4 threadsLeft=1
+t=39 s=5 threadsLeft=0
+t=39 time=0.005348
+t=40 s=40 threadsLeft=9
+t=40 s=36 threadsLeft=8
+t=40 s=14 threadsLeft=7
+t=40 s=2 threadsLeft=6
+t=40 s=13 threadsLeft=5
+t=40 s=11 threadsLeft=4
+t=40 s=9 threadsLeft=3
+t=40 s=3 threadsLeft=2
+t=40 s=10 threadsLeft=1
+t=40 s=5 threadsLeft=0
+t=40 time=0.004671
+t=41 s=41 threadsLeft=10
+t=41 s=37 threadsLeft=9
+t=41 s=14 threadsLeft=8
+t=41 s=12 threadsLeft=7
+t=41 s=10 threadsLeft=6
+t=41 s=11 threadsLeft=5
+t=41 s=3 threadsLeft=4
+t=41 s=3 threadsLeft=3
+t=41 s=7 threadsLeft=2
+t=41 s=6 threadsLeft=1
+t=41 s=4 threadsLeft=0
+t=41 time=0.004857
+t=42 s=42 threadsLeft=19
+t=42 s=38 threadsLeft=18
+t=42 s=15 threadsLeft=17
+t=42 s=8 threadsLeft=16
+t=42 s=7 threadsLeft=15
+t=42 s=10 threadsLeft=14
+t=42 s=9 threadsLeft=13
+t=42 s=13 threadsLeft=12
+t=42 s=12 threadsLeft=11
+t=42 s=11 threadsLeft=10
+t=42 s=6 threadsLeft=9
+t=42 s=3 threadsLeft=8
+t=42 s=7 threadsLeft=7
+t=42 s=8 threadsLeft=6
+t=42 s=4 threadsLeft=5
+t=42 s=6 threadsLeft=4
+t=42 s=4 threadsLeft=3
+t=42 s=5 threadsLeft=2
+t=42 s=4 threadsLeft=1
+t=42 s=5 threadsLeft=0
+t=42 time=0.008864
+t=43 s=43 threadsLeft=8
+t=43 s=39 threadsLeft=7
+t=43 s=13 threadsLeft=6
+t=43 s=12 threadsLeft=5
+t=43 s=8 threadsLeft=4
+t=43 s=9 threadsLeft=3
+t=43 s=4 threadsLeft=2
+t=43 s=6 threadsLeft=1
+t=43 s=5 threadsLeft=0
+t=43 time=0.010518
+t=44 s=44 threadsLeft=13
+t=44 s=40 threadsLeft=12
+t=44 s=14 threadsLeft=11
+t=44 s=2 threadsLeft=10
+t=44 s=13 threadsLeft=9
+t=44 s=13 threadsLeft=8
+t=44 s=9 threadsLeft=7
+t=44 s=3 threadsLeft=6
+t=44 s=10 threadsLeft=5
+t=44 s=7 threadsLeft=4
+t=44 s=7 threadsLeft=3
+t=44 s=6 threadsLeft=2
+t=44 s=4 threadsLeft=1
+t=44 s=5 threadsLeft=0
+t=44 time=0.009049
+t=45 s=45 threadsLeft=16
+t=45 s=41 threadsLeft=15
+t=45 s=14 threadsLeft=14
+t=45 s=8 threadsLeft=13
+t=45 s=10 threadsLeft=12
+t=45 s=9 threadsLeft=11
+t=45 s=11 threadsLeft=10
+t=45 s=14 threadsLeft=9
+t=45 s=12 threadsLeft=8
+t=45 s=11 threadsLeft=7
+t=45 s=10 threadsLeft=6
+t=45 s=3 threadsLeft=5
+t=45 s=8 threadsLeft=4
+t=45 s=7 threadsLeft=3
+t=45 s=5 threadsLeft=2
+t=45 s=4 threadsLeft=1
+t=45 s=5 threadsLeft=0
+t=45 time=0.015347
+t=46 s=46 threadsLeft=11
+t=46 s=42 threadsLeft=10
+t=46 s=15 threadsLeft=9
+t=46 s=15 threadsLeft=8
+t=46 s=14 threadsLeft=7
+t=46 s=11 threadsLeft=6
+t=46 s=12 threadsLeft=5
+t=46 s=3 threadsLeft=4
+t=46 s=6 threadsLeft=3
+t=46 s=5 threadsLeft=2
+t=46 s=4 threadsLeft=1
+t=46 s=6 threadsLeft=0
+t=46 time=0.015433
+t=47 s=47 threadsLeft=8
+t=47 s=43 threadsLeft=7
+t=47 s=15 threadsLeft=6
+t=47 s=16 threadsLeft=5
+t=47 s=12 threadsLeft=4
+t=47 s=13 threadsLeft=3
+t=47 s=4 threadsLeft=2
+t=47 s=6 threadsLeft=1
+t=47 s=5 threadsLeft=0
+t=47 time=0.020758
+t=48 s=48 threadsLeft=21
+t=48 s=44 threadsLeft=20
+t=48 s=11 threadsLeft=19
+t=48 s=10 threadsLeft=18
+t=48 s=13 threadsLeft=17
+t=48 s=9 threadsLeft=16
+t=48 s=8 threadsLeft=15
+t=48 s=7 threadsLeft=14
+t=48 s=13 threadsLeft=13
+t=48 s=12 threadsLeft=12
+t=48 s=3 threadsLeft=11
+t=48 s=3 threadsLeft=10
+t=48 s=9 threadsLeft=9
+t=48 s=7 threadsLeft=8
+t=48 s=4 threadsLeft=7
+t=48 s=7 threadsLeft=6
+t=48 s=4 threadsLeft=5
+t=48 s=6 threadsLeft=4
+t=48 s=4 threadsLeft=3
+t=48 s=6 threadsLeft=2
+t=48 s=6 threadsLeft=1
+t=48 s=5 threadsLeft=0
+t=48 time=0.021694
+t=49 s=49 threadsLeft=12
+t=49 s=45 threadsLeft=11
+t=49 s=16 threadsLeft=10
+t=49 s=14 threadsLeft=9
+t=49 s=8 threadsLeft=8
+t=49 s=7 threadsLeft=7
+t=49 s=8 threadsLeft=6
+t=49 s=7 threadsLeft=5
+t=49 s=4 threadsLeft=4
+t=49 s=4 threadsLeft=3
+t=49 s=5 threadsLeft=2
+t=49 s=5 threadsLeft=1
+t=49 s=5 threadsLeft=0
+t=49 time=0.027369
+t=50 s=50 threadsLeft=15
+t=50 s=46 threadsLeft=14
+t=50 s=17 threadsLeft=13
+t=50 s=15 threadsLeft=12
+t=50 s=14 threadsLeft=11
+t=50 s=10 threadsLeft=10
+t=50 s=9 threadsLeft=9
+t=50 s=8 threadsLeft=8
+t=50 s=7 threadsLeft=7
+t=50 s=8 threadsLeft=6
+t=50 s=5 threadsLeft=5
+t=50 s=6 threadsLeft=4
+t=50 s=6 threadsLeft=3
+t=50 s=6 threadsLeft=2
+t=50 s=5 threadsLeft=1
+t=50 s=5 threadsLeft=0
+t=50 time=0.040151
+t=51 s=51 threadsLeft=12
+t=51 s=47 threadsLeft=11
+t=51 s=12 threadsLeft=10
+t=51 s=11 threadsLeft=9
+t=51 s=9 threadsLeft=8
+t=51 s=10 threadsLeft=7
+t=51 s=15 threadsLeft=6
+t=51 s=16 threadsLeft=5
+t=51 s=13 threadsLeft=4
+t=51 s=14 threadsLeft=3
+t=51 s=10 threadsLeft=2
+t=51 s=9 threadsLeft=1
+t=51 s=6 threadsLeft=0
+t=51 time=0.026244
+t=52 s=52 threadsLeft=11
+t=52 s=48 threadsLeft=10
+t=52 s=18 threadsLeft=9
+t=52 s=17 threadsLeft=8
+t=52 s=15 threadsLeft=7
+t=52 s=3 threadsLeft=6
+t=52 s=11 threadsLeft=5
+t=52 s=9 threadsLeft=4
+t=52 s=8 threadsLeft=3
+t=52 s=7 threadsLeft=2
+t=52 s=4 threadsLeft=1
+t=52 s=6 threadsLeft=0
+t=52 time=0.041825
+t=53 s=53 threadsLeft=7
+t=53 s=49 threadsLeft=6
+t=53 s=18 threadsLeft=5
+t=53 s=16 threadsLeft=4
+t=53 s=7 threadsLeft=3
+t=53 s=7 threadsLeft=2
+t=53 s=4 threadsLeft=1
+t=53 s=5 threadsLeft=0
+t=53 time=0.05055
+t=54 s=54 threadsLeft=19
+t=54 s=50 threadsLeft=18
+t=54 s=12 threadsLeft=17
+t=54 s=16 threadsLeft=16
+t=54 s=11 threadsLeft=15
+t=54 s=14 threadsLeft=14
+t=54 s=9 threadsLeft=13
+t=54 s=8 threadsLeft=12
+t=54 s=10 threadsLeft=11
+t=54 s=19 threadsLeft=10
+t=54 s=17 threadsLeft=9
+t=54 s=15 threadsLeft=8
+t=54 s=13 threadsLeft=7
+t=54 s=10 threadsLeft=6
+t=54 s=8 threadsLeft=5
+t=54 s=7 threadsLeft=4
+t=54 s=4 threadsLeft=3
+t=54 s=6 threadsLeft=2
+t=54 s=5 threadsLeft=1
+t=54 s=5 threadsLeft=0
+t=54 time=0.066715
+t=55 s=55 threadsLeft=9
+t=55 s=51 threadsLeft=8
+t=55 s=17 threadsLeft=7
+t=55 s=16 threadsLeft=6
+t=55 s=9 threadsLeft=5
+t=55 s=10 threadsLeft=4
+t=55 s=8 threadsLeft=3
+t=55 s=8 threadsLeft=2
+t=55 s=7 threadsLeft=1
+t=55 s=6 threadsLeft=0
+t=55 time=0.072409
+t=56 s=56 threadsLeft=12
+t=56 s=52 threadsLeft=11
+t=56 s=18 threadsLeft=10
+t=56 s=17 threadsLeft=9
+t=56 s=17 threadsLeft=8
+t=56 s=11 threadsLeft=7
+t=56 s=8 threadsLeft=6
+t=56 s=4 threadsLeft=5
+t=56 s=7 threadsLeft=4
+t=56 s=5 threadsLeft=3
+t=56 s=6 threadsLeft=2
+t=56 s=6 threadsLeft=1
+t=56 s=5 threadsLeft=0
+t=56 time=0.087608
+t=57 s=57 threadsLeft=15
+t=57 s=53 threadsLeft=14
+t=57 s=12 threadsLeft=13
+t=57 s=13 threadsLeft=12
+t=57 s=10 threadsLeft=11
+t=57 s=11 threadsLeft=10
+t=57 s=14 threadsLeft=9
+t=57 s=18 threadsLeft=8
+t=57 s=15 threadsLeft=7
+t=57 s=16 threadsLeft=6
+t=57 s=18 threadsLeft=5
+t=57 s=9 threadsLeft=4
+t=57 s=9 threadsLeft=3
+t=57 s=7 threadsLeft=2
+t=57 s=6 threadsLeft=1
+t=57 s=5 threadsLeft=0
+t=57 time=0.081009
+t=58 s=58 threadsLeft=10
+t=58 s=54 threadsLeft=9
+t=58 s=19 threadsLeft=8
+t=58 s=19 threadsLeft=7
+t=58 s=18 threadsLeft=6
+t=58 s=9 threadsLeft=5
+t=58 s=10 threadsLeft=4
+t=58 s=12 threadsLeft=3
+t=58 s=11 threadsLeft=2
+t=58 s=8 threadsLeft=1
+t=58 s=7 threadsLeft=0
+t=58 time=0.069454
+t=59 s=59 threadsLeft=9
+t=59 s=55 threadsLeft=8
+t=59 s=19 threadsLeft=7
+t=59 s=20 threadsLeft=6
+t=59 s=13 threadsLeft=5
+t=59 s=12 threadsLeft=4
+t=59 s=8 threadsLeft=3
+t=59 s=8 threadsLeft=2
+t=59 s=7 threadsLeft=1
+t=59 s=6 threadsLeft=0
+t=59 time=0.130262
+t=60 s=60 threadsLeft=18
+t=60 s=56 threadsLeft=17
+t=60 s=15 threadsLeft=16
+t=60 s=17 threadsLeft=15
+t=60 s=13 threadsLeft=14
+t=60 s=10 threadsLeft=13
+t=60 s=12 threadsLeft=12
+t=60 s=11 threadsLeft=11
+t=60 s=14 threadsLeft=10
+t=60 s=9 threadsLeft=9
+t=60 s=16 threadsLeft=8
+t=60 s=17 threadsLeft=7
+t=60 s=13 threadsLeft=6
+t=60 s=13 threadsLeft=5
+t=60 s=14 threadsLeft=4
+t=60 s=8 threadsLeft=3
+t=60 s=5 threadsLeft=2
+t=60 s=8 threadsLeft=1
+t=60 s=6 threadsLeft=0
+t=60 time=0.104919
+t=61 s=61 threadsLeft=12
+t=61 s=57 threadsLeft=11
+t=61 s=20 threadsLeft=10
+t=61 s=18 threadsLeft=9
+t=61 s=10 threadsLeft=8
+t=61 s=14 threadsLeft=7
+t=61 s=15 threadsLeft=6
+t=61 s=11 threadsLeft=5
+t=61 s=12 threadsLeft=4
+t=61 s=9 threadsLeft=3
+t=61 s=9 threadsLeft=2
+t=61 s=5 threadsLeft=1
+t=61 s=6 threadsLeft=0
+t=61 time=0.127269
+t=62 s=62 threadsLeft=13
+t=62 s=58 threadsLeft=12
+t=62 s=21 threadsLeft=11
+t=62 s=19 threadsLeft=10
+t=62 s=18 threadsLeft=9
+t=62 s=15 threadsLeft=8
+t=62 s=16 threadsLeft=7
+t=62 s=14 threadsLeft=6
+t=62 s=9 threadsLeft=5
+t=62 s=8 threadsLeft=4
+t=62 s=7 threadsLeft=3
+t=62 s=7 threadsLeft=2
+t=62 s=6 threadsLeft=1
+t=62 s=5 threadsLeft=0
+t=62 time=0.235286
+t=63 s=63 threadsLeft=16
+t=63 s=59 threadsLeft=15
+t=63 s=14 threadsLeft=14
+t=63 s=13 threadsLeft=13
+t=63 s=15 threadsLeft=12
+t=63 s=12 threadsLeft=11
+t=63 s=16 threadsLeft=10
+t=63 s=17 threadsLeft=9
+t=63 s=11 threadsLeft=8
+t=63 s=19 threadsLeft=7
+t=63 s=20 threadsLeft=6
+t=63 s=18 threadsLeft=5
+t=63 s=16 threadsLeft=4
+t=63 s=17 threadsLeft=3
+t=63 s=10 threadsLeft=2
+t=63 s=8 threadsLeft=1
+t=63 s=9 threadsLeft=0
+t=63 time=0.065194
+t=64 s=64 threadsLeft=21
+t=64 s=60 threadsLeft=20
+t=64 s=22 threadsLeft=19
+t=64 s=21 threadsLeft=18
+t=64 s=10 threadsLeft=17
+t=64 s=19 threadsLeft=16
+t=64 s=17 threadsLeft=15
+t=64 s=2 threadsLeft=14
+t=64 s=11 threadsLeft=13
+t=64 s=18 threadsLeft=12
+t=64 s=13 threadsLeft=11
+t=64 s=12 threadsLeft=10
+t=64 s=13 threadsLeft=9
+t=64 s=9 threadsLeft=8
+t=64 s=11 threadsLeft=7
+t=64 s=10 threadsLeft=6
+t=64 s=10 threadsLeft=5
+t=64 s=8 threadsLeft=4
+t=64 s=7 threadsLeft=3
+t=64 s=7 threadsLeft=2
+t=64 s=6 threadsLeft=1
+t=64 s=6 threadsLeft=0
+t=64 time=0.247997
+t=65 s=65 threadsLeft=17
+t=65 s=61 threadsLeft=16
+t=65 s=22 threadsLeft=15
+t=65 s=20 threadsLeft=14
+t=65 s=2 threadsLeft=13
+t=65 s=18 threadsLeft=12
+t=65 s=19 threadsLeft=11
+t=65 s=15 threadsLeft=10
+t=65 s=14 threadsLeft=9
+t=65 s=3 threadsLeft=8
+t=65 s=11 threadsLeft=7
+t=65 s=12 threadsLeft=6
+t=65 s=11 threadsLeft=5
+t=65 s=9 threadsLeft=4
+t=65 s=8 threadsLeft=3
+t=65 s=8 threadsLeft=2
+t=65 s=4 threadsLeft=1
+t=65 s=7 threadsLeft=0
+t=65 time=0.165859
+t=66 s=66 threadsLeft=28
+t=66 s=62 threadsLeft=27
+t=66 s=15 threadsLeft=26
+t=66 s=16 threadsLeft=25
+t=66 s=18 threadsLeft=24
+t=66 s=13 threadsLeft=23
+t=66 s=14 threadsLeft=22
+t=66 s=17 threadsLeft=21
+t=66 s=20 threadsLeft=20
+t=66 s=12 threadsLeft=19
+t=66 s=10 threadsLeft=18
+t=66 s=11 threadsLeft=17
+t=66 s=23 threadsLeft=16
+t=66 s=2 threadsLeft=15
+t=66 s=21 threadsLeft=14
+t=66 s=19 threadsLeft=13
+t=66 s=15 threadsLeft=12
+t=66 s=16 threadsLeft=11
+t=66 s=3 threadsLeft=10
+t=66 s=14 threadsLeft=9
+t=66 s=3 threadsLeft=8
+t=66 s=13 threadsLeft=7
+t=66 s=12 threadsLeft=6
+t=66 s=9 threadsLeft=5
+t=66 s=10 threadsLeft=4
+t=66 s=9 threadsLeft=3
+t=66 s=4 threadsLeft=2
+t=66 s=8 threadsLeft=1
+t=66 s=7 threadsLeft=0
+t=66 time=0.271115
+t=67 s=67 threadsLeft=19
+t=67 s=63 threadsLeft=18
+t=67 s=11 threadsLeft=17
+t=67 s=21 threadsLeft=16
+t=67 s=20 threadsLeft=15
+t=67 s=16 threadsLeft=14
+t=67 s=12 threadsLeft=13
+t=67 s=17 threadsLeft=12
+t=67 s=13 threadsLeft=11
+t=67 s=14 threadsLeft=10
+t=67 s=14 threadsLeft=9
+t=67 s=12 threadsLeft=8
+t=67 s=13 threadsLeft=7
+t=67 s=4 threadsLeft=6
+t=67 s=6 threadsLeft=5
+t=67 s=6 threadsLeft=4
+t=67 s=5 threadsLeft=3
+t=67 s=7 threadsLeft=2
+t=67 s=5 threadsLeft=1
+t=67 s=5 threadsLeft=0
+t=67 time=0.419708
+t=68 s=68 threadsLeft=16
+t=68 s=64 threadsLeft=15
+t=68 s=22 threadsLeft=14
+t=68 s=21 threadsLeft=13
+t=68 s=21 threadsLeft=12
+t=68 s=17 threadsLeft=11
+t=68 s=18 threadsLeft=10
+t=68 s=3 threadsLeft=9
+t=68 s=15 threadsLeft=8
+t=68 s=15 threadsLeft=7
+t=68 s=14 threadsLeft=6
+t=68 s=10 threadsLeft=5
+t=68 s=7 threadsLeft=4
+t=68 s=4 threadsLeft=3
+t=68 s=5 threadsLeft=2
+t=68 s=6 threadsLeft=1
+t=68 s=6 threadsLeft=0
+t=68 time=0.530577
+t=69 s=69 threadsLeft=25
+t=69 s=65 threadsLeft=24
+t=69 s=18 threadsLeft=23
+t=69 s=17 threadsLeft=22
+t=69 s=16 threadsLeft=21
+t=69 s=15 threadsLeft=20
+t=69 s=14 threadsLeft=19
+t=69 s=19 threadsLeft=18
+t=69 s=12 threadsLeft=17
+t=69 s=22 threadsLeft=16
+t=69 s=13 threadsLeft=15
+t=69 s=22 threadsLeft=14
+t=69 s=20 threadsLeft=13
+t=69 s=18 threadsLeft=12
+t=69 s=19 threadsLeft=11
+t=69 s=16 threadsLeft=10
+t=69 s=15 threadsLeft=9
+t=69 s=11 threadsLeft=8
+t=69 s=9 threadsLeft=7
+t=69 s=11 threadsLeft=6
+t=69 s=10 threadsLeft=5
+t=69 s=8 threadsLeft=4
+t=69 s=9 threadsLeft=3
+t=69 s=7 threadsLeft=2
+t=69 s=6 threadsLeft=1
+t=69 s=6 threadsLeft=0
+t=69 time=0.522675
+t=70 s=70 threadsLeft=27
+t=70 s=66 threadsLeft=26
+t=70 s=11 threadsLeft=25
+t=70 s=23 threadsLeft=24
+t=70 s=12 threadsLeft=23
 t=70 s=23 threadsLeft=22
 t=70 s=22 threadsLeft=21
 t=70 s=19 threadsLeft=20
@@ -1050,8 +5215,8 @@ t=70 s=20 threadsLeft=19
 t=70 s=13 threadsLeft=18
 t=70 s=14 threadsLeft=17
 t=70 s=10 threadsLeft=16
-t=70 s=13 threadsLeft=15
-t=70 s=2 threadsLeft=14
+t=70 s=2 threadsLeft=15
+t=70 s=13 threadsLeft=14
 t=70 s=3 threadsLeft=13
 t=70 s=12 threadsLeft=12
 t=70 s=8 threadsLeft=11
@@ -1066,330 +5231,1552 @@ t=70 s=7 threadsLeft=3
 t=70 s=7 threadsLeft=2
 t=70 s=7 threadsLeft=1
 t=70 s=6 threadsLeft=0
-t=70 time=0.708453
-t=71 s=71 threadsLeft=17
-t=71 s=67 threadsLeft=16
-t=71 s=23 threadsLeft=15
-t=71 s=24 threadsLeft=14
-t=71 s=20 threadsLeft=13
-t=71 s=21 threadsLeft=12
-t=71 s=14 threadsLeft=11
-t=71 s=13 threadsLeft=10
-t=71 s=12 threadsLeft=9
-t=71 s=11 threadsLeft=8
-t=71 s=11 threadsLeft=7
-t=71 s=4 threadsLeft=6
-t=71 s=10 threadsLeft=5
-t=71 s=10 threadsLeft=4
-t=71 s=9 threadsLeft=3
-t=71 s=8 threadsLeft=2
-t=71 s=5 threadsLeft=1
-t=71 s=5 threadsLeft=0
-t=71 time=0.690641
-t=72 s=72 threadsLeft=37
-t=72 s=68 threadsLeft=36
-t=72 s=19 threadsLeft=35
-t=72 s=2 threadsLeft=34
-t=72 s=18 threadsLeft=33
-t=72 s=17 threadsLeft=32
-t=72 s=14 threadsLeft=31
-t=72 s=15 threadsLeft=30
-t=72 s=16 threadsLeft=29
-t=72 s=13 threadsLeft=28
-t=72 s=12 threadsLeft=27
-t=72 s=21 threadsLeft=26
-t=72 s=11 threadsLeft=25
-t=72 s=21 threadsLeft=24
-t=72 s=20 threadsLeft=23
-t=72 s=17 threadsLeft=22
-t=72 s=3 threadsLeft=21
-t=72 s=3 threadsLeft=20
-t=72 s=15 threadsLeft=19
-t=72 s=14 threadsLeft=18
-t=72 s=10 threadsLeft=17
-t=72 s=12 threadsLeft=16
-t=72 s=11 threadsLeft=15
-t=72 s=12 threadsLeft=14
-t=72 s=11 threadsLeft=13
-t=72 s=10 threadsLeft=12
-t=72 s=9 threadsLeft=11
-t=72 s=4 threadsLeft=10
-t=72 s=4 threadsLeft=9
-t=72 s=10 threadsLeft=8
-t=72 s=9 threadsLeft=7
-t=72 s=5 threadsLeft=6
-t=72 s=8 threadsLeft=5
-t=72 s=6 threadsLeft=4
-t=72 s=5 threadsLeft=3
-t=72 s=7 threadsLeft=2
-t=72 s=5 threadsLeft=1
-t=72 s=6 threadsLeft=0
-t=72 time=0.925205
-t=73 s=73 threadsLeft=30
-t=73 s=69 threadsLeft=29
-t=73 s=12 threadsLeft=28
-t=73 s=13 threadsLeft=27
-t=73 s=22 threadsLeft=26
-t=73 s=14 threadsLeft=25
-t=73 s=15 threadsLeft=24
-t=73 s=15 threadsLeft=23
-t=73 s=16 threadsLeft=22
-t=73 s=16 threadsLeft=21
-t=73 s=24 threadsLeft=20
-t=73 s=13 threadsLeft=19
-t=73 s=3 threadsLeft=18
-t=73 s=3 threadsLeft=17
-t=73 s=13 threadsLeft=16
-t=73 s=12 threadsLeft=15
-t=73 s=11 threadsLeft=14
-t=73 s=10 threadsLeft=13
-t=73 s=4 threadsLeft=12
-t=73 s=9 threadsLeft=11
-t=73 s=4 threadsLeft=10
-t=73 s=9 threadsLeft=9
-t=73 s=7 threadsLeft=8
-t=73 s=8 threadsLeft=7
-t=73 s=6 threadsLeft=6
-t=73 s=7 threadsLeft=5
-t=73 s=8 threadsLeft=4
-t=73 s=7 threadsLeft=3
-t=73 s=6 threadsLeft=2
-t=73 s=5 threadsLeft=1
-t=73 s=6 threadsLeft=0
-t=73 time=1.138451
-t=74 s=74 threadsLeft=25
-t=74 s=70 threadsLeft=24
-t=74 s=25 threadsLeft=23
-t=74 s=23 threadsLeft=22
-t=74 s=22 threadsLeft=21
-t=74 s=18 threadsLeft=20
-t=74 s=17 threadsLeft=19
-t=74 s=16 threadsLeft=18
-t=74 s=14 threadsLeft=17
-t=74 s=3 threadsLeft=16
-t=74 s=13 threadsLeft=15
-t=74 s=12 threadsLeft=14
-t=74 s=11 threadsLeft=13
-t=74 s=11 threadsLeft=12
-t=74 s=10 threadsLeft=11
-t=74 s=4 threadsLeft=10
-t=74 s=4 threadsLeft=9
-t=74 s=4 threadsLeft=8
-t=74 s=10 threadsLeft=7
-t=74 s=9 threadsLeft=6
-t=74 s=8 threadsLeft=5
-t=74 s=7 threadsLeft=4
-t=74 s=7 threadsLeft=3
-t=74 s=5 threadsLeft=2
-t=74 s=6 threadsLeft=1
-t=74 s=5 threadsLeft=0
-t=74 time=1.191153
-t=75 s=75 threadsLeft=32
-t=75 s=71 threadsLeft=31
-t=75 s=19 threadsLeft=30
-t=75 s=18 threadsLeft=29
-t=75 s=15 threadsLeft=28
-t=75 s=20 threadsLeft=27
-t=75 s=16 threadsLeft=26
-t=75 s=13 threadsLeft=25
-t=75 s=17 threadsLeft=24
-t=75 s=14 threadsLeft=23
-t=75 s=23 threadsLeft=22
-t=75 s=24 threadsLeft=21
-t=75 s=22 threadsLeft=20
-t=75 s=21 threadsLeft=19
-t=75 s=18 threadsLeft=18
-t=75 s=17 threadsLeft=17
-t=75 s=10 threadsLeft=16
-t=75 s=12 threadsLeft=15
-t=75 s=11 threadsLeft=14
-t=75 s=13 threadsLeft=13
-t=75 s=12 threadsLeft=12
-t=75 s=11 threadsLeft=11
-t=75 s=10 threadsLeft=10
-t=75 s=4 threadsLeft=9
-t=75 s=9 threadsLeft=8
-t=75 s=8 threadsLeft=7
-t=75 s=8 threadsLeft=6
-t=75 s=6 threadsLeft=5
-t=75 s=7 threadsLeft=4
-t=75 s=5 threadsLeft=3
-t=75 s=5 threadsLeft=2
-t=75 s=7 threadsLeft=1
-t=75 s=6 threadsLeft=0
-t=75 time=1.189937
-t=76 s=76 threadsLeft=37
-t=76 s=72 threadsLeft=36
-t=76 s=26 threadsLeft=35
-t=76 s=13 threadsLeft=34
-t=76 s=14 threadsLeft=33
-t=76 s=12 threadsLeft=32
-t=76 s=25 threadsLeft=31
-t=76 s=11 threadsLeft=30
-t=76 s=23 threadsLeft=29
-t=76 s=15 threadsLeft=28
-t=76 s=19 threadsLeft=27
-t=76 s=2 threadsLeft=26
-t=76 s=17 threadsLeft=25
-t=76 s=16 threadsLeft=24
-t=76 s=13 threadsLeft=23
-t=76 s=14 threadsLeft=22
-t=76 s=11 threadsLeft=21
-t=76 s=12 threadsLeft=20
-t=76 s=11 threadsLeft=19
-t=76 s=8 threadsLeft=18
-t=76 s=9 threadsLeft=17
-t=76 s=10 threadsLeft=16
-t=76 s=10 threadsLeft=15
-t=76 s=9 threadsLeft=14
-t=76 s=10 threadsLeft=13
-t=76 s=10 threadsLeft=12
-t=76 s=8 threadsLeft=11
-t=76 s=9 threadsLeft=10
-t=76 s=9 threadsLeft=9
-t=76 s=9 threadsLeft=8
-t=76 s=5 threadsLeft=7
-t=76 s=6 threadsLeft=6
-t=76 s=8 threadsLeft=5
-t=76 s=8 threadsLeft=4
-t=76 s=7 threadsLeft=3
-t=76 s=8 threadsLeft=2
-t=76 s=7 threadsLeft=1
-t=76 s=7 threadsLeft=0
-t=76 time=1.5622
-t=77 s=77 threadsLeft=26
-t=77 s=73 threadsLeft=25
-t=77 s=26 threadsLeft=24
-t=77 s=24 threadsLeft=23
-t=77 s=14 threadsLeft=22
-t=77 s=15 threadsLeft=21
-t=77 s=15 threadsLeft=20
-t=77 s=3 threadsLeft=19
-t=77 s=13 threadsLeft=18
-t=77 s=12 threadsLeft=17
-t=77 s=11 threadsLeft=16
-t=77 s=12 threadsLeft=15
-t=77 s=11 threadsLeft=14
-t=77 s=10 threadsLeft=13
-t=77 s=4 threadsLeft=12
-t=77 s=10 threadsLeft=11
-t=77 s=9 threadsLeft=10
-t=77 s=9 threadsLeft=9
-t=77 s=8 threadsLeft=8
-t=77 s=8 threadsLeft=7
-t=77 s=5 threadsLeft=6
-t=77 s=7 threadsLeft=5
-t=77 s=7 threadsLeft=4
-t=77 s=5 threadsLeft=3
-t=77 s=6 threadsLeft=2
-t=77 s=6 threadsLeft=1
-t=77 s=6 threadsLeft=0
-t=77 time=1.885961
-t=78 s=78 threadsLeft=45
-t=78 s=74 threadsLeft=44
-t=78 s=17 threadsLeft=43
-t=78 s=20 threadsLeft=42
-t=78 s=22 threadsLeft=41
-t=78 s=18 threadsLeft=40
-t=78 s=19 threadsLeft=39
-t=78 s=24 threadsLeft=38
-t=78 s=16 threadsLeft=37
-t=78 s=27 threadsLeft=36
-t=78 s=25 threadsLeft=35
-t=78 s=23 threadsLeft=34
-t=78 s=21 threadsLeft=33
-t=78 s=15 threadsLeft=32
-t=78 s=14 threadsLeft=31
-t=78 s=13 threadsLeft=30
-t=78 s=12 threadsLeft=29
-t=78 s=11 threadsLeft=28
-t=78 s=3 threadsLeft=27
-t=78 s=15 threadsLeft=26
-t=78 s=16 threadsLeft=25
-t=78 s=18 threadsLeft=24
-t=78 s=12 threadsLeft=23
-t=78 s=13 threadsLeft=22
-t=78 s=14 threadsLeft=21
-t=78 s=14 threadsLeft=20
-t=78 s=12 threadsLeft=19
-t=78 s=13 threadsLeft=18
-t=78 s=12 threadsLeft=17
-t=78 s=11 threadsLeft=16
-t=78 s=11 threadsLeft=15
-t=78 s=11 threadsLeft=14
-t=78 s=11 threadsLeft=13
-t=78 s=4 threadsLeft=12
-t=78 s=10 threadsLeft=11
-t=78 s=10 threadsLeft=10
-t=78 s=4 threadsLeft=9
-t=78 s=10 threadsLeft=8
-t=78 s=9 threadsLeft=7
-t=78 s=9 threadsLeft=6
-t=78 s=8 threadsLeft=5
-t=78 s=6 threadsLeft=4
-t=78 s=6 threadsLeft=3
-t=78 s=5 threadsLeft=2
-t=78 s=7 threadsLeft=1
-t=78 s=7 threadsLeft=0
-t=78 time=1.762482
-t=79 s=79 threadsLeft=28
-t=79 s=75 threadsLeft=27
-t=79 s=14 threadsLeft=26
-t=79 s=13 threadsLeft=25
-t=79 s=15 threadsLeft=24
-t=79 s=25 threadsLeft=23
-t=79 s=24 threadsLeft=22
-t=79 s=16 threadsLeft=21
-t=79 s=17 threadsLeft=20
-t=79 s=18 threadsLeft=19
-t=79 s=16 threadsLeft=18
-t=79 s=17 threadsLeft=17
-t=79 s=16 threadsLeft=16
-t=79 s=15 threadsLeft=15
-t=79 s=14 threadsLeft=14
-t=79 s=13 threadsLeft=13
-t=79 s=12 threadsLeft=12
-t=79 s=12 threadsLeft=11
-t=79 s=4 threadsLeft=10
-t=79 s=11 threadsLeft=9
-t=79 s=8 threadsLeft=8
-t=79 s=10 threadsLeft=7
-t=79 s=7 threadsLeft=6
-t=79 s=9 threadsLeft=5
-t=79 s=7 threadsLeft=4
-t=79 s=5 threadsLeft=3
-t=79 s=5 threadsLeft=2
-t=79 s=6 threadsLeft=1
-t=79 s=6 threadsLeft=0
-t=79 time=2.088406
-t=80 s=80 threadsLeft=27
-t=80 s=76 threadsLeft=26
-t=80 s=26 threadsLeft=25
-t=80 s=25 threadsLeft=24
-t=80 s=25 threadsLeft=23
-t=80 s=19 threadsLeft=22
-t=80 s=18 threadsLeft=21
-t=80 s=17 threadsLeft=20
-t=80 s=2 threadsLeft=19
-t=80 s=16 threadsLeft=18
-t=80 s=3 threadsLeft=17
-t=80 s=14 threadsLeft=16
-t=80 s=15 threadsLeft=15
-t=80 s=13 threadsLeft=14
-t=80 s=11 threadsLeft=13
-t=80 s=4 threadsLeft=12
-t=80 s=12 threadsLeft=11
-t=80 s=8 threadsLeft=10
-t=80 s=9 threadsLeft=9
-t=80 s=8 threadsLeft=8
-t=80 s=5 threadsLeft=7
-t=80 s=8 threadsLeft=6
-t=80 s=7 threadsLeft=5
-t=80 s=5 threadsLeft=4
-t=80 s=6 threadsLeft=3
-t=80 s=6 threadsLeft=2
-t=80 s=7 threadsLeft=1
-t=80 s=7 threadsLeft=0
-t=80 time=2.519437
-[38;2;000;128;000mTime: 19.354545s (2025-04-29 19:56:26)
+t=70 time=0.660009
+[38;2;000;128;000mTime: 4.244155s (2025-11-04 11:49:27)
+[0mt=2 s=2 threadsLeft=0
+t=2 time=0.000159
+t=3 s=3 threadsLeft=0
+t=3 time=0.00032
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000305
+t=5 s=5 threadsLeft=0
+t=5 time=0.000305
+t=6 s=6 threadsLeft=0
+t=6 time=0.000364
+t=7 s=7 threadsLeft=1
+t=7 s=3 threadsLeft=0
+t=7 time=0.000423
+t=8 s=8 threadsLeft=2
+t=8 s=4 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000361
+t=9 s=9 threadsLeft=3
+t=9 s=5 threadsLeft=2
+t=9 s=2 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000415
+t=10 s=10 threadsLeft=4
+t=10 s=6 threadsLeft=3
+t=10 s=3 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000372
+t=11 s=11 threadsLeft=3
+t=11 s=7 threadsLeft=2
+t=11 s=3 threadsLeft=1
+t=11 s=4 threadsLeft=0
+t=11 time=0.000324
+t=12 s=12 threadsLeft=1
+t=12 s=8 threadsLeft=0
+t=12 time=0.000287
+t=13 s=13 threadsLeft=3
+t=13 s=9 threadsLeft=2
+t=13 s=2 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000358
+t=14 s=14 threadsLeft=4
+t=14 s=10 threadsLeft=3
+t=14 s=2 threadsLeft=2
+t=14 s=5 threadsLeft=1
+t=14 s=3 threadsLeft=0
+t=14 time=0.000385
+t=15 s=15 threadsLeft=3
+t=15 s=11 threadsLeft=2
+t=15 s=3 threadsLeft=1
+t=15 s=4 threadsLeft=0
+t=15 time=0.000373
+t=16 s=16 threadsLeft=5
+t=16 s=12 threadsLeft=4
+t=16 s=6 threadsLeft=3
+t=16 s=2 threadsLeft=2
+t=16 s=3 threadsLeft=1
+t=16 s=5 threadsLeft=0
+t=16 time=0.000411
+t=17 s=17 threadsLeft=5
+t=17 s=13 threadsLeft=4
+t=17 s=2 threadsLeft=3
+t=17 s=6 threadsLeft=2
+t=17 s=3 threadsLeft=1
+t=17 s=4 threadsLeft=0
+t=17 time=0.000628
+t=18 s=18 threadsLeft=6
+t=18 s=14 threadsLeft=5
+t=18 s=7 threadsLeft=4
+t=18 s=2 threadsLeft=3
+t=18 s=5 threadsLeft=2
+t=18 s=4 threadsLeft=1
+t=18 s=3 threadsLeft=0
+t=18 time=0.000536
+t=19 s=19 threadsLeft=3
+t=19 s=15 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.000387
+t=20 s=20 threadsLeft=6
+t=20 s=16 threadsLeft=5
+t=20 s=2 threadsLeft=4
+t=20 s=6 threadsLeft=3
+t=20 s=3 threadsLeft=2
+t=20 s=5 threadsLeft=1
+t=20 s=5 threadsLeft=0
+t=20 time=0.000416
+t=21 s=21 threadsLeft=5
+t=21 s=17 threadsLeft=4
+t=21 s=6 threadsLeft=3
+t=21 s=6 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000489
+t=22 s=22 threadsLeft=7
+t=22 s=18 threadsLeft=6
+t=22 s=7 threadsLeft=5
+t=22 s=2 threadsLeft=4
+t=22 s=7 threadsLeft=3
+t=22 s=6 threadsLeft=2
+t=22 s=3 threadsLeft=1
+t=22 s=4 threadsLeft=0
+t=22 time=0.000702
+t=23 s=23 threadsLeft=5
+t=23 s=19 threadsLeft=4
+t=23 s=8 threadsLeft=3
+t=23 s=7 threadsLeft=2
+t=23 s=5 threadsLeft=1
+t=23 s=4 threadsLeft=0
+t=23 time=0.000602
+t=24 s=24 threadsLeft=5
+t=24 s=20 threadsLeft=4
+t=24 s=5 threadsLeft=3
+t=24 s=3 threadsLeft=2
+t=24 s=4 threadsLeft=1
+t=24 s=5 threadsLeft=0
+t=24 time=0.000606
+t=25 s=25 threadsLeft=4
+t=25 s=21 threadsLeft=3
+t=25 s=8 threadsLeft=2
+t=25 s=6 threadsLeft=1
+t=25 s=3 threadsLeft=0
+t=25 time=0.000564
+t=26 s=26 threadsLeft=5
+t=26 s=22 threadsLeft=4
+t=26 s=9 threadsLeft=3
+t=26 s=7 threadsLeft=2
+t=26 s=6 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.000918
+t=27 s=27 threadsLeft=6
+t=27 s=23 threadsLeft=5
+t=27 s=8 threadsLeft=4
+t=27 s=7 threadsLeft=3
+t=27 s=5 threadsLeft=2
+t=27 s=6 threadsLeft=1
+t=27 s=4 threadsLeft=0
+t=27 time=0.0008
+t=28 s=28 threadsLeft=5
+t=28 s=24 threadsLeft=4
+t=28 s=10 threadsLeft=3
+t=28 s=9 threadsLeft=2
+t=28 s=3 threadsLeft=1
+t=28 s=7 threadsLeft=0
+t=28 time=0.000618
+t=29 s=29 threadsLeft=4
+t=29 s=25 threadsLeft=3
+t=29 s=10 threadsLeft=2
+t=29 s=8 threadsLeft=1
+t=29 s=5 threadsLeft=0
+t=29 time=0.001029
+t=30 s=30 threadsLeft=8
+t=30 s=26 threadsLeft=7
+t=30 s=11 threadsLeft=6
+t=30 s=9 threadsLeft=5
+t=30 s=8 threadsLeft=4
+t=30 s=6 threadsLeft=3
+t=30 s=7 threadsLeft=2
+t=30 s=5 threadsLeft=1
+t=30 s=4 threadsLeft=0
+t=30 time=0.001132
+t=31 s=31 threadsLeft=4
+t=31 s=27 threadsLeft=3
+t=31 s=9 threadsLeft=2
+t=31 s=8 threadsLeft=1
+t=31 s=4 threadsLeft=0
+t=31 time=0.001225
+t=32 s=32 threadsLeft=5
+t=32 s=28 threadsLeft=4
+t=32 s=2 threadsLeft=3
+t=32 s=10 threadsLeft=2
+t=32 s=9 threadsLeft=1
+t=32 s=9 threadsLeft=0
+t=32 time=0.000501
+t=33 s=33 threadsLeft=9
+t=33 s=29 threadsLeft=8
+t=33 s=10 threadsLeft=7
+t=33 s=6 threadsLeft=6
+t=33 s=8 threadsLeft=5
+t=33 s=2 threadsLeft=4
+t=33 s=10 threadsLeft=3
+t=33 s=7 threadsLeft=2
+t=33 s=3 threadsLeft=1
+t=33 s=5 threadsLeft=0
+t=33 time=0.001776
+t=34 s=34 threadsLeft=8
+t=34 s=30 threadsLeft=7
+t=34 s=11 threadsLeft=6
+t=34 s=2 threadsLeft=5
+t=34 s=11 threadsLeft=4
+t=34 s=10 threadsLeft=3
+t=34 s=3 threadsLeft=2
+t=34 s=3 threadsLeft=1
+t=34 s=4 threadsLeft=0
+t=34 time=0.001952
+t=35 s=35 threadsLeft=5
+t=35 s=31 threadsLeft=4
+t=35 s=11 threadsLeft=3
+t=35 s=12 threadsLeft=2
+t=35 s=4 threadsLeft=1
+t=35 s=5 threadsLeft=0
+t=35 time=0.00218
+t=36 s=36 threadsLeft=12
+t=36 s=32 threadsLeft=11
+t=36 s=7 threadsLeft=10
+t=36 s=9 threadsLeft=9
+t=36 s=2 threadsLeft=8
+t=36 s=8 threadsLeft=7
+t=36 s=6 threadsLeft=6
+t=36 s=9 threadsLeft=5
+t=36 s=3 threadsLeft=4
+t=36 s=5 threadsLeft=3
+t=36 s=6 threadsLeft=2
+t=36 s=5 threadsLeft=1
+t=36 s=4 threadsLeft=0
+t=36 time=0.002572
+t=37 s=37 threadsLeft=7
+t=37 s=33 threadsLeft=6
+t=37 s=12 threadsLeft=5
+t=37 s=10 threadsLeft=4
+t=37 s=3 threadsLeft=3
+t=37 s=6 threadsLeft=2
+t=37 s=7 threadsLeft=1
+t=37 s=4 threadsLeft=0
+t=37 time=0.003011
+t=38 s=38 threadsLeft=11
+t=38 s=34 threadsLeft=10
+t=38 s=2 threadsLeft=9
+t=38 s=13 threadsLeft=8
+t=38 s=11 threadsLeft=7
+t=38 s=10 threadsLeft=6
+t=38 s=7 threadsLeft=5
+t=38 s=3 threadsLeft=4
+t=38 s=8 threadsLeft=3
+t=38 s=6 threadsLeft=2
+t=38 s=4 threadsLeft=1
+t=38 s=5 threadsLeft=0
+t=38 time=0.004306
+t=39 s=39 threadsLeft=11
+t=39 s=35 threadsLeft=10
+t=39 s=9 threadsLeft=9
+t=39 s=7 threadsLeft=8
+t=39 s=8 threadsLeft=7
+t=39 s=12 threadsLeft=6
+t=39 s=11 threadsLeft=5
+t=39 s=10 threadsLeft=4
+t=39 s=8 threadsLeft=3
+t=39 s=9 threadsLeft=2
+t=39 s=4 threadsLeft=1
+t=39 s=5 threadsLeft=0
+t=39 time=0.005359
+t=40 s=40 threadsLeft=9
+t=40 s=36 threadsLeft=8
+t=40 s=14 threadsLeft=7
+t=40 s=2 threadsLeft=6
+t=40 s=13 threadsLeft=5
+t=40 s=11 threadsLeft=4
+t=40 s=9 threadsLeft=3
+t=40 s=10 threadsLeft=2
+t=40 s=3 threadsLeft=1
+t=40 s=5 threadsLeft=0
+t=40 time=0.004781
+t=41 s=41 threadsLeft=10
+t=41 s=37 threadsLeft=9
+t=41 s=14 threadsLeft=8
+t=41 s=12 threadsLeft=7
+t=41 s=10 threadsLeft=6
+t=41 s=11 threadsLeft=5
+t=41 s=3 threadsLeft=4
+t=41 s=3 threadsLeft=3
+t=41 s=7 threadsLeft=2
+t=41 s=6 threadsLeft=1
+t=41 s=4 threadsLeft=0
+t=41 time=0.004859
+t=42 s=42 threadsLeft=19
+t=42 s=38 threadsLeft=18
+t=42 s=15 threadsLeft=17
+t=42 s=8 threadsLeft=16
+t=42 s=7 threadsLeft=15
+t=42 s=12 threadsLeft=14
+t=42 s=9 threadsLeft=13
+t=42 s=13 threadsLeft=12
+t=42 s=10 threadsLeft=11
+t=42 s=11 threadsLeft=10
+t=42 s=6 threadsLeft=9
+t=42 s=3 threadsLeft=8
+t=42 s=7 threadsLeft=7
+t=42 s=8 threadsLeft=6
+t=42 s=4 threadsLeft=5
+t=42 s=6 threadsLeft=4
+t=42 s=4 threadsLeft=3
+t=42 s=5 threadsLeft=2
+t=42 s=4 threadsLeft=1
+t=42 s=5 threadsLeft=0
+t=42 time=0.008905
+t=43 s=43 threadsLeft=8
+t=43 s=39 threadsLeft=7
+t=43 s=13 threadsLeft=6
+t=43 s=12 threadsLeft=5
+t=43 s=8 threadsLeft=4
+t=43 s=9 threadsLeft=3
+t=43 s=4 threadsLeft=2
+t=43 s=6 threadsLeft=1
+t=43 s=5 threadsLeft=0
+t=43 time=0.010568
+t=44 s=44 threadsLeft=13
+t=44 s=40 threadsLeft=12
+t=44 s=14 threadsLeft=11
+t=44 s=2 threadsLeft=10
+t=44 s=13 threadsLeft=9
+t=44 s=13 threadsLeft=8
+t=44 s=9 threadsLeft=7
+t=44 s=10 threadsLeft=6
+t=44 s=3 threadsLeft=5
+t=44 s=7 threadsLeft=4
+t=44 s=7 threadsLeft=3
+t=44 s=6 threadsLeft=2
+t=44 s=4 threadsLeft=1
+t=44 s=5 threadsLeft=0
+t=44 time=0.009317
+t=45 s=45 threadsLeft=16
+t=45 s=41 threadsLeft=15
+t=45 s=8 threadsLeft=14
+t=45 s=10 threadsLeft=13
+t=45 s=11 threadsLeft=12
+t=45 s=9 threadsLeft=11
+t=45 s=14 threadsLeft=10
+t=45 s=14 threadsLeft=9
+t=45 s=12 threadsLeft=8
+t=45 s=11 threadsLeft=7
+t=45 s=10 threadsLeft=6
+t=45 s=3 threadsLeft=5
+t=45 s=8 threadsLeft=4
+t=45 s=7 threadsLeft=3
+t=45 s=5 threadsLeft=2
+t=45 s=4 threadsLeft=1
+t=45 s=5 threadsLeft=0
+t=45 time=0.015981
+t=46 s=46 threadsLeft=11
+t=46 s=42 threadsLeft=10
+t=46 s=15 threadsLeft=9
+t=46 s=15 threadsLeft=8
+t=46 s=14 threadsLeft=7
+t=46 s=11 threadsLeft=6
+t=46 s=12 threadsLeft=5
+t=46 s=3 threadsLeft=4
+t=46 s=6 threadsLeft=3
+t=46 s=5 threadsLeft=2
+t=46 s=4 threadsLeft=1
+t=46 s=6 threadsLeft=0
+t=46 time=0.015353
+t=47 s=47 threadsLeft=8
+t=47 s=43 threadsLeft=7
+t=47 s=15 threadsLeft=6
+t=47 s=16 threadsLeft=5
+t=47 s=12 threadsLeft=4
+t=47 s=13 threadsLeft=3
+t=47 s=6 threadsLeft=2
+t=47 s=4 threadsLeft=1
+t=47 s=5 threadsLeft=0
+t=47 time=0.02143
+t=48 s=48 threadsLeft=21
+t=48 s=44 threadsLeft=20
+t=48 s=11 threadsLeft=19
+t=48 s=10 threadsLeft=18
+t=48 s=13 threadsLeft=17
+t=48 s=8 threadsLeft=16
+t=48 s=9 threadsLeft=15
+t=48 s=7 threadsLeft=14
+t=48 s=13 threadsLeft=13
+t=48 s=12 threadsLeft=12
+t=48 s=3 threadsLeft=11
+t=48 s=3 threadsLeft=10
+t=48 s=9 threadsLeft=9
+t=48 s=7 threadsLeft=8
+t=48 s=7 threadsLeft=7
+t=48 s=4 threadsLeft=6
+t=48 s=4 threadsLeft=5
+t=48 s=6 threadsLeft=4
+t=48 s=4 threadsLeft=3
+t=48 s=6 threadsLeft=2
+t=48 s=6 threadsLeft=1
+t=48 s=5 threadsLeft=0
+t=48 time=0.021791
+t=49 s=49 threadsLeft=12
+t=49 s=45 threadsLeft=11
+t=49 s=16 threadsLeft=10
+t=49 s=14 threadsLeft=9
+t=49 s=8 threadsLeft=8
+t=49 s=7 threadsLeft=7
+t=49 s=8 threadsLeft=6
+t=49 s=7 threadsLeft=5
+t=49 s=4 threadsLeft=4
+t=49 s=4 threadsLeft=3
+t=49 s=5 threadsLeft=2
+t=49 s=5 threadsLeft=1
+t=49 s=5 threadsLeft=0
+t=49 time=0.026265
+t=50 s=50 threadsLeft=15
+t=50 s=46 threadsLeft=14
+t=50 s=17 threadsLeft=13
+t=50 s=15 threadsLeft=12
+t=50 s=14 threadsLeft=11
+t=50 s=10 threadsLeft=10
+t=50 s=9 threadsLeft=9
+t=50 s=8 threadsLeft=8
+t=50 s=7 threadsLeft=7
+t=50 s=8 threadsLeft=6
+t=50 s=5 threadsLeft=5
+t=50 s=6 threadsLeft=4
+t=50 s=6 threadsLeft=3
+t=50 s=6 threadsLeft=2
+t=50 s=5 threadsLeft=1
+t=50 s=5 threadsLeft=0
+t=50 time=0.038744
+t=51 s=51 threadsLeft=12
+t=51 s=47 threadsLeft=11
+t=51 s=12 threadsLeft=10
+t=51 s=10 threadsLeft=9
+t=51 s=11 threadsLeft=8
+t=51 s=9 threadsLeft=7
+t=51 s=15 threadsLeft=6
+t=51 s=16 threadsLeft=5
+t=51 s=14 threadsLeft=4
+t=51 s=13 threadsLeft=3
+t=51 s=10 threadsLeft=2
+t=51 s=9 threadsLeft=1
+t=51 s=6 threadsLeft=0
+t=51 time=0.025673
+t=52 s=52 threadsLeft=11
+t=52 s=48 threadsLeft=10
+t=52 s=18 threadsLeft=9
+t=52 s=17 threadsLeft=8
+t=52 s=15 threadsLeft=7
+t=52 s=3 threadsLeft=6
+t=52 s=11 threadsLeft=5
+t=52 s=9 threadsLeft=4
+t=52 s=8 threadsLeft=3
+t=52 s=7 threadsLeft=2
+t=52 s=4 threadsLeft=1
+t=52 s=6 threadsLeft=0
+t=52 time=0.041194
+t=53 s=53 threadsLeft=7
+t=53 s=49 threadsLeft=6
+t=53 s=18 threadsLeft=5
+t=53 s=16 threadsLeft=4
+t=53 s=7 threadsLeft=3
+t=53 s=7 threadsLeft=2
+t=53 s=4 threadsLeft=1
+t=53 s=5 threadsLeft=0
+t=53 time=0.050486
+t=54 s=54 threadsLeft=19
+t=54 s=50 threadsLeft=18
+t=54 s=12 threadsLeft=17
+t=54 s=11 threadsLeft=16
+t=54 s=10 threadsLeft=15
+t=54 s=8 threadsLeft=14
+t=54 s=14 threadsLeft=13
+t=54 s=16 threadsLeft=12
+t=54 s=19 threadsLeft=11
+t=54 s=9 threadsLeft=10
+t=54 s=17 threadsLeft=9
+t=54 s=15 threadsLeft=8
+t=54 s=13 threadsLeft=7
+t=54 s=10 threadsLeft=6
+t=54 s=8 threadsLeft=5
+t=54 s=7 threadsLeft=4
+t=54 s=4 threadsLeft=3
+t=54 s=6 threadsLeft=2
+t=54 s=5 threadsLeft=1
+t=54 s=5 threadsLeft=0
+t=54 time=0.065697
+t=55 s=55 threadsLeft=9
+t=55 s=51 threadsLeft=8
+t=55 s=17 threadsLeft=7
+t=55 s=16 threadsLeft=6
+t=55 s=9 threadsLeft=5
+t=55 s=10 threadsLeft=4
+t=55 s=8 threadsLeft=3
+t=55 s=8 threadsLeft=2
+t=55 s=7 threadsLeft=1
+t=55 s=6 threadsLeft=0
+t=55 time=0.073354
+t=56 s=56 threadsLeft=12
+t=56 s=52 threadsLeft=11
+t=56 s=18 threadsLeft=10
+t=56 s=17 threadsLeft=9
+t=56 s=17 threadsLeft=8
+t=56 s=11 threadsLeft=7
+t=56 s=8 threadsLeft=6
+t=56 s=4 threadsLeft=5
+t=56 s=7 threadsLeft=4
+t=56 s=5 threadsLeft=3
+t=56 s=6 threadsLeft=2
+t=56 s=6 threadsLeft=1
+t=56 s=5 threadsLeft=0
+t=56 time=0.087006
+t=57 s=57 threadsLeft=15
+t=57 s=53 threadsLeft=14
+t=57 s=13 threadsLeft=13
+t=57 s=10 threadsLeft=12
+t=57 s=11 threadsLeft=11
+t=57 s=12 threadsLeft=10
+t=57 s=18 threadsLeft=9
+t=57 s=15 threadsLeft=8
+t=57 s=14 threadsLeft=7
+t=57 s=16 threadsLeft=6
+t=57 s=18 threadsLeft=5
+t=57 s=9 threadsLeft=4
+t=57 s=9 threadsLeft=3
+t=57 s=7 threadsLeft=2
+t=57 s=6 threadsLeft=1
+t=57 s=5 threadsLeft=0
+t=57 time=0.080147
+t=58 s=58 threadsLeft=10
+t=58 s=54 threadsLeft=9
+t=58 s=19 threadsLeft=8
+t=58 s=19 threadsLeft=7
+t=58 s=18 threadsLeft=6
+t=58 s=9 threadsLeft=5
+t=58 s=12 threadsLeft=4
+t=58 s=10 threadsLeft=3
+t=58 s=11 threadsLeft=2
+t=58 s=8 threadsLeft=1
+t=58 s=7 threadsLeft=0
+t=58 time=0.068535
+t=59 s=59 threadsLeft=9
+t=59 s=55 threadsLeft=8
+t=59 s=19 threadsLeft=7
+t=59 s=20 threadsLeft=6
+t=59 s=13 threadsLeft=5
+t=59 s=12 threadsLeft=4
+t=59 s=8 threadsLeft=3
+t=59 s=8 threadsLeft=2
+t=59 s=7 threadsLeft=1
+t=59 s=6 threadsLeft=0
+t=59 time=0.129789
+t=60 s=60 threadsLeft=18
+t=60 s=56 threadsLeft=17
+t=60 s=15 threadsLeft=16
+t=60 s=17 threadsLeft=15
+t=60 s=12 threadsLeft=14
+t=60 s=11 threadsLeft=13
+t=60 s=10 threadsLeft=12
+t=60 s=13 threadsLeft=11
+t=60 s=9 threadsLeft=10
+t=60 s=14 threadsLeft=9
+t=60 s=16 threadsLeft=8
+t=60 s=17 threadsLeft=7
+t=60 s=13 threadsLeft=6
+t=60 s=13 threadsLeft=5
+t=60 s=14 threadsLeft=4
+t=60 s=8 threadsLeft=3
+t=60 s=5 threadsLeft=2
+t=60 s=8 threadsLeft=1
+t=60 s=6 threadsLeft=0
+t=60 time=0.108384
+t=61 s=61 threadsLeft=12
+t=61 s=57 threadsLeft=11
+t=61 s=20 threadsLeft=10
+t=61 s=18 threadsLeft=9
+t=61 s=10 threadsLeft=8
+t=61 s=14 threadsLeft=7
+t=61 s=15 threadsLeft=6
+t=61 s=11 threadsLeft=5
+t=61 s=12 threadsLeft=4
+t=61 s=9 threadsLeft=3
+t=61 s=9 threadsLeft=2
+t=61 s=5 threadsLeft=1
+t=61 s=6 threadsLeft=0
+t=61 time=0.125739
+t=62 s=62 threadsLeft=13
+t=62 s=58 threadsLeft=12
+t=62 s=21 threadsLeft=11
+t=62 s=19 threadsLeft=10
+t=62 s=18 threadsLeft=9
+t=62 s=15 threadsLeft=8
+t=62 s=16 threadsLeft=7
+t=62 s=14 threadsLeft=6
+t=62 s=9 threadsLeft=5
+t=62 s=8 threadsLeft=4
+t=62 s=7 threadsLeft=3
+t=62 s=7 threadsLeft=2
+t=62 s=6 threadsLeft=1
+t=62 s=5 threadsLeft=0
+t=62 time=0.240192
+t=63 s=63 threadsLeft=16
+t=63 s=59 threadsLeft=15
+t=63 s=17 threadsLeft=14
+t=63 s=12 threadsLeft=13
+t=63 s=14 threadsLeft=12
+t=63 s=11 threadsLeft=11
+t=63 s=13 threadsLeft=10
+t=63 s=16 threadsLeft=9
+t=63 s=15 threadsLeft=8
+t=63 s=19 threadsLeft=7
+t=63 s=20 threadsLeft=6
+t=63 s=18 threadsLeft=5
+t=63 s=16 threadsLeft=4
+t=63 s=17 threadsLeft=3
+t=63 s=10 threadsLeft=2
+t=63 s=8 threadsLeft=1
+t=63 s=9 threadsLeft=0
+t=63 time=0.065143
+t=64 s=60 threadsLeft=21
+t=64 s=64 threadsLeft=20
+t=64 s=22 threadsLeft=19
+t=64 s=10 threadsLeft=18
+t=64 s=19 threadsLeft=17
+t=64 s=21 threadsLeft=16
+t=64 s=17 threadsLeft=15
+t=64 s=18 threadsLeft=14
+t=64 s=11 threadsLeft=13
+t=64 s=2 threadsLeft=12
+t=64 s=13 threadsLeft=11
+t=64 s=12 threadsLeft=10
+t=64 s=13 threadsLeft=9
+t=64 s=9 threadsLeft=8
+t=64 s=11 threadsLeft=7
+t=64 s=10 threadsLeft=6
+t=64 s=10 threadsLeft=5
+t=64 s=8 threadsLeft=4
+t=64 s=7 threadsLeft=3
+t=64 s=7 threadsLeft=2
+t=64 s=6 threadsLeft=1
+t=64 s=6 threadsLeft=0
+t=64 time=0.249231
+t=65 s=65 threadsLeft=17
+t=65 s=61 threadsLeft=16
+t=65 s=22 threadsLeft=15
+t=65 s=20 threadsLeft=14
+t=65 s=2 threadsLeft=13
+t=65 s=18 threadsLeft=12
+t=65 s=19 threadsLeft=11
+t=65 s=15 threadsLeft=10
+t=65 s=14 threadsLeft=9
+t=65 s=3 threadsLeft=8
+t=65 s=11 threadsLeft=7
+t=65 s=12 threadsLeft=6
+t=65 s=11 threadsLeft=5
+t=65 s=9 threadsLeft=4
+t=65 s=8 threadsLeft=3
+t=65 s=8 threadsLeft=2
+t=65 s=4 threadsLeft=1
+t=65 s=7 threadsLeft=0
+t=65 time=0.167337
+t=66 s=66 threadsLeft=28
+t=66 s=62 threadsLeft=27
+t=66 s=16 threadsLeft=26
+t=66 s=15 threadsLeft=25
+t=66 s=14 threadsLeft=24
+t=66 s=13 threadsLeft=23
+t=66 s=17 threadsLeft=22
+t=66 s=20 threadsLeft=21
+t=66 s=18 threadsLeft=20
+t=66 s=10 threadsLeft=19
+t=66 s=12 threadsLeft=18
+t=66 s=23 threadsLeft=17
+t=66 s=21 threadsLeft=16
+t=66 s=11 threadsLeft=15
+t=66 s=2 threadsLeft=14
+t=66 s=19 threadsLeft=13
+t=66 s=15 threadsLeft=12
+t=66 s=16 threadsLeft=11
+t=66 s=14 threadsLeft=10
+t=66 s=3 threadsLeft=9
+t=66 s=3 threadsLeft=8
+t=66 s=13 threadsLeft=7
+t=66 s=12 threadsLeft=6
+t=66 s=9 threadsLeft=5
+t=66 s=10 threadsLeft=4
+t=66 s=9 threadsLeft=3
+t=66 s=4 threadsLeft=2
+t=66 s=8 threadsLeft=1
+t=66 s=7 threadsLeft=0
+t=66 time=0.270645
+t=67 s=67 threadsLeft=19
+t=67 s=63 threadsLeft=18
+t=67 s=11 threadsLeft=17
+t=67 s=21 threadsLeft=16
+t=67 s=20 threadsLeft=15
+t=67 s=16 threadsLeft=14
+t=67 s=12 threadsLeft=13
+t=67 s=17 threadsLeft=12
+t=67 s=13 threadsLeft=11
+t=67 s=14 threadsLeft=10
+t=67 s=14 threadsLeft=9
+t=67 s=12 threadsLeft=8
+t=67 s=13 threadsLeft=7
+t=67 s=4 threadsLeft=6
+t=67 s=6 threadsLeft=5
+t=67 s=6 threadsLeft=4
+t=67 s=5 threadsLeft=3
+t=67 s=7 threadsLeft=2
+t=67 s=5 threadsLeft=1
+t=67 s=5 threadsLeft=0
+t=67 time=0.418842
+t=68 s=68 threadsLeft=16
+t=68 s=64 threadsLeft=15
+t=68 s=22 threadsLeft=14
+t=68 s=21 threadsLeft=13
+t=68 s=21 threadsLeft=12
+t=68 s=17 threadsLeft=11
+t=68 s=18 threadsLeft=10
+t=68 s=3 threadsLeft=9
+t=68 s=15 threadsLeft=8
+t=68 s=15 threadsLeft=7
+t=68 s=14 threadsLeft=6
+t=68 s=10 threadsLeft=5
+t=68 s=7 threadsLeft=4
+t=68 s=4 threadsLeft=3
+t=68 s=5 threadsLeft=2
+t=68 s=6 threadsLeft=1
+t=68 s=6 threadsLeft=0
+t=68 time=0.537198
+t=69 s=69 threadsLeft=25
+t=69 s=65 threadsLeft=24
+t=69 s=16 threadsLeft=23
+t=69 s=18 threadsLeft=22
+t=69 s=17 threadsLeft=21
+t=69 s=15 threadsLeft=20
+t=69 s=14 threadsLeft=19
+t=69 s=13 threadsLeft=18
+t=69 s=12 threadsLeft=17
+t=69 s=19 threadsLeft=16
+t=69 s=22 threadsLeft=15
+t=69 s=22 threadsLeft=14
+t=69 s=18 threadsLeft=13
+t=69 s=20 threadsLeft=12
+t=69 s=19 threadsLeft=11
+t=69 s=16 threadsLeft=10
+t=69 s=15 threadsLeft=9
+t=69 s=11 threadsLeft=8
+t=69 s=9 threadsLeft=7
+t=69 s=11 threadsLeft=6
+t=69 s=10 threadsLeft=5
+t=69 s=8 threadsLeft=4
+t=69 s=9 threadsLeft=3
+t=69 s=7 threadsLeft=2
+t=69 s=6 threadsLeft=1
+t=69 s=6 threadsLeft=0
+t=69 time=0.522179
+t=70 s=70 threadsLeft=27
+t=70 s=66 threadsLeft=26
+t=70 s=11 threadsLeft=25
+t=70 s=23 threadsLeft=24
+t=70 s=12 threadsLeft=23
+t=70 s=23 threadsLeft=22
+t=70 s=22 threadsLeft=21
+t=70 s=19 threadsLeft=20
+t=70 s=20 threadsLeft=19
+t=70 s=13 threadsLeft=18
+t=70 s=10 threadsLeft=17
+t=70 s=14 threadsLeft=16
+t=70 s=2 threadsLeft=15
+t=70 s=3 threadsLeft=14
+t=70 s=13 threadsLeft=13
+t=70 s=12 threadsLeft=12
+t=70 s=8 threadsLeft=11
+t=70 s=10 threadsLeft=10
+t=70 s=9 threadsLeft=9
+t=70 s=9 threadsLeft=8
+t=70 s=8 threadsLeft=7
+t=70 s=9 threadsLeft=6
+t=70 s=8 threadsLeft=5
+t=70 s=8 threadsLeft=4
+t=70 s=7 threadsLeft=3
+t=70 s=7 threadsLeft=2
+t=70 s=7 threadsLeft=1
+t=70 s=6 threadsLeft=0
+t=70 time=0.665652
+[38;2;000;128;000mTime: 4.260473s (2025-11-04 12:08:05)
+[0mt=2 s=2 threadsLeft=0
+t=2 time=0.000175
+t=3 s=3 threadsLeft=0
+t=3 time=0.00033
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000319
+t=5 s=5 threadsLeft=0
+t=5 time=0.000275
+t=6 s=6 threadsLeft=0
+t=6 time=0.000314
+t=7 s=7 threadsLeft=1
+t=7 s=3 threadsLeft=0
+t=7 time=0.00032
+t=8 s=8 threadsLeft=2
+t=8 s=4 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.00035
+t=9 s=9 threadsLeft=3
+t=9 s=5 threadsLeft=2
+t=9 s=2 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000342
+t=10 s=10 threadsLeft=4
+t=10 s=6 threadsLeft=3
+t=10 s=2 threadsLeft=2
+t=10 s=3 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000371
+t=11 s=11 threadsLeft=3
+t=11 s=7 threadsLeft=2
+t=11 s=3 threadsLeft=1
+t=11 s=4 threadsLeft=0
+t=11 time=0.000478
+t=12 s=12 threadsLeft=1
+t=12 s=8 threadsLeft=0
+t=12 time=0.000449
+t=13 s=13 threadsLeft=3
+t=13 s=9 threadsLeft=2
+t=13 s=2 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000385
+t=14 s=14 threadsLeft=4
+t=14 s=10 threadsLeft=3
+t=14 s=2 threadsLeft=2
+t=14 s=5 threadsLeft=1
+t=14 s=3 threadsLeft=0
+t=14 time=0.000339
+t=15 s=15 threadsLeft=3
+t=15 s=11 threadsLeft=2
+t=15 s=3 threadsLeft=1
+t=15 s=4 threadsLeft=0
+t=15 time=0.000378
+t=16 s=16 threadsLeft=5
+t=16 s=12 threadsLeft=4
+t=16 s=2 threadsLeft=3
+t=16 s=6 threadsLeft=2
+t=16 s=3 threadsLeft=1
+t=16 s=5 threadsLeft=0
+t=16 time=0.000433
+t=17 s=17 threadsLeft=5
+t=17 s=13 threadsLeft=4
+t=17 s=2 threadsLeft=3
+t=17 s=6 threadsLeft=2
+t=17 s=3 threadsLeft=1
+t=17 s=4 threadsLeft=0
+t=17 time=0.000377
+t=18 s=18 threadsLeft=6
+t=18 s=14 threadsLeft=5
+t=18 s=7 threadsLeft=4
+t=18 s=2 threadsLeft=3
+t=18 s=4 threadsLeft=2
+t=18 s=5 threadsLeft=1
+t=18 s=3 threadsLeft=0
+t=18 time=0.000408
+t=19 s=19 threadsLeft=3
+t=19 s=15 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.000377
+t=20 s=20 threadsLeft=6
+t=20 s=16 threadsLeft=5
+t=20 s=2 threadsLeft=4
+t=20 s=6 threadsLeft=3
+t=20 s=3 threadsLeft=2
+t=20 s=5 threadsLeft=1
+t=20 s=5 threadsLeft=0
+t=20 time=0.000428
+t=21 s=21 threadsLeft=5
+t=21 s=17 threadsLeft=4
+t=21 s=6 threadsLeft=3
+t=21 s=6 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000439
+t=22 s=22 threadsLeft=7
+t=22 s=18 threadsLeft=6
+t=22 s=7 threadsLeft=5
+t=22 s=2 threadsLeft=4
+t=22 s=7 threadsLeft=3
+t=22 s=6 threadsLeft=2
+t=22 s=4 threadsLeft=1
+t=22 s=3 threadsLeft=0
+t=22 time=0.000581
+t=23 s=23 threadsLeft=5
+t=23 s=19 threadsLeft=4
+t=23 s=7 threadsLeft=3
+t=23 s=8 threadsLeft=2
+t=23 s=5 threadsLeft=1
+t=23 s=4 threadsLeft=0
+t=23 time=0.000725
+t=24 s=24 threadsLeft=5
+t=24 s=20 threadsLeft=4
+t=24 s=5 threadsLeft=3
+t=24 s=3 threadsLeft=2
+t=24 s=5 threadsLeft=1
+t=24 s=4 threadsLeft=0
+t=24 time=0.000743
+t=25 s=25 threadsLeft=4
+t=25 s=21 threadsLeft=3
+t=25 s=8 threadsLeft=2
+t=25 s=6 threadsLeft=1
+t=25 s=3 threadsLeft=0
+t=25 time=0.0006
+t=26 s=26 threadsLeft=5
+t=26 s=22 threadsLeft=4
+t=26 s=9 threadsLeft=3
+t=26 s=7 threadsLeft=2
+t=26 s=6 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.000921
+t=27 s=27 threadsLeft=6
+t=27 s=23 threadsLeft=5
+t=27 s=8 threadsLeft=4
+t=27 s=7 threadsLeft=3
+t=27 s=5 threadsLeft=2
+t=27 s=6 threadsLeft=1
+t=27 s=4 threadsLeft=0
+t=27 time=0.000797
+t=28 s=28 threadsLeft=5
+t=28 s=24 threadsLeft=4
+t=28 s=10 threadsLeft=3
+t=28 s=9 threadsLeft=2
+t=28 s=7 threadsLeft=1
+t=28 s=3 threadsLeft=0
+t=28 time=0.000573
+t=29 s=29 threadsLeft=4
+t=29 s=25 threadsLeft=3
+t=29 s=10 threadsLeft=2
+t=29 s=8 threadsLeft=1
+t=29 s=5 threadsLeft=0
+t=29 time=0.000992
+t=30 s=30 threadsLeft=8
+t=30 s=26 threadsLeft=7
+t=30 s=11 threadsLeft=6
+t=30 s=6 threadsLeft=5
+t=30 s=8 threadsLeft=4
+t=30 s=9 threadsLeft=3
+t=30 s=7 threadsLeft=2
+t=30 s=5 threadsLeft=1
+t=30 s=4 threadsLeft=0
+t=30 time=0.001178
+t=31 s=31 threadsLeft=4
+t=31 s=27 threadsLeft=3
+t=31 s=9 threadsLeft=2
+t=31 s=8 threadsLeft=1
+t=31 s=4 threadsLeft=0
+t=31 time=0.001227
+t=32 s=32 threadsLeft=5
+t=32 s=28 threadsLeft=4
+t=32 s=2 threadsLeft=3
+t=32 s=10 threadsLeft=2
+t=32 s=9 threadsLeft=1
+t=32 s=9 threadsLeft=0
+t=32 time=0.000524
+t=33 s=33 threadsLeft=9
+t=33 s=29 threadsLeft=8
+t=33 s=10 threadsLeft=7
+t=33 s=2 threadsLeft=6
+t=33 s=6 threadsLeft=5
+t=33 s=7 threadsLeft=4
+t=33 s=8 threadsLeft=3
+t=33 s=10 threadsLeft=2
+t=33 s=3 threadsLeft=1
+t=33 s=5 threadsLeft=0
+t=33 time=0.001736
+t=34 s=34 threadsLeft=8
+t=34 s=30 threadsLeft=7
+t=34 s=11 threadsLeft=6
+t=34 s=11 threadsLeft=5
+t=34 s=2 threadsLeft=4
+t=34 s=10 threadsLeft=3
+t=34 s=3 threadsLeft=2
+t=34 s=3 threadsLeft=1
+t=34 s=4 threadsLeft=0
+t=34 time=0.001958
+t=35 s=35 threadsLeft=5
+t=35 s=31 threadsLeft=4
+t=35 s=11 threadsLeft=3
+t=35 s=12 threadsLeft=2
+t=35 s=4 threadsLeft=1
+t=35 s=5 threadsLeft=0
+t=35 time=0.002242
+t=36 s=36 threadsLeft=12
+t=36 s=32 threadsLeft=11
+t=36 s=9 threadsLeft=10
+t=36 s=7 threadsLeft=9
+t=36 s=2 threadsLeft=8
+t=36 s=6 threadsLeft=7
+t=36 s=8 threadsLeft=6
+t=36 s=9 threadsLeft=5
+t=36 s=3 threadsLeft=4
+t=36 s=5 threadsLeft=3
+t=36 s=6 threadsLeft=2
+t=36 s=5 threadsLeft=1
+t=36 s=4 threadsLeft=0
+t=36 time=0.002532
+t=37 s=37 threadsLeft=7
+t=37 s=33 threadsLeft=6
+t=37 s=12 threadsLeft=5
+t=37 s=10 threadsLeft=4
+t=37 s=3 threadsLeft=3
+t=37 s=6 threadsLeft=2
+t=37 s=7 threadsLeft=1
+t=37 s=4 threadsLeft=0
+t=37 time=0.003141
+t=38 s=38 threadsLeft=11
+t=38 s=34 threadsLeft=10
+t=38 s=13 threadsLeft=9
+t=38 s=2 threadsLeft=8
+t=38 s=11 threadsLeft=7
+t=38 s=10 threadsLeft=6
+t=38 s=7 threadsLeft=5
+t=38 s=3 threadsLeft=4
+t=38 s=8 threadsLeft=3
+t=38 s=6 threadsLeft=2
+t=38 s=4 threadsLeft=1
+t=38 s=5 threadsLeft=0
+t=38 time=0.004382
+t=39 s=39 threadsLeft=11
+t=39 s=35 threadsLeft=10
+t=39 s=9 threadsLeft=9
+t=39 s=8 threadsLeft=8
+t=39 s=7 threadsLeft=7
+t=39 s=12 threadsLeft=6
+t=39 s=11 threadsLeft=5
+t=39 s=10 threadsLeft=4
+t=39 s=8 threadsLeft=3
+t=39 s=9 threadsLeft=2
+t=39 s=4 threadsLeft=1
+t=39 s=5 threadsLeft=0
+t=39 time=0.005404
+t=40 s=40 threadsLeft=9
+t=40 s=36 threadsLeft=8
+t=40 s=14 threadsLeft=7
+t=40 s=2 threadsLeft=6
+t=40 s=13 threadsLeft=5
+t=40 s=11 threadsLeft=4
+t=40 s=9 threadsLeft=3
+t=40 s=10 threadsLeft=2
+t=40 s=3 threadsLeft=1
+t=40 s=5 threadsLeft=0
+t=40 time=0.004805
+t=41 s=41 threadsLeft=10
+t=41 s=37 threadsLeft=9
+t=41 s=14 threadsLeft=8
+t=41 s=12 threadsLeft=7
+t=41 s=10 threadsLeft=6
+t=41 s=11 threadsLeft=5
+t=41 s=3 threadsLeft=4
+t=41 s=3 threadsLeft=3
+t=41 s=7 threadsLeft=2
+t=41 s=6 threadsLeft=1
+t=41 s=4 threadsLeft=0
+t=41 time=0.004967
+t=42 s=42 threadsLeft=19
+t=42 s=38 threadsLeft=18
+t=42 s=15 threadsLeft=17
+t=42 s=7 threadsLeft=16
+t=42 s=12 threadsLeft=15
+t=42 s=8 threadsLeft=14
+t=42 s=10 threadsLeft=13
+t=42 s=13 threadsLeft=12
+t=42 s=9 threadsLeft=11
+t=42 s=11 threadsLeft=10
+t=42 s=6 threadsLeft=9
+t=42 s=3 threadsLeft=8
+t=42 s=7 threadsLeft=7
+t=42 s=8 threadsLeft=6
+t=42 s=4 threadsLeft=5
+t=42 s=6 threadsLeft=4
+t=42 s=5 threadsLeft=3
+t=42 s=4 threadsLeft=2
+t=42 s=4 threadsLeft=1
+t=42 s=5 threadsLeft=0
+t=42 time=0.009054
+t=43 s=43 threadsLeft=8
+t=43 s=39 threadsLeft=7
+t=43 s=13 threadsLeft=6
+t=43 s=12 threadsLeft=5
+t=43 s=8 threadsLeft=4
+t=43 s=9 threadsLeft=3
+t=43 s=4 threadsLeft=2
+t=43 s=6 threadsLeft=1
+t=43 s=5 threadsLeft=0
+t=43 time=0.010744
+t=44 s=44 threadsLeft=13
+t=44 s=40 threadsLeft=12
+t=44 s=14 threadsLeft=11
+t=44 s=2 threadsLeft=10
+t=44 s=13 threadsLeft=9
+t=44 s=13 threadsLeft=8
+t=44 s=10 threadsLeft=7
+t=44 s=9 threadsLeft=6
+t=44 s=3 threadsLeft=5
+t=44 s=7 threadsLeft=4
+t=44 s=7 threadsLeft=3
+t=44 s=6 threadsLeft=2
+t=44 s=4 threadsLeft=1
+t=44 s=5 threadsLeft=0
+t=44 time=0.009271
+t=45 s=45 threadsLeft=16
+t=45 s=41 threadsLeft=15
+t=45 s=8 threadsLeft=14
+t=45 s=14 threadsLeft=13
+t=45 s=9 threadsLeft=12
+t=45 s=10 threadsLeft=11
+t=45 s=11 threadsLeft=10
+t=45 s=14 threadsLeft=9
+t=45 s=12 threadsLeft=8
+t=45 s=11 threadsLeft=7
+t=45 s=10 threadsLeft=6
+t=45 s=3 threadsLeft=5
+t=45 s=8 threadsLeft=4
+t=45 s=7 threadsLeft=3
+t=45 s=5 threadsLeft=2
+t=45 s=4 threadsLeft=1
+t=45 s=5 threadsLeft=0
+t=45 time=0.015556
+t=46 s=46 threadsLeft=11
+t=46 s=42 threadsLeft=10
+t=46 s=15 threadsLeft=9
+t=46 s=15 threadsLeft=8
+t=46 s=14 threadsLeft=7
+t=46 s=11 threadsLeft=6
+t=46 s=12 threadsLeft=5
+t=46 s=3 threadsLeft=4
+t=46 s=6 threadsLeft=3
+t=46 s=5 threadsLeft=2
+t=46 s=4 threadsLeft=1
+t=46 s=6 threadsLeft=0
+t=46 time=0.015618
+t=47 s=47 threadsLeft=8
+t=47 s=43 threadsLeft=7
+t=47 s=15 threadsLeft=6
+t=47 s=16 threadsLeft=5
+t=47 s=12 threadsLeft=4
+t=47 s=13 threadsLeft=3
+t=47 s=6 threadsLeft=2
+t=47 s=4 threadsLeft=1
+t=47 s=5 threadsLeft=0
+t=47 time=0.020986
+t=48 s=48 threadsLeft=21
+t=48 s=44 threadsLeft=20
+t=48 s=10 threadsLeft=19
+t=48 s=8 threadsLeft=18
+t=48 s=11 threadsLeft=17
+t=48 s=13 threadsLeft=16
+t=48 s=9 threadsLeft=15
+t=48 s=7 threadsLeft=14
+t=48 s=13 threadsLeft=13
+t=48 s=12 threadsLeft=12
+t=48 s=3 threadsLeft=11
+t=48 s=3 threadsLeft=10
+t=48 s=9 threadsLeft=9
+t=48 s=7 threadsLeft=8
+t=48 s=4 threadsLeft=7
+t=48 s=7 threadsLeft=6
+t=48 s=4 threadsLeft=5
+t=48 s=4 threadsLeft=4
+t=48 s=6 threadsLeft=3
+t=48 s=6 threadsLeft=2
+t=48 s=6 threadsLeft=1
+t=48 s=5 threadsLeft=0
+t=48 time=0.021247
+t=49 s=49 threadsLeft=12
+t=49 s=45 threadsLeft=11
+t=49 s=16 threadsLeft=10
+t=49 s=14 threadsLeft=9
+t=49 s=8 threadsLeft=8
+t=49 s=7 threadsLeft=7
+t=49 s=8 threadsLeft=6
+t=49 s=7 threadsLeft=5
+t=49 s=4 threadsLeft=4
+t=49 s=4 threadsLeft=3
+t=49 s=5 threadsLeft=2
+t=49 s=5 threadsLeft=1
+t=49 s=5 threadsLeft=0
+t=49 time=0.026099
+t=50 s=50 threadsLeft=15
+t=50 s=46 threadsLeft=14
+t=50 s=17 threadsLeft=13
+t=50 s=15 threadsLeft=12
+t=50 s=14 threadsLeft=11
+t=50 s=10 threadsLeft=10
+t=50 s=9 threadsLeft=9
+t=50 s=8 threadsLeft=8
+t=50 s=7 threadsLeft=7
+t=50 s=8 threadsLeft=6
+t=50 s=5 threadsLeft=5
+t=50 s=6 threadsLeft=4
+t=50 s=6 threadsLeft=3
+t=50 s=6 threadsLeft=2
+t=50 s=5 threadsLeft=1
+t=50 s=5 threadsLeft=0
+t=50 time=0.038713
+t=51 s=51 threadsLeft=12
+t=51 s=47 threadsLeft=11
+t=51 s=11 threadsLeft=10
+t=51 s=9 threadsLeft=9
+t=51 s=10 threadsLeft=8
+t=51 s=12 threadsLeft=7
+t=51 s=15 threadsLeft=6
+t=51 s=16 threadsLeft=5
+t=51 s=14 threadsLeft=4
+t=51 s=13 threadsLeft=3
+t=51 s=10 threadsLeft=2
+t=51 s=9 threadsLeft=1
+t=51 s=6 threadsLeft=0
+t=51 time=0.025457
+t=52 s=52 threadsLeft=11
+t=52 s=48 threadsLeft=10
+t=52 s=18 threadsLeft=9
+t=52 s=17 threadsLeft=8
+t=52 s=15 threadsLeft=7
+t=52 s=3 threadsLeft=6
+t=52 s=11 threadsLeft=5
+t=52 s=9 threadsLeft=4
+t=52 s=8 threadsLeft=3
+t=52 s=7 threadsLeft=2
+t=52 s=4 threadsLeft=1
+t=52 s=6 threadsLeft=0
+t=52 time=0.041443
+t=53 s=53 threadsLeft=7
+t=53 s=49 threadsLeft=6
+t=53 s=18 threadsLeft=5
+t=53 s=16 threadsLeft=4
+t=53 s=7 threadsLeft=3
+t=53 s=7 threadsLeft=2
+t=53 s=4 threadsLeft=1
+t=53 s=5 threadsLeft=0
+t=53 time=0.049617
+t=54 s=54 threadsLeft=19
+t=54 s=50 threadsLeft=18
+t=54 s=12 threadsLeft=17
+t=54 s=9 threadsLeft=16
+t=54 s=11 threadsLeft=15
+t=54 s=16 threadsLeft=14
+t=54 s=10 threadsLeft=13
+t=54 s=14 threadsLeft=12
+t=54 s=19 threadsLeft=11
+t=54 s=8 threadsLeft=10
+t=54 s=17 threadsLeft=9
+t=54 s=15 threadsLeft=8
+t=54 s=13 threadsLeft=7
+t=54 s=10 threadsLeft=6
+t=54 s=8 threadsLeft=5
+t=54 s=7 threadsLeft=4
+t=54 s=4 threadsLeft=3
+t=54 s=6 threadsLeft=2
+t=54 s=5 threadsLeft=1
+t=54 s=5 threadsLeft=0
+t=54 time=0.066302
+t=55 s=55 threadsLeft=9
+t=55 s=51 threadsLeft=8
+t=55 s=17 threadsLeft=7
+t=55 s=16 threadsLeft=6
+t=55 s=9 threadsLeft=5
+t=55 s=10 threadsLeft=4
+t=55 s=8 threadsLeft=3
+t=55 s=8 threadsLeft=2
+t=55 s=7 threadsLeft=1
+t=55 s=6 threadsLeft=0
+t=55 time=0.072218
+t=56 s=56 threadsLeft=12
+t=56 s=52 threadsLeft=11
+t=56 s=18 threadsLeft=10
+t=56 s=17 threadsLeft=9
+t=56 s=17 threadsLeft=8
+t=56 s=11 threadsLeft=7
+t=56 s=8 threadsLeft=6
+t=56 s=4 threadsLeft=5
+t=56 s=7 threadsLeft=4
+t=56 s=5 threadsLeft=3
+t=56 s=6 threadsLeft=2
+t=56 s=6 threadsLeft=1
+t=56 s=5 threadsLeft=0
+t=56 time=0.08782
+t=57 s=57 threadsLeft=15
+t=57 s=53 threadsLeft=14
+t=57 s=11 threadsLeft=13
+t=57 s=13 threadsLeft=12
+t=57 s=10 threadsLeft=11
+t=57 s=16 threadsLeft=10
+t=57 s=18 threadsLeft=9
+t=57 s=15 threadsLeft=8
+t=57 s=14 threadsLeft=7
+t=57 s=12 threadsLeft=6
+t=57 s=18 threadsLeft=5
+t=57 s=9 threadsLeft=4
+t=57 s=9 threadsLeft=3
+t=57 s=7 threadsLeft=2
+t=57 s=6 threadsLeft=1
+t=57 s=5 threadsLeft=0
+t=57 time=0.08014
+t=58 s=58 threadsLeft=10
+t=58 s=54 threadsLeft=9
+t=58 s=19 threadsLeft=8
+t=58 s=19 threadsLeft=7
+t=58 s=18 threadsLeft=6
+t=58 s=9 threadsLeft=5
+t=58 s=10 threadsLeft=4
+t=58 s=12 threadsLeft=3
+t=58 s=11 threadsLeft=2
+t=58 s=8 threadsLeft=1
+t=58 s=7 threadsLeft=0
+t=58 time=0.068565
+t=59 s=59 threadsLeft=9
+t=59 s=55 threadsLeft=8
+t=59 s=19 threadsLeft=7
+t=59 s=20 threadsLeft=6
+t=59 s=13 threadsLeft=5
+t=59 s=12 threadsLeft=4
+t=59 s=8 threadsLeft=3
+t=59 s=8 threadsLeft=2
+t=59 s=7 threadsLeft=1
+t=59 s=6 threadsLeft=0
+t=59 time=0.128841
+t=60 s=60 threadsLeft=18
+t=60 s=56 threadsLeft=17
+t=60 s=17 threadsLeft=16
+t=60 s=15 threadsLeft=15
+t=60 s=13 threadsLeft=14
+t=60 s=12 threadsLeft=13
+t=60 s=11 threadsLeft=12
+t=60 s=10 threadsLeft=11
+t=60 s=14 threadsLeft=10
+t=60 s=9 threadsLeft=9
+t=60 s=16 threadsLeft=8
+t=60 s=17 threadsLeft=7
+t=60 s=13 threadsLeft=6
+t=60 s=13 threadsLeft=5
+t=60 s=14 threadsLeft=4
+t=60 s=8 threadsLeft=3
+t=60 s=5 threadsLeft=2
+t=60 s=8 threadsLeft=1
+t=60 s=6 threadsLeft=0
+t=60 time=0.107569
+t=61 s=61 threadsLeft=12
+t=61 s=57 threadsLeft=11
+t=61 s=20 threadsLeft=10
+t=61 s=18 threadsLeft=9
+t=61 s=10 threadsLeft=8
+t=61 s=14 threadsLeft=7
+t=61 s=15 threadsLeft=6
+t=61 s=11 threadsLeft=5
+t=61 s=12 threadsLeft=4
+t=61 s=9 threadsLeft=3
+t=61 s=9 threadsLeft=2
+t=61 s=5 threadsLeft=1
+t=61 s=6 threadsLeft=0
+t=61 time=0.126184
+t=62 s=62 threadsLeft=13
+t=62 s=58 threadsLeft=12
+t=62 s=21 threadsLeft=11
+t=62 s=19 threadsLeft=10
+t=62 s=18 threadsLeft=9
+t=62 s=15 threadsLeft=8
+t=62 s=16 threadsLeft=7
+t=62 s=14 threadsLeft=6
+t=62 s=9 threadsLeft=5
+t=62 s=8 threadsLeft=4
+t=62 s=7 threadsLeft=3
+t=62 s=7 threadsLeft=2
+t=62 s=6 threadsLeft=1
+t=62 s=5 threadsLeft=0
+t=62 time=0.234697
+t=63 s=63 threadsLeft=16
+t=63 s=59 threadsLeft=15
+t=63 s=17 threadsLeft=14
+t=63 s=15 threadsLeft=13
+t=63 s=12 threadsLeft=12
+t=63 s=11 threadsLeft=11
+t=63 s=13 threadsLeft=10
+t=63 s=14 threadsLeft=9
+t=63 s=16 threadsLeft=8
+t=63 s=19 threadsLeft=7
+t=63 s=20 threadsLeft=6
+t=63 s=18 threadsLeft=5
+t=63 s=16 threadsLeft=4
+t=63 s=17 threadsLeft=3
+t=63 s=10 threadsLeft=2
+t=63 s=8 threadsLeft=1
+t=63 s=9 threadsLeft=0
+t=63 time=0.065203
+t=64 s=64 threadsLeft=21
+t=64 s=60 threadsLeft=20
+t=64 s=22 threadsLeft=19
+t=64 s=21 threadsLeft=18
+t=64 s=19 threadsLeft=17
+t=64 s=17 threadsLeft=16
+t=64 s=18 threadsLeft=15
+t=64 s=10 threadsLeft=14
+t=64 s=2 threadsLeft=13
+t=64 s=11 threadsLeft=12
+t=64 s=13 threadsLeft=11
+t=64 s=12 threadsLeft=10
+t=64 s=13 threadsLeft=9
+t=64 s=9 threadsLeft=8
+t=64 s=11 threadsLeft=7
+t=64 s=10 threadsLeft=6
+t=64 s=10 threadsLeft=5
+t=64 s=8 threadsLeft=4
+t=64 s=7 threadsLeft=3
+t=64 s=7 threadsLeft=2
+t=64 s=6 threadsLeft=1
+t=64 s=6 threadsLeft=0
+t=64 time=0.248102
+t=65 s=65 threadsLeft=17
+t=65 s=61 threadsLeft=16
+t=65 s=2 threadsLeft=15
+t=65 s=22 threadsLeft=14
+t=65 s=20 threadsLeft=13
+t=65 s=18 threadsLeft=12
+t=65 s=19 threadsLeft=11
+t=65 s=15 threadsLeft=10
+t=65 s=14 threadsLeft=9
+t=65 s=3 threadsLeft=8
+t=65 s=11 threadsLeft=7
+t=65 s=12 threadsLeft=6
+t=65 s=11 threadsLeft=5
+t=65 s=9 threadsLeft=4
+t=65 s=8 threadsLeft=3
+t=65 s=8 threadsLeft=2
+t=65 s=4 threadsLeft=1
+t=65 s=7 threadsLeft=0
+t=65 time=0.165996
+t=66 s=66 threadsLeft=28
+t=66 s=62 threadsLeft=27
+t=66 s=16 threadsLeft=26
+t=66 s=18 threadsLeft=25
+t=66 s=14 threadsLeft=24
+t=66 s=15 threadsLeft=23
+t=66 s=17 threadsLeft=22
+t=66 s=12 threadsLeft=21
+t=66 s=20 threadsLeft=20
+t=66 s=13 threadsLeft=19
+t=66 s=21 threadsLeft=18
+t=66 s=2 threadsLeft=17
+t=66 s=11 threadsLeft=16
+t=66 s=10 threadsLeft=15
+t=66 s=23 threadsLeft=14
+t=66 s=19 threadsLeft=13
+t=66 s=15 threadsLeft=12
+t=66 s=16 threadsLeft=11
+t=66 s=14 threadsLeft=10
+t=66 s=3 threadsLeft=9
+t=66 s=3 threadsLeft=8
+t=66 s=13 threadsLeft=7
+t=66 s=12 threadsLeft=6
+t=66 s=9 threadsLeft=5
+t=66 s=10 threadsLeft=4
+t=66 s=9 threadsLeft=3
+t=66 s=4 threadsLeft=2
+t=66 s=8 threadsLeft=1
+t=66 s=7 threadsLeft=0
+t=66 time=0.270637
+t=67 s=67 threadsLeft=19
+t=67 s=63 threadsLeft=18
+t=67 s=21 threadsLeft=17
+t=67 s=11 threadsLeft=16
+t=67 s=20 threadsLeft=15
+t=67 s=16 threadsLeft=14
+t=67 s=17 threadsLeft=13
+t=67 s=12 threadsLeft=12
+t=67 s=13 threadsLeft=11
+t=67 s=14 threadsLeft=10
+t=67 s=14 threadsLeft=9
+t=67 s=12 threadsLeft=8
+t=67 s=13 threadsLeft=7
+t=67 s=4 threadsLeft=6
+t=67 s=6 threadsLeft=5
+t=67 s=6 threadsLeft=4
+t=67 s=5 threadsLeft=3
+t=67 s=7 threadsLeft=2
+t=67 s=5 threadsLeft=1
+t=67 s=5 threadsLeft=0
+t=67 time=0.423715
+t=68 s=68 threadsLeft=16
+t=68 s=64 threadsLeft=15
+t=68 s=22 threadsLeft=14
+t=68 s=21 threadsLeft=13
+t=68 s=21 threadsLeft=12
+t=68 s=17 threadsLeft=11
+t=68 s=18 threadsLeft=10
+t=68 s=3 threadsLeft=9
+t=68 s=15 threadsLeft=8
+t=68 s=15 threadsLeft=7
+t=68 s=14 threadsLeft=6
+t=68 s=10 threadsLeft=5
+t=68 s=7 threadsLeft=4
+t=68 s=4 threadsLeft=3
+t=68 s=6 threadsLeft=2
+t=68 s=5 threadsLeft=1
+t=68 s=6 threadsLeft=0
+t=68 time=0.524178
+t=69 s=69 threadsLeft=25
+t=69 s=65 threadsLeft=24
+t=69 s=18 threadsLeft=23
+t=69 s=17 threadsLeft=22
+t=69 s=15 threadsLeft=21
+t=69 s=12 threadsLeft=20
+t=69 s=14 threadsLeft=19
+t=69 s=16 threadsLeft=18
+t=69 s=13 threadsLeft=17
+t=69 s=19 threadsLeft=16
+t=69 s=22 threadsLeft=15
+t=69 s=22 threadsLeft=14
+t=69 s=20 threadsLeft=13
+t=69 s=19 threadsLeft=12
+t=69 s=18 threadsLeft=11
+t=69 s=16 threadsLeft=10
+t=69 s=15 threadsLeft=9
+t=69 s=11 threadsLeft=8
+t=69 s=9 threadsLeft=7
+t=69 s=11 threadsLeft=6
+t=69 s=10 threadsLeft=5
+t=69 s=8 threadsLeft=4
+t=69 s=9 threadsLeft=3
+t=69 s=7 threadsLeft=2
+t=69 s=6 threadsLeft=1
+t=69 s=6 threadsLeft=0
+t=69 time=0.525245
+t=70 s=70 threadsLeft=27
+t=70 s=66 threadsLeft=26
+t=70 s=23 threadsLeft=25
+t=70 s=11 threadsLeft=24
+t=70 s=12 threadsLeft=23
+t=70 s=23 threadsLeft=22
+t=70 s=22 threadsLeft=21
+t=70 s=19 threadsLeft=20
+t=70 s=20 threadsLeft=19
+t=70 s=13 threadsLeft=18
+t=70 s=10 threadsLeft=17
+t=70 s=14 threadsLeft=16
+t=70 s=2 threadsLeft=15
+t=70 s=13 threadsLeft=14
+t=70 s=3 threadsLeft=13
+t=70 s=12 threadsLeft=12
+t=70 s=8 threadsLeft=11
+t=70 s=10 threadsLeft=10
+t=70 s=9 threadsLeft=9
+t=70 s=9 threadsLeft=8
+t=70 s=8 threadsLeft=7
+t=70 s=9 threadsLeft=6
+t=70 s=8 threadsLeft=5
+t=70 s=8 threadsLeft=4
+t=70 s=7 threadsLeft=3
+t=70 s=7 threadsLeft=2
+t=70 s=7 threadsLeft=1
+t=70 s=6 threadsLeft=0
+t=70 time=0.661064
+[38;2;000;128;000mTime: 4.246075s (2025-11-04 16:26:52)
 [0m

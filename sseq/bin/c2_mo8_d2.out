@@ -1,0 +1,44 @@
+t=2 time=0.000138
+t=3 time=0.00032
+t=4 s=2 threadsLeft=0
+t=4 time=0.000288
+t=5 s=2 threadsLeft=0
+t=5 time=0.000288
+t=6 time=0.000171
+t=7 s=3 threadsLeft=0
+t=7 time=0.000483
+t=8 s=2 threadsLeft=0
+t=8 time=0.000388
+t=9 s=2 threadsLeft=0
+t=9 time=0.000357
+t=10 time=0.000224
+t=11 s=3 threadsLeft=0
+t=11 time=0.000553
+t=12 s=4 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.00054
+t=13 s=4 threadsLeft=0
+t=13 time=0.000401
+t=14 s=5 threadsLeft=1
+t=14 s=4 threadsLeft=0
+t=14 time=0.000363
+t=15 s=5 threadsLeft=1
+t=15 s=3 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(0,0,2)v_{0}
+
+[38;2;200;255;255mFile: [0m
+/Users/es2483/apps/sseqcpp_8_25/SSeqCpp/Adams/../include/algebras/myio.h(79:90)
+[38;2;200;255;255mFunction: [0m
+``:
+[38;2;200;255;255mError: [0m
+File c2_mo8_Adams_res.db does not exist.
+
+
+[38;2;200;255;255mFile: [0m
+/Users/es2483/apps/sseqcpp_8_25/SSeqCpp/Adams/../include/algebras/myio.h(79:90)
+[38;2;200;255;255mFunction: [0m
+``:
+[38;2;200;255;255mError: [0m
+File c2_mo8_Adams_res.db does not exist.
+
+

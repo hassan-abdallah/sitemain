@@ -1,0 +1,68 @@
+t=2 s=2 threadsLeft=0
+t=2 time=0.000156
+t=3 s=3 threadsLeft=0
+t=3 time=0.000333
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000292
+t=5 s=5 threadsLeft=0
+t=5 time=0.000285
+t=6 s=6 threadsLeft=0
+t=6 time=0.000267
+t=7 s=7 threadsLeft=1
+t=7 s=3 threadsLeft=0
+t=7 time=0.000361
+t=8 s=8 threadsLeft=2
+t=8 s=4 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000323
+t=9 s=9 threadsLeft=2
+t=9 s=2 threadsLeft=1
+t=9 s=5 threadsLeft=0
+t=9 time=0.000333
+t=10 s=10 threadsLeft=2
+t=10 s=6 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000357
+t=11 s=11 threadsLeft=2
+t=11 s=7 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000323
+t=12 s=12 threadsLeft=3
+t=12 s=8 threadsLeft=2
+t=12 s=4 threadsLeft=1
+t=12 s=2 threadsLeft=0
+t=12 time=0.000324
+t=13 s=13 threadsLeft=3
+t=13 s=9 threadsLeft=2
+t=13 s=5 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000341
+t=14 s=14 threadsLeft=3
+t=14 s=10 threadsLeft=2
+t=14 s=6 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.000311
+t=15 s=15 threadsLeft=4
+t=15 s=11 threadsLeft=3
+t=15 s=7 threadsLeft=2
+t=15 s=3 threadsLeft=1
+t=15 s=3 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(0,0,2)v_{0}
+
+[38;2;200;255;255mFile: [0m
+/Users/es2483/apps/sseqcpp_8_25/SSeqCpp/Adams/../include/algebras/myio.h(79:90)
+[38;2;200;255;255mFunction: [0m
+``:
+[38;2;200;255;255mError: [0m
+File cnu_mo8_Adams_res.db does not exist.
+
+
+[38;2;200;255;255mFile: [0m
+/Users/es2483/apps/sseqcpp_8_25/SSeqCpp/Adams/../include/algebras/myio.h(79:90)
+[38;2;200;255;255mFunction: [0m
+``:
+[38;2;200;255;255mError: [0m
+File cnu_mo8_Adams_res.db does not exist.
+
+

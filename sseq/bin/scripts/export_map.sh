@@ -7,4 +7,4 @@ degree=$1
 ./Adams export_map Ceta S0 $degree | tee -a Ceta__S0_export.out
 ./Adams export_map Cnu S0 $degree | tee -a Cnu__S0_export.out
 ./Adams export_map Csigma S0 $degree | tee -a Csigma__S0_export.out
-#./Adams export_map mo9 mo8 $degree | tee -a mo9__mo8_export.out
+#./Adams export_map C2 mo9 $degree | tee -a C2_mo9_export.out

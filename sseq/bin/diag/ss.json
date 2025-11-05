@@ -32,7 +32,16 @@
       "deduce": "on"
     },
     { "name": "mo8", "path": "mo8_AdamsSS.db", "over": "S0", "deduce": "on" },
-    { "name": "mo9", "path": "mo9_AdamsSS.db", "over": "S0", "deduce": "on" }
+    { "name": "mo9", "path": "mo9_AdamsSS.db", "over": "S0", "deduce": "on" },
+    { "name": "mo10", "path": "mo10_AdamsSS.db", "over": "S0", "deduce": "on" },
+    { "name": "mo12", "path": "mo12_AdamsSS.db", "over": "S0", "deduce": "on" },
+    { "name": "mo16", "path": "mo16_AdamsSS.db", "over": "S0", "deduce": "on" },
+    { "name": "mo17", "path": "mo17_AdamsSS.db", "over": "S0", "deduce": "on" },
+    { "name": "mo18", "path": "mo18_AdamsSS.db", "over": "S0", "deduce": "on" },
+    { "name": "mo20", "path": "mo20_AdamsSS.db", "over": "S0", "deduce": "on" },
+    { "name": "mo24", "path": "mo24_AdamsSS.db", "over": "S0", "deduce": "on" },
+    { "name": "mo25", "path": "mo25_AdamsSS.db", "over": "S0", "deduce": "on" }
+//    { "name": "c2_mo8", "path": "c2_mo8_AdamsSS.db", "over": "S0", "deduce": "on" }
   ],
   "maps": [
     {
@@ -71,6 +80,15 @@
       "sus": 8,
       "t_max": 200
     }
+  // {
+   //   "name": "C2__mo9",
+    //  "path": "map_AdamsSS_C2__mo9.db",
+     // "type": "top_cell",
+    //  "from": "C2",
+    //  "to": "mo9",
+    //  "sus": 1,
+    //  "t_max": 200
+   // }
   ],
   "maps_v2": [
     { "name": "S0__C2", "factor": [0, 0, 0], "from": "S0", "to": "C2" },

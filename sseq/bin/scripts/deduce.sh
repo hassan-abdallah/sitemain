@@ -17,14 +17,17 @@ check_command() {
     fi
     return 0
 }
-
+echo "yes"
+echo "$diagram"
+echo "yes"
 echo "--- Deducing ---"
 #while true; do
     # Execute the commands and check the output
-    ./ss deduce auto "$diagram" flags=zero num=3 
-    ./ss deduce auto "$diagram" flags=syn num=3 
+#    ./ss deduce auto "$diagram" flags=zero num=3 
+./ss deduce auto "$diagram" num=3
+    #./ss deduce auto "$diagram" flags=syn num=3 
 #    ./ss deduce auto "$diagram" flags=xy num=3 
-    ./ss deduce auto "$diagram" flags=pullback num=3 
+    #./ss deduce auto "$diagram" flags=pullback num=3 
 #    check_command ./ss deduce diff 0 "$degree" "$diagram" || continue
  #   check_command ./ss deduce diff_v2 "$diagram" || continue
   #  check_command ./ss deduce cofseq 0 "$degree" "$diagram" || continue

@@ -1,42 +1,465 @@
 t=2 s=2 threadsLeft=0
-t=2 time=0.000165
+t=2 time=0.000206
 t=3 s=3 threadsLeft=0
-t=3 time=0.0003
-t=4 s=4 threadsLeft=1
-t=4 s=2 threadsLeft=0
-t=4 time=0.000298
-t=5 s=5 threadsLeft=1
-t=5 s=2 threadsLeft=0
-t=5 time=0.000302
+t=3 time=0.000375
+t=4 s=2 threadsLeft=1
+t=4 s=4 threadsLeft=0
+t=4 time=0.000352
+t=5 s=2 threadsLeft=1
+t=5 s=5 threadsLeft=0
+t=5 time=0.000316
 t=6 s=6 threadsLeft=1
 t=6 s=3 threadsLeft=0
-t=6 time=0.000279
+t=6 time=0.000308
 t=7 s=7 threadsLeft=0
 t=7 time=0.000274
 t=8 s=8 threadsLeft=1
 t=8 s=2 threadsLeft=0
-t=8 time=0.000314
+t=8 time=0.000345
 t=9 s=9 threadsLeft=1
 t=9 s=2 threadsLeft=0
-t=9 time=0.000299
+t=9 time=0.000466
 t=10 s=10 threadsLeft=2
 t=10 s=2 threadsLeft=1
 t=10 s=3 threadsLeft=0
-t=10 time=0.000343
+t=10 time=0.000426
 t=11 s=11 threadsLeft=2
 t=11 s=4 threadsLeft=1
 t=11 s=3 threadsLeft=0
-t=11 time=0.000364
+t=11 time=0.000405
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.000381
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000404
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.000298
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(5)v_{1}
+t=2 s=2 threadsLeft=0
+t=2 time=0.000161
+t=3 s=3 threadsLeft=0
+t=3 time=0.000378
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000485
+t=5 s=5 threadsLeft=1
+t=5 s=2 threadsLeft=0
+t=5 time=0.000347
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.000321
+t=7 s=7 threadsLeft=0
+t=7 time=0.000315
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000327
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000328
+t=10 s=10 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000328
+t=11 s=11 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000379
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.000335
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000372
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.00039
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(5)v_{1}
+t=2 s=2 threadsLeft=0
+t=2 time=0.000164
+t=3 s=3 threadsLeft=0
+t=3 time=0.000366
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000403
+t=5 s=5 threadsLeft=1
+t=5 s=2 threadsLeft=0
+t=5 time=0.000405
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.000415
+t=7 s=7 threadsLeft=0
+t=7 time=0.000315
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000344
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000352
+t=10 s=10 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000339
+t=11 s=11 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000412
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.000452
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000428
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.000416
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(5)v_{1}
+t=2 s=2 threadsLeft=0
+t=2 time=0.000196
+t=3 s=3 threadsLeft=0
+t=3 time=0.000442
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.00049
+t=5 s=2 threadsLeft=1
+t=5 s=5 threadsLeft=0
+t=5 time=0.000541
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.000456
+t=7 s=7 threadsLeft=0
+t=7 time=0.000433
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000444
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000341
+t=10 s=10 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000348
+t=11 s=11 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.00037
 t=12 s=12 threadsLeft=1
 t=12 s=3 threadsLeft=0
 t=12 time=0.000343
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.00043
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.000464
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(5)v_{1}
+t=2 s=2 threadsLeft=0
+t=2 time=0.000191
+t=3 s=3 threadsLeft=0
+t=3 time=0.000452
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000423
+t=5 s=5 threadsLeft=1
+t=5 s=2 threadsLeft=0
+t=5 time=0.000406
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.000395
+t=7 s=7 threadsLeft=0
+t=7 time=0.000333
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000375
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000393
+t=10 s=10 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000432
+t=11 s=11 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000642
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.000407
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000385
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.000388
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(5)v_{1}
+t=2 s=2 threadsLeft=0
+t=2 time=0.000149
+t=3 s=3 threadsLeft=0
+t=3 time=0.000329
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000338
+t=5 s=5 threadsLeft=1
+t=5 s=2 threadsLeft=0
+t=5 time=0.000326
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.000348
+t=7 s=7 threadsLeft=0
+t=7 time=0.000303
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000285
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000309
+t=10 s=10 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000347
+t=11 s=11 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000406
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.000363
 t=13 s=13 threadsLeft=1
 t=13 s=4 threadsLeft=0
 t=13 time=0.00039
 t=14 s=14 threadsLeft=2
 t=14 s=2 threadsLeft=1
 t=14 s=5 threadsLeft=0
-t=14 time=0.000381
+t=14 time=0.000349
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(5)v_{1}
+t=2 s=2 threadsLeft=0
+t=2 time=0.000277
+t=3 s=3 threadsLeft=0
+t=3 time=0.000428
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000401
+t=5 s=5 threadsLeft=1
+t=5 s=2 threadsLeft=0
+t=5 time=0.00039
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.000408
+t=7 s=7 threadsLeft=0
+t=7 time=0.000353
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000358
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.00035
+t=10 s=10 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000414
+t=11 s=11 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000445
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.00041
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000394
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.000417
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(5)v_{1}
+t_max is truncated to 55
+t=2 s=2 threadsLeft=0
+t=2 time=0.000266
+t=3 s=3 threadsLeft=0
+t=3 time=0.00046
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000406
+t=5 s=5 threadsLeft=1
+t=5 s=2 threadsLeft=0
+t=5 time=0.000384
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.000378
+t=7 s=7 threadsLeft=0
+t=7 time=0.000319
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000318
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000334
+t=10 s=10 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000407
+t=11 s=11 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000415
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.000343
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000414
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.000349
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(5)v_{1}
+t_max is truncated to 55
+t=2 s=2 threadsLeft=0
+t=2 time=0.00021
+t=3 s=3 threadsLeft=0
+t=3 time=0.000367
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000389
+t=5 s=5 threadsLeft=1
+t=5 s=2 threadsLeft=0
+t=5 time=0.000346
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.000328
+t=7 s=7 threadsLeft=0
+t=7 time=0.000277
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000305
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000303
+t=10 s=10 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000311
+t=11 s=11 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000326
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.000347
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000364
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.000297
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(5)v_{1}
+t_max is truncated to 55
+t=2 s=2 threadsLeft=0
+t=2 time=0.0002
+t=3 s=3 threadsLeft=0
+t=3 time=0.000349
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000349
+t=5 s=5 threadsLeft=1
+t=5 s=2 threadsLeft=0
+t=5 time=0.000529
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.000542
+t=7 s=7 threadsLeft=0
+t=7 time=0.000412
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000351
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000283
+t=10 s=10 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000362
+t=11 s=11 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000401
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.000358
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000326
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.000324
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(5)v_{1}
+t=2 s=2 threadsLeft=0
+t=2 time=0.000167
+t=3 s=3 threadsLeft=0
+t=3 time=0.000299
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000317
+t=5 s=5 threadsLeft=1
+t=5 s=2 threadsLeft=0
+t=5 time=0.000304
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.00033
+t=7 s=7 threadsLeft=0
+t=7 time=0.000292
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000314
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000358
+t=10 s=10 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.00035
+t=11 s=11 threadsLeft=2
+t=11 s=3 threadsLeft=1
+t=11 s=4 threadsLeft=0
+t=11 time=0.000356
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.000323
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000322
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.000315
 t=15 s=15 threadsLeft=1
 t=15 s=3 threadsLeft=0
 Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(5)v_{1}

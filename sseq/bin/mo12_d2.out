@@ -1,0 +1,825 @@
+t=2 s=2 threadsLeft=0
+t=2 time=0.000131
+t=3 s=3 threadsLeft=0
+t=3 time=0.000356
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000388
+t=5 s=5 threadsLeft=1
+t=5 s=2 threadsLeft=0
+t=5 time=0.000363
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.000333
+t=7 s=7 threadsLeft=0
+t=7 time=0.000312
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000326
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000342
+t=10 s=10 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000466
+t=11 s=11 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000454
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.000449
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000451
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.000448
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+t=15 time=0.000386
+t=16 s=16 threadsLeft=4
+t=16 s=6 threadsLeft=3
+t=16 s=4 threadsLeft=2
+t=16 s=2 threadsLeft=1
+t=16 s=5 threadsLeft=0
+t=16 time=0.000592
+t=17 s=17 threadsLeft=4
+t=17 s=5 threadsLeft=3
+t=17 s=6 threadsLeft=2
+t=17 s=2 threadsLeft=1
+t=17 s=3 threadsLeft=0
+t=17 time=0.000507
+t=18 s=18 threadsLeft=6
+t=18 s=6 threadsLeft=5
+t=18 s=7 threadsLeft=4
+t=18 s=2 threadsLeft=3
+t=18 s=2 threadsLeft=2
+t=18 s=3 threadsLeft=1
+t=18 s=4 threadsLeft=0
+t=18 time=0.000515
+t=19 s=19 threadsLeft=5
+t=19 s=7 threadsLeft=4
+t=19 s=2 threadsLeft=3
+t=19 s=3 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.000391
+t=20 s=20 threadsLeft=7
+t=20 s=8 threadsLeft=6
+t=20 s=4 threadsLeft=5
+t=20 s=6 threadsLeft=4
+t=20 s=2 threadsLeft=3
+t=20 s=5 threadsLeft=2
+t=20 s=3 threadsLeft=1
+t=20 s=5 threadsLeft=0
+t=20 time=0.000482
+t=21 s=21 threadsLeft=6
+t=21 s=9 threadsLeft=5
+t=21 s=5 threadsLeft=4
+t=21 s=3 threadsLeft=3
+t=21 s=6 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000585
+t=22 s=22 threadsLeft=8
+t=22 s=10 threadsLeft=7
+t=22 s=6 threadsLeft=6
+t=22 s=7 threadsLeft=5
+t=22 s=6 threadsLeft=4
+t=22 s=3 threadsLeft=3
+t=22 s=5 threadsLeft=2
+t=22 s=4 threadsLeft=1
+t=22 s=4 threadsLeft=0
+t=22 time=0.000702
+t=23 s=23 threadsLeft=6
+t=23 s=11 threadsLeft=5
+t=23 s=7 threadsLeft=4
+t=23 s=8 threadsLeft=3
+t=23 s=7 threadsLeft=2
+t=23 s=6 threadsLeft=1
+t=23 s=5 threadsLeft=0
+t=23 time=0.000722
+t=24 s=24 threadsLeft=6
+t=24 s=12 threadsLeft=5
+t=24 s=8 threadsLeft=4
+t=24 s=4 threadsLeft=3
+t=24 s=7 threadsLeft=2
+t=24 s=3 threadsLeft=1
+t=24 s=4 threadsLeft=0
+t=24 time=0.000521
+t=25 s=25 threadsLeft=5
+t=25 s=13 threadsLeft=4
+t=25 s=9 threadsLeft=3
+t=25 s=5 threadsLeft=2
+t=25 s=8 threadsLeft=1
+t=25 s=5 threadsLeft=0
+t=25 time=0.000588
+t=26 s=26 threadsLeft=8
+t=26 s=14 threadsLeft=7
+t=26 s=10 threadsLeft=6
+t=26 s=9 threadsLeft=5
+t=26 s=2 threadsLeft=4
+t=26 s=6 threadsLeft=3
+t=26 s=6 threadsLeft=2
+t=26 s=5 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.000875
+t=27 s=27 threadsLeft=6
+t=27 s=15 threadsLeft=5
+t=27 s=11 threadsLeft=4
+t=27 s=7 threadsLeft=3
+t=27 s=2 threadsLeft=2
+t=27 s=3 threadsLeft=1
+t=27 s=4 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(4,1,1)v_{1}
+t=2 s=2 threadsLeft=0
+t=2 time=0.000207
+t=3 s=3 threadsLeft=0
+t=3 time=0.000383
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000373
+t=5 s=5 threadsLeft=1
+t=5 s=2 threadsLeft=0
+t=5 time=0.000344
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.00037
+t=7 s=7 threadsLeft=0
+t=7 time=0.000356
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000355
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000337
+t=10 s=10 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000387
+t=11 s=11 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000405
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.000375
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000374
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.000369
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+t=15 time=0.000377
+t=16 s=16 threadsLeft=4
+t=16 s=6 threadsLeft=3
+t=16 s=2 threadsLeft=2
+t=16 s=4 threadsLeft=1
+t=16 s=5 threadsLeft=0
+t=16 time=0.000432
+t=17 s=17 threadsLeft=4
+t=17 s=5 threadsLeft=3
+t=17 s=6 threadsLeft=2
+t=17 s=2 threadsLeft=1
+t=17 s=3 threadsLeft=0
+t=17 time=0.000438
+t=18 s=18 threadsLeft=6
+t=18 s=6 threadsLeft=5
+t=18 s=7 threadsLeft=4
+t=18 s=2 threadsLeft=3
+t=18 s=2 threadsLeft=2
+t=18 s=3 threadsLeft=1
+t=18 s=4 threadsLeft=0
+t=18 time=0.000512
+t=19 s=19 threadsLeft=5
+t=19 s=7 threadsLeft=4
+t=19 s=3 threadsLeft=3
+t=19 s=2 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.000431
+t=20 s=20 threadsLeft=7
+t=20 s=8 threadsLeft=6
+t=20 s=4 threadsLeft=5
+t=20 s=6 threadsLeft=4
+t=20 s=2 threadsLeft=3
+t=20 s=5 threadsLeft=2
+t=20 s=3 threadsLeft=1
+t=20 s=5 threadsLeft=0
+t=20 time=0.000505
+t=21 s=21 threadsLeft=6
+t=21 s=9 threadsLeft=5
+t=21 s=5 threadsLeft=4
+t=21 s=3 threadsLeft=3
+t=21 s=6 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000598
+t=22 s=22 threadsLeft=8
+t=22 s=10 threadsLeft=7
+t=22 s=6 threadsLeft=6
+t=22 s=7 threadsLeft=5
+t=22 s=6 threadsLeft=4
+t=22 s=3 threadsLeft=3
+t=22 s=5 threadsLeft=2
+t=22 s=4 threadsLeft=1
+t=22 s=4 threadsLeft=0
+t=22 time=0.000694
+t=23 s=23 threadsLeft=6
+t=23 s=11 threadsLeft=5
+t=23 s=7 threadsLeft=4
+t=23 s=8 threadsLeft=3
+t=23 s=7 threadsLeft=2
+t=23 s=6 threadsLeft=1
+t=23 s=5 threadsLeft=0
+t=23 time=0.000663
+t=24 s=24 threadsLeft=6
+t=24 s=12 threadsLeft=5
+t=24 s=8 threadsLeft=4
+t=24 s=4 threadsLeft=3
+t=24 s=7 threadsLeft=2
+t=24 s=3 threadsLeft=1
+t=24 s=4 threadsLeft=0
+t=24 time=0.000538
+t=25 s=25 threadsLeft=5
+t=25 s=13 threadsLeft=4
+t=25 s=9 threadsLeft=3
+t=25 s=5 threadsLeft=2
+t=25 s=8 threadsLeft=1
+t=25 s=5 threadsLeft=0
+t=25 time=0.000612
+t=26 s=26 threadsLeft=8
+t=26 s=14 threadsLeft=7
+t=26 s=10 threadsLeft=6
+t=26 s=6 threadsLeft=5
+t=26 s=9 threadsLeft=4
+t=26 s=2 threadsLeft=3
+t=26 s=6 threadsLeft=2
+t=26 s=5 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.000885
+t=27 s=15 threadsLeft=6
+t=27 s=27 threadsLeft=5
+t=27 s=11 threadsLeft=4
+t=27 s=7 threadsLeft=3
+t=27 s=2 threadsLeft=2
+t=27 s=3 threadsLeft=1
+t=27 s=4 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(4,1,1)v_{1}
+t_max is truncated to 63
+t=2 s=2 threadsLeft=0
+t=2 time=0.000257
+t=3 s=3 threadsLeft=0
+t=3 time=0.000394
+t=4 s=2 threadsLeft=1
+t=4 s=4 threadsLeft=0
+t=4 time=0.000495
+t=5 s=5 threadsLeft=1
+t=5 s=2 threadsLeft=0
+t=5 time=0.000998
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.000724
+t=7 s=7 threadsLeft=0
+t=7 time=0.000366
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000357
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000378
+t=10 s=10 threadsLeft=2
+t=10 s=3 threadsLeft=1
+t=10 s=2 threadsLeft=0
+t=10 time=0.000574
+t=11 s=11 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000783
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.00067
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000584
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.000458
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+t=15 time=0.000371
+t=16 s=16 threadsLeft=4
+t=16 s=4 threadsLeft=3
+t=16 s=6 threadsLeft=2
+t=16 s=2 threadsLeft=1
+t=16 s=5 threadsLeft=0
+t=16 time=0.000728
+t=17 s=17 threadsLeft=4
+t=17 s=6 threadsLeft=3
+t=17 s=5 threadsLeft=2
+t=17 s=2 threadsLeft=1
+t=17 s=3 threadsLeft=0
+t=17 time=0.000796
+t=18 s=18 threadsLeft=6
+t=18 s=6 threadsLeft=5
+t=18 s=7 threadsLeft=4
+t=18 s=2 threadsLeft=3
+t=18 s=2 threadsLeft=2
+t=18 s=3 threadsLeft=1
+t=18 s=4 threadsLeft=0
+t=18 time=0.000593
+t=19 s=19 threadsLeft=5
+t=19 s=7 threadsLeft=4
+t=19 s=3 threadsLeft=3
+t=19 s=2 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.000509
+t=20 s=20 threadsLeft=7
+t=20 s=8 threadsLeft=6
+t=20 s=4 threadsLeft=5
+t=20 s=2 threadsLeft=4
+t=20 s=6 threadsLeft=3
+t=20 s=5 threadsLeft=2
+t=20 s=3 threadsLeft=1
+t=20 s=5 threadsLeft=0
+t=20 time=0.000529
+t=21 s=21 threadsLeft=6
+t=21 s=9 threadsLeft=5
+t=21 s=5 threadsLeft=4
+t=21 s=3 threadsLeft=3
+t=21 s=6 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000528
+t=22 s=22 threadsLeft=8
+t=22 s=10 threadsLeft=7
+t=22 s=6 threadsLeft=6
+t=22 s=7 threadsLeft=5
+t=22 s=6 threadsLeft=4
+t=22 s=3 threadsLeft=3
+t=22 s=5 threadsLeft=2
+t=22 s=4 threadsLeft=1
+t=22 s=4 threadsLeft=0
+t=22 time=0.000665
+t=23 s=23 threadsLeft=6
+t=23 s=11 threadsLeft=5
+t=23 s=7 threadsLeft=4
+t=23 s=8 threadsLeft=3
+t=23 s=7 threadsLeft=2
+t=23 s=6 threadsLeft=1
+t=23 s=5 threadsLeft=0
+t=23 time=0.000592
+t=24 s=24 threadsLeft=6
+t=24 s=12 threadsLeft=5
+t=24 s=8 threadsLeft=4
+t=24 s=4 threadsLeft=3
+t=24 s=7 threadsLeft=2
+t=24 s=3 threadsLeft=1
+t=24 s=4 threadsLeft=0
+t=24 time=0.000637
+t=25 s=25 threadsLeft=5
+t=25 s=13 threadsLeft=4
+t=25 s=9 threadsLeft=3
+t=25 s=5 threadsLeft=2
+t=25 s=8 threadsLeft=1
+t=25 s=5 threadsLeft=0
+t=25 time=0.000745
+t=26 s=26 threadsLeft=8
+t=26 s=14 threadsLeft=7
+t=26 s=10 threadsLeft=6
+t=26 s=9 threadsLeft=5
+t=26 s=6 threadsLeft=4
+t=26 s=2 threadsLeft=3
+t=26 s=6 threadsLeft=2
+t=26 s=5 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.001005
+t=27 s=27 threadsLeft=6
+t=27 s=15 threadsLeft=5
+t=27 s=11 threadsLeft=4
+t=27 s=7 threadsLeft=3
+t=27 s=2 threadsLeft=2
+t=27 s=3 threadsLeft=1
+t=27 s=4 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(4,1,1)v_{1}
+t_max is truncated to 63
+t=2 s=2 threadsLeft=0
+t=2 time=0.000214
+t=3 s=3 threadsLeft=0
+t=3 time=0.000364
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000316
+t=5 s=5 threadsLeft=1
+t=5 s=2 threadsLeft=0
+t=5 time=0.000288
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.000286
+t=7 s=7 threadsLeft=0
+t=7 time=0.000266
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000333
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000319
+t=10 s=10 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.00033
+t=11 s=11 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000388
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.000378
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000409
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.000389
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+t=15 time=0.000359
+t=16 s=16 threadsLeft=4
+t=16 s=6 threadsLeft=3
+t=16 s=4 threadsLeft=2
+t=16 s=2 threadsLeft=1
+t=16 s=5 threadsLeft=0
+t=16 time=0.000389
+t=17 s=17 threadsLeft=4
+t=17 s=5 threadsLeft=3
+t=17 s=2 threadsLeft=2
+t=17 s=6 threadsLeft=1
+t=17 s=3 threadsLeft=0
+t=17 time=0.000394
+t=18 s=18 threadsLeft=6
+t=18 s=6 threadsLeft=5
+t=18 s=7 threadsLeft=4
+t=18 s=2 threadsLeft=3
+t=18 s=2 threadsLeft=2
+t=18 s=3 threadsLeft=1
+t=18 s=4 threadsLeft=0
+t=18 time=0.000405
+t=19 s=19 threadsLeft=5
+t=19 s=7 threadsLeft=4
+t=19 s=3 threadsLeft=3
+t=19 s=2 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.000393
+t=20 s=20 threadsLeft=7
+t=20 s=8 threadsLeft=6
+t=20 s=4 threadsLeft=5
+t=20 s=6 threadsLeft=4
+t=20 s=2 threadsLeft=3
+t=20 s=5 threadsLeft=2
+t=20 s=3 threadsLeft=1
+t=20 s=5 threadsLeft=0
+t=20 time=0.000477
+t=21 s=21 threadsLeft=6
+t=21 s=9 threadsLeft=5
+t=21 s=5 threadsLeft=4
+t=21 s=6 threadsLeft=3
+t=21 s=3 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000519
+t=22 s=22 threadsLeft=8
+t=22 s=10 threadsLeft=7
+t=22 s=6 threadsLeft=6
+t=22 s=7 threadsLeft=5
+t=22 s=6 threadsLeft=4
+t=22 s=5 threadsLeft=3
+t=22 s=4 threadsLeft=2
+t=22 s=3 threadsLeft=1
+t=22 s=4 threadsLeft=0
+t=22 time=0.001074
+t=23 s=23 threadsLeft=6
+t=23 s=11 threadsLeft=5
+t=23 s=7 threadsLeft=4
+t=23 s=8 threadsLeft=3
+t=23 s=7 threadsLeft=2
+t=23 s=6 threadsLeft=1
+t=23 s=5 threadsLeft=0
+t=23 time=0.000546
+t=24 s=24 threadsLeft=6
+t=24 s=12 threadsLeft=5
+t=24 s=8 threadsLeft=4
+t=24 s=4 threadsLeft=3
+t=24 s=7 threadsLeft=2
+t=24 s=4 threadsLeft=1
+t=24 s=3 threadsLeft=0
+t=24 time=0.000519
+t=25 s=25 threadsLeft=5
+t=25 s=13 threadsLeft=4
+t=25 s=9 threadsLeft=3
+t=25 s=5 threadsLeft=2
+t=25 s=8 threadsLeft=1
+t=25 s=5 threadsLeft=0
+t=25 time=0.000583
+t=26 s=26 threadsLeft=8
+t=26 s=14 threadsLeft=7
+t=26 s=10 threadsLeft=6
+t=26 s=6 threadsLeft=5
+t=26 s=9 threadsLeft=4
+t=26 s=2 threadsLeft=3
+t=26 s=6 threadsLeft=2
+t=26 s=5 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.000815
+t=27 s=27 threadsLeft=6
+t=27 s=15 threadsLeft=5
+t=27 s=11 threadsLeft=4
+t=27 s=2 threadsLeft=3
+t=27 s=3 threadsLeft=2
+t=27 s=7 threadsLeft=1
+t=27 s=4 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(4,1,1)v_{1}
+t_max is truncated to 63
+t=2 s=2 threadsLeft=0
+t=2 time=0.000232
+t=3 s=3 threadsLeft=0
+t=3 time=0.000437
+t=4 s=2 threadsLeft=1
+t=4 s=4 threadsLeft=0
+t=4 time=0.000358
+t=5 s=5 threadsLeft=1
+t=5 s=2 threadsLeft=0
+t=5 time=0.000326
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.000308
+t=7 s=7 threadsLeft=0
+t=7 time=0.000256
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000281
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000271
+t=10 s=10 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.000317
+t=11 s=11 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000332
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.000328
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000305
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.000294
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+t=15 time=0.000267
+t=16 s=16 threadsLeft=4
+t=16 s=6 threadsLeft=3
+t=16 s=4 threadsLeft=2
+t=16 s=2 threadsLeft=1
+t=16 s=5 threadsLeft=0
+t=16 time=0.000349
+t=17 s=17 threadsLeft=4
+t=17 s=5 threadsLeft=3
+t=17 s=2 threadsLeft=2
+t=17 s=6 threadsLeft=1
+t=17 s=3 threadsLeft=0
+t=17 time=0.000401
+t=18 s=18 threadsLeft=6
+t=18 s=6 threadsLeft=5
+t=18 s=7 threadsLeft=4
+t=18 s=2 threadsLeft=3
+t=18 s=2 threadsLeft=2
+t=18 s=3 threadsLeft=1
+t=18 s=4 threadsLeft=0
+t=18 time=0.000438
+t=19 s=19 threadsLeft=5
+t=19 s=7 threadsLeft=4
+t=19 s=3 threadsLeft=3
+t=19 s=2 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.000425
+t=20 s=20 threadsLeft=7
+t=20 s=8 threadsLeft=6
+t=20 s=4 threadsLeft=5
+t=20 s=6 threadsLeft=4
+t=20 s=2 threadsLeft=3
+t=20 s=5 threadsLeft=2
+t=20 s=5 threadsLeft=1
+t=20 s=3 threadsLeft=0
+t=20 time=0.000545
+t=21 s=21 threadsLeft=6
+t=21 s=9 threadsLeft=5
+t=21 s=5 threadsLeft=4
+t=21 s=3 threadsLeft=3
+t=21 s=6 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000516
+t=22 s=22 threadsLeft=8
+t=22 s=10 threadsLeft=7
+t=22 s=6 threadsLeft=6
+t=22 s=7 threadsLeft=5
+t=22 s=6 threadsLeft=4
+t=22 s=3 threadsLeft=3
+t=22 s=5 threadsLeft=2
+t=22 s=4 threadsLeft=1
+t=22 s=4 threadsLeft=0
+t=22 time=0.000644
+t=23 s=23 threadsLeft=6
+t=23 s=11 threadsLeft=5
+t=23 s=7 threadsLeft=4
+t=23 s=8 threadsLeft=3
+t=23 s=7 threadsLeft=2
+t=23 s=6 threadsLeft=1
+t=23 s=5 threadsLeft=0
+t=23 time=0.00071
+t=24 s=24 threadsLeft=6
+t=24 s=12 threadsLeft=5
+t=24 s=8 threadsLeft=4
+t=24 s=4 threadsLeft=3
+t=24 s=7 threadsLeft=2
+t=24 s=3 threadsLeft=1
+t=24 s=4 threadsLeft=0
+t=24 time=0.000554
+t=25 s=25 threadsLeft=5
+t=25 s=13 threadsLeft=4
+t=25 s=9 threadsLeft=3
+t=25 s=5 threadsLeft=2
+t=25 s=8 threadsLeft=1
+t=25 s=5 threadsLeft=0
+t=25 time=0.000563
+t=26 s=26 threadsLeft=8
+t=26 s=14 threadsLeft=7
+t=26 s=10 threadsLeft=6
+t=26 s=6 threadsLeft=5
+t=26 s=9 threadsLeft=4
+t=26 s=2 threadsLeft=3
+t=26 s=6 threadsLeft=2
+t=26 s=5 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.000841
+t=27 s=27 threadsLeft=6
+t=27 s=15 threadsLeft=5
+t=27 s=11 threadsLeft=4
+t=27 s=7 threadsLeft=3
+t=27 s=2 threadsLeft=2
+t=27 s=3 threadsLeft=1
+t=27 s=4 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(4,1,1)v_{1}
+t=2 s=2 threadsLeft=0
+t=2 time=0.000182
+t=3 s=3 threadsLeft=0
+t=3 time=0.000337
+t=4 s=4 threadsLeft=1
+t=4 s=2 threadsLeft=0
+t=4 time=0.000365
+t=5 s=5 threadsLeft=1
+t=5 s=2 threadsLeft=0
+t=5 time=0.000304
+t=6 s=6 threadsLeft=1
+t=6 s=3 threadsLeft=0
+t=6 time=0.000283
+t=7 s=7 threadsLeft=0
+t=7 time=0.000264
+t=8 s=8 threadsLeft=1
+t=8 s=2 threadsLeft=0
+t=8 time=0.000302
+t=9 s=9 threadsLeft=1
+t=9 s=2 threadsLeft=0
+t=9 time=0.000324
+t=10 s=10 threadsLeft=2
+t=10 s=2 threadsLeft=1
+t=10 s=3 threadsLeft=0
+t=10 time=0.00031
+t=11 s=11 threadsLeft=2
+t=11 s=4 threadsLeft=1
+t=11 s=3 threadsLeft=0
+t=11 time=0.000328
+t=12 s=12 threadsLeft=1
+t=12 s=3 threadsLeft=0
+t=12 time=0.000318
+t=13 s=13 threadsLeft=1
+t=13 s=4 threadsLeft=0
+t=13 time=0.000335
+t=14 s=14 threadsLeft=2
+t=14 s=2 threadsLeft=1
+t=14 s=5 threadsLeft=0
+t=14 time=0.0003
+t=15 s=15 threadsLeft=1
+t=15 s=3 threadsLeft=0
+t=15 time=0.000294
+t=16 s=16 threadsLeft=4
+t=16 s=6 threadsLeft=3
+t=16 s=2 threadsLeft=2
+t=16 s=4 threadsLeft=1
+t=16 s=5 threadsLeft=0
+t=16 time=0.000421
+t=17 s=17 threadsLeft=4
+t=17 s=5 threadsLeft=3
+t=17 s=6 threadsLeft=2
+t=17 s=2 threadsLeft=1
+t=17 s=3 threadsLeft=0
+t=17 time=0.000414
+t=18 s=18 threadsLeft=6
+t=18 s=6 threadsLeft=5
+t=18 s=7 threadsLeft=4
+t=18 s=2 threadsLeft=3
+t=18 s=2 threadsLeft=2
+t=18 s=3 threadsLeft=1
+t=18 s=4 threadsLeft=0
+t=18 time=0.000426
+t=19 s=19 threadsLeft=5
+t=19 s=7 threadsLeft=4
+t=19 s=3 threadsLeft=3
+t=19 s=2 threadsLeft=2
+t=19 s=5 threadsLeft=1
+t=19 s=4 threadsLeft=0
+t=19 time=0.000402
+t=20 s=20 threadsLeft=7
+t=20 s=8 threadsLeft=6
+t=20 s=4 threadsLeft=5
+t=20 s=6 threadsLeft=4
+t=20 s=2 threadsLeft=3
+t=20 s=5 threadsLeft=2
+t=20 s=3 threadsLeft=1
+t=20 s=5 threadsLeft=0
+t=20 time=0.000619
+t=21 s=21 threadsLeft=6
+t=21 s=9 threadsLeft=5
+t=21 s=5 threadsLeft=4
+t=21 s=3 threadsLeft=3
+t=21 s=6 threadsLeft=2
+t=21 s=3 threadsLeft=1
+t=21 s=4 threadsLeft=0
+t=21 time=0.000645
+t=22 s=22 threadsLeft=8
+t=22 s=10 threadsLeft=7
+t=22 s=6 threadsLeft=6
+t=22 s=7 threadsLeft=5
+t=22 s=6 threadsLeft=4
+t=22 s=3 threadsLeft=3
+t=22 s=5 threadsLeft=2
+t=22 s=4 threadsLeft=1
+t=22 s=4 threadsLeft=0
+t=22 time=0.000657
+t=23 s=23 threadsLeft=6
+t=23 s=11 threadsLeft=5
+t=23 s=7 threadsLeft=4
+t=23 s=8 threadsLeft=3
+t=23 s=7 threadsLeft=2
+t=23 s=6 threadsLeft=1
+t=23 s=5 threadsLeft=0
+t=23 time=0.000748
+t=24 s=24 threadsLeft=6
+t=24 s=12 threadsLeft=5
+t=24 s=8 threadsLeft=4
+t=24 s=4 threadsLeft=3
+t=24 s=7 threadsLeft=2
+t=24 s=3 threadsLeft=1
+t=24 s=4 threadsLeft=0
+t=24 time=0.000498
+t=25 s=25 threadsLeft=5
+t=25 s=13 threadsLeft=4
+t=25 s=9 threadsLeft=3
+t=25 s=5 threadsLeft=2
+t=25 s=8 threadsLeft=1
+t=25 s=5 threadsLeft=0
+t=25 time=0.000593
+t=26 s=26 threadsLeft=8
+t=26 s=14 threadsLeft=7
+t=26 s=10 threadsLeft=6
+t=26 s=6 threadsLeft=5
+t=26 s=9 threadsLeft=4
+t=26 s=2 threadsLeft=3
+t=26 s=6 threadsLeft=2
+t=26 s=5 threadsLeft=1
+t=26 s=4 threadsLeft=0
+t=26 time=0.000824
+t=27 s=27 threadsLeft=6
+t=27 s=15 threadsLeft=5
+t=27 s=11 threadsLeft=4
+t=27 s=7 threadsLeft=3
+t=27 s=2 threadsLeft=2
+t=27 s=3 threadsLeft=1
+t=27 s=4 threadsLeft=0
+Something is wrong: d_inv(x) is not well defined. s=0, xs[i]=Sq(4,1,1)v_{1}

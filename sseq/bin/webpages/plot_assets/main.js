@@ -34,6 +34,7 @@ const CONFIG_DYNAMIC = {
     showLines: "All diff",
 };
 
+
 /************************************************************************
  *                          elements
  ***********************************************************************/
@@ -94,39 +95,6 @@ function windowResize() {
     CONFIG_DYNAMIC.camera_unit_screen_max = Math.min(window.innerWidth, window.innerHeight) - 30;
 }
 window.addEventListener("resize", windowResize);
-
-
-/************************************************************************
- *                            custom mapping
- ***********************************************************************/
-
-const names = [
-    {
-        "class":"x_{0,1}^3x_{7,1}",
-        "name": "testing"
-    },
-    {
-        "class":"x_{0,1}^3x_{7,1}v_{0,0}",
-        "name": "testing_new"
-    },
-      {
-        "class":"x_{1,1}x_{7,1}v_{0,0}",
-        "name": "h_{1}h_{3}v_{0,0}"
-    },
-   {
-        "class":"x_{11,5}v_{0,0}",
-        "name": "Ph_{2}v_{0,0}"
-    },
-       {
-        "class":"x_{15,1}v_{0,0}",
-        "name": "h_4v_{0,0}"
-    },
-    {
-        "class":"x_{0,1}x_{7,1}^2v_{0,0}",
-        "name": "$$h_1h_3^2v_{0,0}$$"
-    },
-];
-
 
 /************************************************************************
  *                            camera
@@ -512,12 +480,11 @@ function select_bullet(bullet) {
             let rect_prod = document.getElementById(`rect_prod${j}`);
             rect_prod.setAttribute('x', parseFloat(rect_selected.getAttribute("x")) + parseFloat(rect_prod.dataset.x));
             rect_prod.setAttribute('y', parseFloat(rect_selected.getAttribute("y")) + parseFloat(rect_prod.dataset.y));
-            
         }
         for (const j in prods) {
             for (const i of prods[j]['p']) {
                 const bullet2 = DATA_JSON["bullets"][i];
-                const circle_prod = `<circle class="p" test="see" cx="${bullet2.x}" cy="${bullet2.y}" r="${bullet2['r'] * 1.7}", data-i=${i}></circle>`;
+                const circle_prod = `<circle class="p" cx="${bullet2.x}" cy="${bullet2.y}" r="${bullet2['r'] * 1.7}", data-i=${i}></circle>`;
                 g_prod.insertAdjacentHTML("beforeend", circle_prod);
             }
         }
@@ -532,8 +499,6 @@ function select_bullet(bullet) {
         }
     }
 }
-
-
 
 function on_pointerup(event) {
     /* Remove this pointer from the cache */
@@ -566,18 +531,7 @@ function on_pointerup(event) {
             p_base.innerHTML = `Basis: ${bullet_json['b']}`;
             const str_base = latexBullet(bullet);
             const tex_base = katex.renderToString(str_base, { throwOnError: false });
-            
-            let changed = false;
-            for(let i = 0; i < names.length; i ++) {
-                if(names[i].class === str_base) {
-                    p_latex.innerHTML = names[i].name;
-                    changed = true;
-                }
-            }
-
-            if(!changed) {
-                p_latex.innerHTML = `LaTeX: ${tex_base}`;
-            }
+            p_latex.innerHTML = `LaTeX: ${tex_base}`;
 
             const level = bullet_json['l'];
             if (level === 5000) { p_diff.innerHTML = `Permanent`; }

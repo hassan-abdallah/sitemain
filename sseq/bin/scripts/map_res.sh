@@ -10,4 +10,4 @@ echo "--- Computing maps ---"
 ./Adams map_res Cnu S0 $degree | tee -a Cnu__S0_res.out
 ./Adams map_res Csigma S0 $degree | tee -a Csigma__S0_res.out
 #echo "MO8 MO9 MAP"
-#./Adams map_res mo9 mo8 $degree | tee -a mo9__mo8_res.out
+#./Adams map_res C2 mo9 $degree | tee -a C2_mo9_res.out
